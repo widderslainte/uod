@@ -1,4 +1,4 @@
-#Chlendi
+# Chlendi
 
 The Chlendi are a frail olive skinned people who came by sea to the northern coast of Rhiat around 2500 years ago. They were well accustomed to the swamps and damp forests that fed the mouth of the Minkush River and were content to build small villages for their first few centuries. The histories read that the leader was the younger son of the distant royal family, and came here to start his own kingdom, and claim title as the wearer of the "Black Lily Crown". The people organized into small familial clans, most worshiping a few patron spirits. The most prominent of the still extant clans are: Mourning Legions, Everlasting Bog, Spider Trees, Marble Hammer, Bronze Blade, Violet Glory, Noble-light-people, and Mottled Bull. They spread south to conquer Heteri tribe in what is now Vensat, and had many decades of conflict with the Maetah.
 
