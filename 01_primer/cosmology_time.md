@@ -52,6 +52,6 @@ In the north, the Maetah followed a system on 10 months, which corresponede with
 # Extraplanar Realms
 
 ## The Dream Plane
+* The Caul
 ## The Ether
-The Caul
-The Labyrinth
+## The Labyrinth
