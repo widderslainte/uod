@@ -6,7 +6,7 @@ Chlendi Sorcery is inherently tied in with the relgious beliefs and structures o
 
 * Purii Beast Forms
 * Elementaries and other spirits of the Milieu
-* Known Chlendi Spirits
+* [Known Chlendi Spirits](known_chlendi_spirits.md)
 * Archetypical Avatar Forms
 * Genii loci - spirits of places
 * Inanimae spirits of inanimate things
