@@ -44,7 +44,8 @@ Once the Summon spell is cast, there are a number of steps to resolve:
 
 Step 2: Determine the Entity’s Form:
 
-* Follow the original rules as written, with the following modifiers when Chlendi
+* Follow the original rules as written, with the following modifiers when
+  Chlendi
 
 * If you can touch a link to a spirit (grave earth, tree of a the tree spirit,
   etc) make a second saving throw versus magic - if successful choose the
