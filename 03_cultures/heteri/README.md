@@ -26,7 +26,7 @@ The main Heteri tribes: Naggai, Luggai, Polog. There are three or four minor tri
 
 
 ### Cities & Towns
-#### Heteri Polities
+#### Heteri Politics
 
 **Ghikarnaggai:** A modern Heteri nation in Northern Rhiat, bordering on Argaevaligne, Balaconth, and Nipend. Currently in the midst of a civil war between tribal factions. Punluggai: In modern times, a political faction among the Heteri people. The faction arose from a historical Heteri aristocratic lineage. The Punluggai ruled cities and small kingdoms along the southern Blood Coast. They were the first to be conquered when the Mindat Empire expanded north. Other factions allied with the Maldaer and Eschaltlin forces to the north, the same peoples that invaded Heteri lands along the northern Blood Coast centuries earlier. Seeing their kingdoms being destroyed and their fellow Heteri allied with traditional enemies, the Punluggai moved to retake traditional lands, some of which were being occupied by Heteri/Eschaltlin allied peoples.
 
