@@ -1,0 +1,5 @@
+## Maetah Traditional Pantheon
+
+The Maetah pantheon is a confused mix of foreign theology, syncretism, and conceptual changes due to evolving subsistence methods and general cultural change. The original pantheon was a selection of deities brought over by the original ethnic stock, and modified by the acclimation to the geography of settlers. The southern (proper) Maetah, who passed this pantheon to modern peoples, also had a great deal of influence from Heteri (and thus Mindat) religion. When the Chlendi moved in the North Sea plateau, we see two differing syncretic trends: The transformation of Thedine/Tegairne into a monotheistic moral entity and the envelopment of Chlendi spirits into the mythology of the region.
+
+Traditional Maetah theology views bodies of water as a source of entropy and oblivion, and is reflect in the depiction of the Storm Mother who brought vicious attacks upon Maetah coastal communities. When the Chlendi arrived from across the North Seas, they were seen as agents of Oblivion, setting the stage for the later conflict between the societies.
