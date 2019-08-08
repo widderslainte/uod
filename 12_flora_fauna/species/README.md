@@ -3,8 +3,8 @@
 * **Nogs**
 * **Goblins**
 * **The Shnkvarut**
-* Ontomo - Snail / Slug People
-* Vuulrad
+* **Ontomo** - Snail and Slug People
+* **Vuulrad**
 
 ## Other Beasts and Bygones of Interest
 *Not necessarily possessing culture or sentience...*
@@ -21,8 +21,7 @@
 * Silusoog
 * Spawn of Mustyoch
 * 'Unnamed' - Humanoid bird-things in the Dream Realm
-* Vook - pig-sized ground birds bred for eggs and meat.
-* Vullrad - 
+* Vook - pig-sized ground birds bred for eggs and meat. 
 * White Worms
 * **Zhammi** - 10' tall, eight-limbed beasts, who walk on four legs, with horns, sporadic clothing, and smooth blue-gray skin.
 * **Zom** - Amphibious bovine common along the Minkush river. Bred for meat.
