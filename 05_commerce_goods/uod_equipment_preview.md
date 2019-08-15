@@ -3,21 +3,21 @@
 
 ## Outline
 * Money
-* * Starting Money and Goods
-* *  Uod Coinage - Regional
+  * Starting Money and Goods
+  *  Uod Coinage - Regional
 *  General Notes
 *  Avaibility Overview
-* *  Build/Repair/Import/Seasonal
-* *  Village
-* *  Keep
-* *  Regional Town
+  *  Build/Repair/Import/Seasonal
+  *  Village
+  *  Keep
+  *  Regional Town
 * Armor
 *  Weapons
 *  Equipment
-* * Livestock
-* *  Goods
+  * Livestock
+  *  Goods
 *  Services
-* * Temple Services & Magic
+  * Temple Services & Magic
 ----------
 
 ## Money
@@ -46,12 +46,12 @@
 | Light           | 25 sp   | 50sp  | 7  |
 | Medium          | 100sp   | --    | 5  |
 | Heavy           | 1,000sp | --    | 3  |
-| Shield          | 10sp    | 25sp  | -2 |
-| Helmet          | 5sp     | 10sp  | \* |
-| -- | -- | -- | -- |
-|Breast & Back |  --   | 50gp  |  +4|
-|Brigadine |  -- |   45gp |   +4|
-|Buff Coat |  -- |   4gp  | +1|
+| Shield          | 10sp    | 25sp  | -2 :|
+| Helmet          | 5sp     | 10sp  | \* 
+| --              | --      | --    | -- 
+|Breast & Back    |  --     | 50gp  |  +4
+|Brigadine        |  --     | 45gp  |  +4
+|Buff Coat        |  --     |  4gp  | +1 
 |Codpiece, mundane  | --   | 1gp |  +0|
 |Cloak |  8sp |  5sp  | +1|
 |Furs  |  5gp |  5gp  | +2|
