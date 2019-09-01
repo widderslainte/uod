@@ -1,9 +1,9 @@
 # General Information
 The Rhiat is the central continent (for gaming purposes) on the planet. It is located on the second planet of of the solar system, Uod, which by convention is reasonably similar to the Earth in the geological and astronomical sense. Both commoners and astronomers refer to the planet as Uod in a casual manner, just as we toss around the word "Earth". The Chlendi, original astrologers in the Rhiat, saw the universe as a system of spheres and planes. The stars were magical points on the sphere that surrounded Uod, while the Sun and other planets existed in their own spheres.
 
-* Map
-* Cosmology, Astronomy, & Time
-* **Glossary** - Search the wiki for a term (Chlendi, Dr. Thoad), then try here for terms that may not have a full entry.
+* [Map](./rhiat.jpg)
+* [Cosmology, Astronomy, & Time](./cosmology_time.md)
+* [**Glossary**](./glossary.md) - Search the wiki for a term (Chlendi, Dr. Thoad), then try here for terms that may not have a full entry.
 
 ## General History
 The year is 3042. The Rhiat has been occupied by the Heteri people as long as anyone can remember. The Maetah arrived from the north 1500 years ago, and the Chlendi 500 years later. When the Mindat people came from the south, conquering numerous Heteri city-states, the Chlendi and Maetah allied as the Esklatli 'Empire', and drove back the Mindat. After over a thousand years the Eskla pact dissolved through succession, outside threats, and interenal apathy. The Esklarli 'officially' dissolved two hundred years ago, and most of the major nations of the Rhiat were at one time provinces within the Eskla.
