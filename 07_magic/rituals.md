@@ -13,3 +13,8 @@ _Being an uncategorized listing of rites used in varies traditions):_
 * Homunculus
 * **Golem Forumla** - creates a statue made of clay and blood, which will reanimate upon command.
 * Capture Fleeing Soul
+* Corrupt Unborn
+* Transfer Spirit to Unborn
+* Chain Soul (to object)
+* Maggot Eruption
+* Master of the Waves and Leaves
