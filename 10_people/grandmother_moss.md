@@ -1,0 +1,15 @@
+# Grandmother Moss
+
+Grandmother Moss lives on the edge of the "Boglai" Jungle just beyond the Ghikarn Colony of Tuloi. She was an original resident of the Mindat coastal community and is one of the last remaining of her people in the areas.  
+
+Grandmother Moss lives with her granddaughter, Ahko, and is protective of her to a level bordering on abusive.  She sees to Ahko's studies, putting her on the path to Mindat Academia (including the broad brimmed hat).  She trusts her granddaughter's judgement and skills enough to let her roam a few miles distant from their home, but only when her studies are complete. They live together in a small stilt-raised hut obscured by approachable directions by heavy, cultivated foliage.  They are served by a nog, Pilk, who lives under the hut with his pet pitchfork and tends to gardening and manual labor.
+
+Grandmother Moss appears as a weather-worn elderly Mindat woman, who is relatively spry for her age, despite failing sigh and use of a cane.  She chain smokes casually rolled cigars from the locally gathered tobacco and will claim that the habit, along clouds of incense and excessively smoky cooking methods help keep insects at bay.
+
+She is suspicious at best of Chlendi and will only deal with Heteri upon the vouchsafe of a trusted party.  Regardless of background, she is antagonistically hospitable to others per the customs of her people.  She asserts dominance over guests with humorous insults and unquestioning delegation of all manner of work - gather fruit, tending pots, butchering game, even assisting the nog.  Grandmother Moss will cook and eat almost anything, testing her guest's limits of hospitality by serving delicious meals consisting of revolting ingredients.
+
+To those she deems safe, she can be a wealth of knowledge and help.  While proclaiming ignorance of any of the Mindat military activity and facilities, she knows locations of the old abbey, school, and trails between them and old Mindat residential areas and those of various lizardfolk groups. The movement of hunters and others heading west into the jungle rarely escape her knowledge along with migratory herds and larger animal lairs. In exchange for favors or goods, she can also prepare a mix of ashes and pungent herbs to speed the recovery from wounds and common jungle afflictions.
+
+
+
+"Grandfather" still lives in the area is on amicable terms with her, though they only communicate through Ahko's visits.  They see each other as bearing some responsibility for the failure of the local Mindat community and the deaths of Ahko's parents (which neither will speak off).  If Grandmother Moss is questioned regarding her estranged spouse, she will attempt to change the subject and say little more than "has a good heart, but cared more for his studies than his family or his people."
