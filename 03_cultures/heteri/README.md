@@ -42,15 +42,18 @@ Despite the crumbling walls and downtrodden residents, Givos stills welcomes tra
 
 The city is a mix of Eslka and Heteri ethnicities, and most building are small houses of stone and peat, able to withstand the stormy summer season.
 
-**Pulagesh:** Former capitol city of the Heteri lord Fiemlilvev (Femervul) Kugol (during the Third Epoch. After the siege of 400 nights, the city fell to the Mindat, aided by traitors among the Punluggai. This marked the end of third epoch and the worship of the Vapourous Host
+**Pulagesh:** Former capitol city of the Heteri lord Fiemlilvev (Femervul) Kugol (during the Third Epoch. After the siege of 400 nights, the city fell to the Mindat, aided by traitors among the Punluggai. This marked the end of third epoch and the worship of the Vapourous Host.
 
 **Teldepha** 
-Founder: Vuchlos, son of Vuhai Purpose: Built as a fortress to hold the mountain pass into the interior plains. Geography: Set in the hills along Teldush Bay, the city sprawls down toward the docks along the water. On the highest hill sits the ancient fortress keep of Gefef.
+* Founder: Vuchlos, son of Vuhai 
+* Purpose: Built as a fortress to hold the mountain pass into the interior plains. 
+* Geography: Set in the hills along Teldush Bay, the city sprawls down toward the docks along the water. On the highest hill sits the ancient fortress keep of Gefef.
 
 **Vedeldemoush**
-Founder: Melaikayin, rebel Mindat Sorceror-Priest Purpose: Originally a sanctuary and cloister for the Sarpha Cult, it became of strategic purpose after the defection of Melaikayin, who brought with him the Bonewood Scepter, a "royal jewel" of the Emperor.
+* Founder: Melaikayin, rebel Mindat Sorceror-Priest 
+* Purpose: Originally a sanctuary and cloister for the Sarpha Cult, it became of strategic purpose after the defection of Melaikayin, who brought with him the Bonewood Scepter, a "royal jewel" of the Emperor.
 
-**Dunzeldaryn** - captured from Mindat. Military fortress and center of the Punluggai revolt
+**Dunzeldaryn** - captured from Mindat. Military fortress and center of the Punluggai revolt.
 
 **Sofegai** - founded by Heteri King. Once glorious city-state fell into squalor during the Mindat invasion. It's central location led to it being ravaged by the civil war. Current Mivuhwul believed to be puppet of organized crime.
 

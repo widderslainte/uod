@@ -2,10 +2,11 @@
 The Eskla are a mulatto people, the mix of the Chlendi and Maetah cultures, and comprise the majority of peasantry and burgeoning middle class in the central Rhiat.
 
 ## Physiology
-The physiological traits of the Eskla vary as widely as the Maetah and Chlendi peoples, fair or olive skin, shade of brown or blond hair, and a tall, thin build. Being a catch-all classification, a touch of Heteri blood is not uncommon.
+The physiological traits of the Eskla vary as widely as the Maetah and Chlendi peoples, fair or olive skin, shades of brown or blond hair, and a tall, thin build. Being a catch-all classification, a touch of Heteri blood is not uncommon.
 
 ## Social Structures
 Prominent Clans - Being the mixed bloodline of the Rhiat, most Eskla of any prominence will emphasize the clan membership by using traditional names of their Chlendi or Maetah lineage. Most other Eskla, of lower social stature or prominence, take on family names from curious combinations of mundane words, often a mix of their parents surnames. While some may claim clan membership, there is little extended economic or political structure affixed like that of the Chlendi or Heteri clanship, but rather membership in a extended family.
+
 ##  History
 ### The Eskla Empire
 
