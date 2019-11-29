@@ -21,3 +21,15 @@
 * Toasts:
     * "A feast to my enemies!", reply "Hail Utan"
     * "Blessing upon your horse", reply "And upon yours"
+
+### Locations
+* Grand statue of Ushuul I in city center
+* Holy distict domination by banners with the symbols of Hilinavyu
+* Servicehouse of noted Physician and Alchemist, Muphaeus Thoad - a small thatched hut alongside a stone tower on the southern edge of town.
+* Underground tavern
+* Commerce Guild business compound
+* Sorcery Lodges
+
+### Notable Clans
+* Fouled Water - clanhouse
+* Shattered Hoof - clanhouse
