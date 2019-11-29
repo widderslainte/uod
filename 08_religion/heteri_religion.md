@@ -11,7 +11,10 @@
 * Shobok - The poor, the sick, justice
 * Jotesh - Horses, Travel, and Freedom
 
-### Standard Elements
+###
+* Temple sanctums are conical towers
+
+### Standard Mythic Elements
 
 * Creation
 * Divination
