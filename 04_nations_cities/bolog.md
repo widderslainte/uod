@@ -26,7 +26,8 @@
 * Grand statue of Ushuul I in city center
 * Holy distict domination by banners with the symbols of Hilinavyu
 * Servicehouse of noted Physician and Alchemist, Muphaeus Thoad - a small thatched hut alongside a stone tower on the southern edge of town.
-* Underground tavern
+* Underground tavern - relatively common knowledge among criminal and lower class.  Not advertised.
+* "The Pits"
 * Commerce Guild business compound
 * Sorcery Lodges
 
