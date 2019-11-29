@@ -8,7 +8,8 @@ Heteri are increasingly being raised or living in urban environments, but even l
 * You don't consider dogs or horses to be food. Goats, swine, eggs, fowl, and a variety of root vegetables are common ingredients.
 * Killing your own food is not uncommon, and if you're male, you've certainly killed your share on the hunt.
 * You eat around a fire pit, sitting on the floor or a blanket.
-* Wines and ales are common beverages. Smoking pipes during a meal is common, and it is considered impolite not to offer your smoking herbs to others.
+* Wines and ales are common beverages. 
+* Smoking pipes during a meal is common, and it is considered impolite not to offer your smoking herbs to others. Large "barreled" pipes are used, wrapping around the neck to keep arms free while easting.
 * You have an outhouse of some variety. Soil inside your hut/house/tent? Yuck.
 
 ### Work & Travel
