@@ -97,10 +97,7 @@ Ghikarnaggai was unified in 1023 by Nefef, son of Irosk, who married daughters o
 ## Religion
 Legends tell of the ancient worship of the Vundaelad, the Great Serpent, in Heteri and Maetah communities along the North Sea Coast. [metaphor for fishing/living off the sea?] The use of the sea serpent image can be traced back through early maetah/maldaer colonization, and is believed to be imagery and cosmology brough from their homeland We later see this imagery later used by the renegade Heteri king, Sheiluch of Punluggai (an aristocratic dynasty), in his attempts to reconquer traditional Heteri communities along the Blood Coast from Eschaltlin forces. While other factions of the Heteri nobilities supported his goals, rumours abounded about pacts with demons and the Great Serpent. Ancient stories of fishermen appeasing spirits of the ocean were acceptable, but offering the collective soul of the civilization provoked outrage amongst the remaining kingdoms and tribes. None were surprised when Sheiluch vanished amidst a naval attack on Noduan.
 
-
-
-### Pantheon
-
+* [Pantheon](../../08_religion/heteri_religion.md)
 * [Prayercloths](prayer_cloths.md)
 
 #### Religious Movements
