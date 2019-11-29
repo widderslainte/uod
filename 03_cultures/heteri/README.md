@@ -101,7 +101,7 @@ Legends tell of the ancient worship of the Vundaelad, the Great Serpent, in Hete
 
 ### Pantheon
 
-**Prayercloths**
+* [Prayercloths](prayer_cloths.md)
 
 #### Religious Movements
 * **Sarpha Cult**
