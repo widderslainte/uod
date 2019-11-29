@@ -32,5 +32,8 @@
 * Sorcery Lodges
 
 ### Notable Clans
-* Fouled Water - clanhouse
-* Shattered Hoof - clanhouse
+* Fouled Water - Heteri, clanhouse
+* Shattered Hoof - Heteri, clanhouse
+* Smoking Thunder - Heteri, clanhouse
+* Enfer - Eskla, noble villas
+* Guffan - Heteri
