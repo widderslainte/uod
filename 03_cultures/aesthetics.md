@@ -1,8 +1,8 @@
 ## Art
 ## Music
-### Musical Instruments
+* Musical Instruments
 ## Fashion
-### Hats
-### Powdered Wigs
+* [Hats](hats.md)
+* Powdered Wigs
 ### Clothing
 ### Accessories
