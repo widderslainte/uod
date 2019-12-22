@@ -19,7 +19,6 @@ Prayers to Eluus are said at dawn, and weekly worship is done before dawn at the
 
 * Kos - Desert and the Natural World
 * Chuglaior - Spirits and Knowledge
-* Eluus - Fertility and Agriculture
 * Lihoe - Weather and Fortune
 * Bekalas - Wealth and Trade
 * Shobok - The poor, the sick, justice
