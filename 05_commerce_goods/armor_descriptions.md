@@ -89,7 +89,6 @@ _LotFP Reference_
 * Hides, Regional
 * Leather - Light or Studded
 * Maile, Hauberk and Shirt
-* Maile, Plated 
 * Shields
 
 **Weapons:** Bow - short; Caltrop; Crossbow; Dagger (including Jambiya); Dart; Hand axe; Flail; Quarterstaff; Polearm (Billhook, Mancatcher, Military Fork); Sling; Spear; Spear, long; Spiked Club; Staff sling; Sword (Cutlass, Long sword, Short, Tulwar)
@@ -134,7 +133,6 @@ _LotFP Reference_
 * Leather - Light, Cuir Bouilli, or Studded
 * Leather scale armour
 * Maile, Hauberk and Shirt
-* Maile, Plated 
 * Padded
 * Shields
 
