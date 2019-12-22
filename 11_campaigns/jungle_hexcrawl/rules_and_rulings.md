@@ -40,13 +40,8 @@ Rules & Magic".  For items not covered there or in this document, refer back to 
     * We have not been using, but probably should:
     _"When his Hit Points reach 0, the character becomes unable to take any action, and in most cases falls completely unconscious. The character becomes mortally wounded at –3 Hit Points and will die in 1d10 minutes. No healing, magical or otherwise, can prevent death at this point. Death is instantaneous at –4 Hit Points."_
 
+#### Healing
 
-
-Healing
-Languages
-Light and Vision
-Mapping
-Movement and Encumbrance
 
 ### Combat
 * Initiative
@@ -79,32 +74,32 @@ Movement and Encumbrance
 * Buy Equipment
 * Equipment Lists
 ### Adventuring: The Rules of the Game 
-Architecture
-Climbing
-Doors
-Excavations
-Experience Points
-Defeating Enemies
-Recovering Treasure 
-Gaining a Level
-Foraging and Hunting
-Getting Lost
-#### Hazards
-* Ability Score Loss
-* Aging
-* Damage
-* Disease
-* Drugs & Alcohol
-* Falling
-* Poison
-* Starvation 
-* Sleep Deprivation 
-#### Healing
-Languages
-Light and Vision
-Mapping
-Movement and Encumbrance
-* Mounts
+* Architecture
+* Climbing
+* Doors
+* Excavations
+* Experience Points
+    * Defeating Enemies
+    * Recovering Treasure 
+    * Gaining a Level
+* Foraging and Hunting
+* Getting Lost
+* Hazards
+    * Ability Score Loss
+    * Aging
+    * Damage
+    * Disease
+    * Drugs & Alcohol
+    * Falling
+    * Poison
+    * Starvation 
+    * Sleep Deprivation 
+* Healing
+* Languages
+* Light and Vision
+* Mapping
+* Movement and Encumbrance
+    * Mounts
 * Searching
 * Sleight of Hand
 * Stealth
@@ -115,31 +110,32 @@ Movement and Encumbrance
 ### Maritime Adventures
 * No changes
 ### Retainers
-Accountant
-Alchemist 
-Animal Handler 
-Armorer 
-Butler 
-Coachman
-Craftsman
-Guard
-Guide
-Henchman
-Laborer 
-Linkboy 
-Mercenary
-Physician
-Sailor
-Sailor, Captain
-Sailor, Navigator
-Sailor, Oarsman
-Scholar
-Servant
-Slave
-Slave Master
-Spy
-Teamster Hiring Retainers
-When Loyalty Should Be Checked
+* Accountant
+* Alchemist 
+* Animal Handler 
+* Armorer 
+* Butler 
+* Coachman
+* Craftsman 
+* Guard
+* Guide
+* Henchman
+* Laborer 
+* Linkboy 
+* Mercenary
+* Physician
+* Sailor
+* Sailor, Captain
+* Sailor, Navigator
+* Sailor, Oarsman
+* Scholar
+* Servant
+* Slave
+* Slave Master
+* Spy
+* Teamster 
+#### Hiring Retainers
+* When Loyalty Should Be Checked
 ### Property and Finance
 * Property
 * Upkeep
@@ -157,36 +153,36 @@ When Loyalty Should Be Checked
 * Other Combat Issues
 * Unarmed Combat 
 ### Magic
-Clerics
-Beginning Spells
-Preparing Spells Each Day 
-Spell Scrolls
-Writing a Scroll
-Protection Scrolls
-Creating Holy Water
-Researching a Spell
-Time of Magical Activities
-Casting Spells
-Magic-Users
-Beginning Spells
-Preparing Spells Each Day
-Spell Scrolls
-Writing a Scroll
-Transcribing Spells
-From a Scroll to a Spellbook
-From Spellbook to Spellbook
-Researching a Spell
-Creating a Potion 
-Creating a Staff or Wand
-Determine What Spells the Item Will Contain
-Enter the Original Charges 
-Recharging a Staff or Wand 
-Time of Magical Activities
-Casting Spells
-Libraries and Laboratories
-Cleric Spells
-Magic-User Spells
-Spell Descriptions
+#### Clerics
+* Beginning Spells
+* Preparing Spells Each Day 
+* Spell Scrolls
+* Writing a Scroll
+* Protection Scrolls
+* Creating Holy Water
+* Researching a Spell
+* Time of Magical Activities
+* Casting Spells
+#### Magic-Users
+* Beginning Spells
+* Preparing Spells Each Day
+* Spell Scrolls
+* Writing a Scroll
+* Transcribing Spells
+* From a Scroll to a Spellbook
+* From Spellbook to Spellbook
+* Researching a Spell
+* Creating a Potion 
+* Creating a Staff or Wand
+    * Determine What Spells the Item Will Contain
+    * Enter the Original Charges 
+    * Recharging a Staff or Wand 
+    * Time of Magical Activities
+* Casting Spells
+* Libraries and Laboratories
+#### Cleric Spells
+#### Magic-User Spells
+### Spell Descriptions
 ### Appendix
 * Glossary
 * Firearms
