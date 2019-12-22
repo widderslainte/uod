@@ -21,15 +21,12 @@
 ----------
 
 ## Money
-
-
-
 ### Starting Money
 
 ### Uod Coinage - Regional
 
 ### General Notes
-#### Looting and resale
+* Looting and resale
 
 ## Avaibility Overview
 ### Build/Repair/Import/Seasonal
@@ -41,16 +38,11 @@
 
 ## Armor
 
-| Type            | City    | Rural | AC |
-|-----------------|---------|-------|----|
-| Light           | 25 sp   | 50sp  | 7  |
-| Medium          | 100sp   | --    | 5  |
-| Heavy           | 1,000sp | --    | 3  |
-| Shield          | 10sp    | 25sp  | -2 :|
-| Helmet          | 5sp     | 10sp  | \* 
-| --              | --      | --    | -- 
+| Type                 | City  | Rural | AC | Enc (coin) | Enc (slot) |
+|----------------------|-------|-------|----|------------|------------|
+|Armored Mask, Steel   |       | --    |    |            |            |
 |Breast & Back    |  --     | 50gp  |  +4
-|Brigadine        |  --     | 45gp  |  +4
+|Brigandine Armor, Coat |  --     | 45gp  |  +4
 |Buff Coat        |  --     |  4gp  | +1 
 |Codpiece, mundane  | --   | 1gp |  +0|
 |Cloak |  8sp |  5sp  | +1|
@@ -58,13 +50,14 @@
 |Helmet, Various 1 |  --  |  --  |  +1|
 |Helmet, Various 2 |  --  |  --  |  +1|
 |Helmet, Various 3 |  --  |  --  |  +1|
-|Hides, regional   (10gp)    --  |  +3|
-|Lamellar  |  |  |
-|Leather, Cuir Bouilli  | --  |  5gp |  +2|
-|Leather Scale  | -- |   25gp  |  +3|
+|Hides, regional  | (10gp)  |  --  |  +3|
+|Lamellar, Leather  | -- |   25gp  |  +3|
+|Lamellar, Steel  | -- |   60gp  |  +5|
+|Leather, Cuir Bouilli | --  |  5gp |  +2|
 |Maile, Hauberk | --  |  75gp  |  +5|
 |Maile, Plated  | --  |  (400gp) |  +7|
 |Maile, Shirt   | --  |  60gp  |  +4|
+|Padded Gambeson | | |
 |Pitch Jacket   | --  |  3gp  | +1|
 |Shield, large  |35gp | 15gp  | +2|
 |Shield, small  | 20gp | 10gp |   +1|
@@ -73,9 +66,33 @@
 |Studded Leather |  --  |  15gp |   +3|
 
 
+### Helmets
+|Armored Mask, Steel | | |
+|Helmet, Kettle | | |
+|Helmet, Lobster-tail | | |
+|Helmet, Sallet | | |
+|Helmet, Skullcap, Metal | | |
+|Hides, Regional | | |
+
+
+
+
+
+
+
+
+### Reference
+| Type            | City    | Rural | AC |
+|-----------------|---------|-------|----|
+| Light           | 25 sp   | 50sp  | 7  |
+| Medium          | 100sp   | --    | 5  |
+| Heavy           | 1,000sp | --    | 3  |
+| Shield          | 10sp    | 25sp  | -2 |
+| Helmet          | 5sp     | 10sp  | \* |
+
 ### Descriptions
 * Breast & Back - pare of steel plates worn over the chest, often with a soft leather garment underneath. The back plate is typically excluded by cavalry.
-* Brigadine - long coat of leather bands, each studded and embedded with steel plates.
+* Brigandine - long coat of leather bands, each studded and embedded with steel plates.
 * Buff Coat - heavy coat of quilted cloth, often in multiple layers.
 * Codpiece, mundane
 * Cloak - heavy cloth garment of wool, cotton or other material, used hung over offhand arm as shield and for weapon entanglment.
@@ -116,14 +133,19 @@
 |Morningstar||||
 |Net||||
 |Pick, heavy||||
+|--Billhook
 |--Polearm, Generic ||||
+|--Polaxe
+|--Halberd
+|--Guisarme
 |Spear||||
 |Staff||||
+|Sword, Arming
 |Sword, Heteri broad ||||
 |--Sword, long ||||
 |Sword, rapier||||
 |Sword, tulwar||||
-|--Sword, two-handed ||||
+|--Sword, two-handed (Greatsword) ||||
 |Whip |
 | Lance          | 30sp | --    | charge from horseback                      |
 | Polearm        | 30sp | --    |                                            |
@@ -165,6 +187,7 @@
 |Sling Bullet ||||
 |Sling Stone ||||
 |Spear ||||
+|Arrow ||||
 
 ### Firearms
 | **Weapon**  | City | Rural | Special |                                   
@@ -301,7 +324,7 @@ Costs are per day, unless noted. The cost to buy instead of rent is one hundred 
 | *Holy symbol, wood*     | 1sp      | 1cp       |
 | Holy water              | 25sp     | 25sp      |
 | Hourglass               | 100sp    | --        |
-| *Ink*                   | 1cp      | 5cp       |
+| *Ink and Quill*         | 1cp      | 5cp       |
 | Instrument, musical     | > 1sp    | > 5sp     |
 | *Jewelry*               | > 10sp   | > 10sp    |
 | _Ladder, 10'_           | 10sp     | 7sp       |
@@ -326,7 +349,6 @@ Costs are per day, unless noted. The cost to buy instead of rent is one hundred 
 | *Soap*                  | 1cp      | 1cp       |
 | Specialist's tools      | 50sp     | --        |
 | *Spike, iron*           | 3cp      | 5cp       |
-| *Spike, wooden*         | 1cp      | 1cp       |
 | Spyglass                | 250sp    | --        |
 | _Tent, grand_           | 25sp     | --        |
 | _Tent, pavilion_        | 50sp     | --        |
@@ -342,6 +364,62 @@ Costs are per day, unless noted. The cost to buy instead of rent is one hundred 
 
 ## Equipment
 ### Livestock
+#### Burden
+| Animal Cost (gp) | Miles/Day| Movement Rate | Max Encumbrance (Coins) | Notes |
+|------------------|----------|---------------|-------------------------|-----------|
 ### Goods
 ## Services
 ### Temple Services & Magic
+
+### Miscellaneous, Unsorted
+* Rumors 10-60
+* Ads for hires 100sp each
+* potion of mithridate 1000
+* Black Powder Pistol
+* Blunderbuss
+* Heteri Broadsword
+* Sword cane
+caltrops
+nogs
+nogshields |Shield, Nog Coverage | | |
+nog cartography (hirelings)
+pulley (and other simple tools)
+
+
+
+
+
+## Missile Weapons
+| Name  | Cost | Availability | Encumbrance |
+|-------|------|------|----|
+|Bow, Short | | |
+|Bolt, light crossbow | | |
+|Javelin | | |
+|Sling Bullet | | |
+|Arrow (12) | | |
+|Quarrel (12) | | |
+
+
+
+
+# Equipment
+| Name  | Cost | Availability | Encumbrance |
+|-------|------|------|----|
+| Cartographer Nog | | | 
+
+
+
+
+
+
+## Container Capacity
+| Item        | Capacity (Coins) | Capacity (Items) | Reference |
+|-------------|------------------|------------------|-----------|
+| Saddle bags | 300 | 2 | BX
+| Backpack    | 400 | 2 | BX
+| Sack, large | 600 | 3 | BX
+| Sack, small | 200 | 1 | BX
+| Pouch, large| 50  | 0 | AD&D
+| Pouch, small| 25  | 0 | AD&D
+
+* See also, AD&D Companion v1.3
