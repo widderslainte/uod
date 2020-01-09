@@ -73,26 +73,28 @@ _See charts and descriptions below_
 
 ### Armor
 
-|**Armor**			| Rural | City | AC	 | Encumbrance | Max Move | Availability |
-|-------------------|-------|------|-----|-------------|----------|--------------|
+|**Armor**			| Rural | City | AC	 | Encumbrance | Max Move | Availability | Enc (coin) | Enc (slot) |
+|-------------------|-------|------|-----|-------------|----------|--------------|------------|------------|
 | _Clothing Only_	| _-_	| _-_  | _0_ | -	| 120' | _Common_
 | Banded Armour	    |  -	| 100  | 6	 | 350  | 90'  | Common
 | Breast & Back     |  -    |  50  | 4   | 300  | 90'  | Common
 | Buff Coat         |  15   |   4  | 1   | 100  | 120' | Common
-| Brigandine	    |  -    | 120  | 3	 | 350  | 120' | Common
-| Cloak             |   1   |   1  | 1   |  20  | 120' | Common
-| Codpiece, mundane |  -    |   1  | 0   |   0  | 120' | Common
+| Brigandine	    |  -    |  80  | 3	 | 350  | 120' | Common
+| Cloak             |   5   |   5  | 1   |  20  | 120' | Common
+| Codpiece, mundane |  -    |   5  | 0   |   0  | 120' | Common
 | Helmet, Various 1 |  10   |   5  | +1  |   2  | 120' | Common
 | Helmet, Various 2 |  --   |  15  | +1  |   5  | 120' | Common
 | Helmet, Various 3 |  --   |  30  | +1  |  10  | 120' | Common
 | Hides / Fur    	|  10   |  15  | 2	 | 200  | 90'  | Common
-| Lamellar	        |  -	| 110  | 6	 | 200  | 90'  | Common
+| Hides, regional   | (10gp)|  --  | 3   | 175  | 90'  | _Special_
+| Lamellar, Steel   |  -	| 110  | 6	 | 300  | 90'  | Common
+| Lamellar, Leather |  -	| 40   | 3	 | 200  | 90'  | Common
 | Leather, Cuir Bouilli |  20 | 20 | 2	 | 120  | 120' | Common
 | Maile, Hauberk    |  -	|  90  | 5	 | 300  | 90'  | Common
 | Maile, Plated	    |  -	| 800  | 7	 | 450  | 60'  | Common
 | Maile, Shirt      |  -    |  75  | 4   | 250  | 90'  | Common
 | Padded Gambeson	|  4	|   4  | 1	 | 100  | 90'  | Common
-| Pitch Jacket      |  3    |   3  | 2   | 150  | 120' | Common
+| Pitch Jacket      |  3    |   3  | 1   | 150  | 120' | Common
 | Ring  Armour	    |  30	|  30  | 3	 | 350  | 90'  | Common
 | Scale Armour	    |  -	|  45  | 4 	 | 400  | 60'  | Common
 | Shield, Large	    |  -	|  20  | +2	 | 100  | N/A  | Common
@@ -103,18 +105,29 @@ _See charts and descriptions below_
 | Splint Armour	    |  -	|  90  | 6 	 | 400  | 60'  | Common
 | Studded Leather 	|  25	|  25  | 3	 | 200  | 90'  | Common
 | Leather Scale     | --    |  40  | 3   | 250  | 90'  | Common
+    
 
-_LotFP Reference_
-| **Type**      | Rural | City  | AC |
-|---------------|-------|-------|----|
-| Light         | 50    |   25  | 7  |
-| Medium        | --    |  100  | 5  |
-| Heavy         | --    | 1000  | 3  |
-| Shield        | 25    |   10  | -2 |
-| Helmet        | 10    |    5  | \* |
+#### Helmets
+|**Helmets**			| Rural | City | AC	 | Encumbrance | Max Move | Availability | Enc (coin) | Enc (slot) |
+|-------------------|-------|------|-----|-------------|----------|--------------|------------|------------|
+|Armored Mask, Steel | | |
+|Helmet, Kettle | | |
+|Helmet, Lobster-tail | | |
+|Helmet, Sallet | | |
+|Helmet, Skullcap, Metal | | |
+|Hides, Regional | | |
 
 
-### Descriptions
+#### Reference
+| Type            | City    | Rural | AC |
+|-----------------|---------|-------|----|
+| Light           | 25 sp   | 50sp  | 7  |
+| Medium          | 100sp   | --    | 5  |
+| Heavy           | 1,000sp | --    | 3  |
+| Shield          | 10sp    | 25sp  | -2 |
+| Helmet          | 5sp     | 10sp  | \* |
+
+#### Armor Descriptions
 * Breast & Back - pair of steel plates worn over the chest, often with a soft leather garment underneath. The back plate is typically excluded by cavalry.
 * Brigandine - long coat of leather bands, each studded and embedded with steel plates.
 * Buff Coat - heavy coat of quilted cloth, often in multiple layers.
@@ -140,120 +153,68 @@ _LotFP Reference_
 
 #### Melee
 
-
-                                         |
-
-     
-|**Weapon**		                | Rural | City | **Damage** | Encumbrance | Availability |   Special   |
+|**Weapon**		                | Rural | City | **Damage** | Encumbrance | Availability | Special     |
 | ------------------------------|-------|------|------------|-------------|--------------|-------------|
 |Axes:			                |       |      |            |             |              |             |
-| -  War Axe		            |       |  7gp |   1d6/1d8  |             |              |             |
-| -  Great Axe (two-handed)     |       |  10gp|	  1d10  |             |              |             |
-| -  Hand Axe  		         	|       |  4gp |	   1d6  |             |              |             |
-|Bows and Crossbows:            |       |      |            |             |              |             |
-| - Arbalest		            |       | 50gp |       1d8  |             |              |             |
-| -  Crossbow		            |       | 30gp |	   1d6  |             |              |             |
-| - -    Case with 20 Bolts     |       |  2gp |	        |             |              |             |
-| -  Composite Bow   	        |       | 40gp |	   1d6  |             |              |             |
-| -  Longbow   		            |       |  7gp |	   1d6  |             |              |             |
-| -  Shortbow		       	    |       |  3gp |	   1d6  |             |              |             |
-| - -     Quiver with 20 Arrows |  	    |  1gp |            |             |              |             |
-| -  -    1 Silver-Tipped Arrow | 	    |  5gp |            |             |              |             |
-|Flails, Hammers, and Maces:	|       |      |            |             |              |             |
-| -  Club 	      		        |       |  1gp |	   1d4  |             |              |             |
-| -  Flail			            |       |  5gp |   1d6/1d8  |             |              |             |
-| -  Mace			            |       |  5gp |   1d6/1d8  |             |              |             |
-| -  Morning Star (two-handed)  |	    | 10gp |	  1d10  |             |              |             |
-| -  War Hammer 	 		    |       |  5gp |   1d6/1d8  |             |              |             |
-|Spears and Pole Arms           |       |      |            |             |              |             |
-| -  Lance (mounted)		    |   1gp	|      |      1d10  |             |              |             |             |
-| Pick, heavy
-| Halberd
-|        
-| -  Pole Arm (two-handed)	    |   7gp	|	   |      1d10  |             |              |             |
-| -  Poleaxe (two-handed)	    |   8gp	|	   |      1d10  |             |              |             |
-| -  Spear    			        |   3gp |	   |   1d6/1d8  |             |              |             |
-|Swords and Daggers:            |       |      |            |             |              |             |
-| -  Dagger			            |   3gp	|	   |       1d4  |             |              |             |
-| -  Heteri Broadsword
-| -  Sword, Tulwar
-| -  Sword, Long
-| -  Main Gauche
-| -  Rapier
-| -  Silver Dagger		        |  30gp	|	   |       1d4  |             |              |             |
-| -  Short Sword		        |   7gp	|	   |       1d6  |             |              |             |
-| -  Sword 			            |  10gp	|	   |   1d6/1d8  |             |              |             |
-| -  Two-Handed Sword	        |  15gp	|	   |      1d10  |             |              |             |
-|Other Weapons:                 |       |      |            |             |              |             |
-| - Bola			            |   5gp	|	   |       1d2  |             |              |             |
-| - Darts (5)		            |   2gp	|	   |       1d4  |             |              |             |
-| - Net	  			            |   1gp	|	   |        -   |             |              |             |
-| - Sling with 30 Sling Bullets |	2gp	|	   |       1d4  |             |              |             |
-| - Sap	       	  		        |   1gp	|      |       1d4  |             |              |             |
-| - Staff (two-handed)	        |	1gp	|	   |       1d6  |             |              |             |
-| - Whip  			            |   5gp	|	   |       1d2  |             |              |             |
-| - Knuckledusters, Hook, Cestus|       |      |            |
-| - Garotte                     |       |      |            |
-
-*Where two damage values are listed, the first  is for one-handed
- and the second is for two-handed use.
-
-
-
-#### Melee
-
-|**Weapon**		               | Rural | City | **Damage** | Encumbrance | Availability | Special |
-| -----------------------------|-------|------|------------|-------------|--------------|---------|
-| Axe, hand                    | --    | 45   |            |             |              |
-| Axe, war                     | --    | 45   |            |             |              |
-| Knuckledusters, Hook, Cestus | --    | 45   |            |             |              |
-| Club                         | --    | 45   |            |             |              |
-| Dagger                       | --    | 45   |            |             |              |
-| Flail, footman's             | --    | 45   |            |             |              |
-| Garotte                      | --    | 45   |            |             |              |
-| Halberd                      | --    | 45   |            |             |              |
-| Hammer, war                  | --    | 45   |            |             |              |
-| Lance                        | --    | 45   |            |             |              |
-| Mace, footman's              | --    | 45   |            |             |              |
-| Main Gauche                  | --    | 45   |            |             |              |
-| Morningstar                  | --    | 45   |            |             |              |
-| Net                          | --    | 45   |            |             |              |
-| Pick, heavy                  | --    | 45   |            |             |              |
-| Polearm, Generic             | --    | 45   |            |             |              |
-| Poleaxe                      | --    | 45   |            |             |              |
-| Spear                        |  5    |  3   |            |             |              | strike from second rank
-| Staff                        |  5    |  3   |            |             |              |
-| Sword, Heteri broad          | --    | 45   |            |             |              |
-| --Sword, long                | --    | 45   |            |             |              |
-| Sword, rapier                | --    | 45   |            |             |              |
-| Sword, tulwar                | --    | 45   |            |             |              |
-| --Sword, two-handed          | --    | 45   |            |             |              |
-| Whip                         | 10    | 25   |            |             |              | can entangle
-| Lance                        | 30    | --   |            |             |              | charge from horseback
-| Polearm                      | 30    | --   |            |             |              |
-| _Weapon, Minor_              |  5    | 5    |            |             | daggers, knives, etc                      |
-| _Weapon, small_              | 10    | 10   |            |             | short sword, hand axe, etc                |
-| _Weapon, medium_             | 20    | 50   |            |             | arming sword, battle axe, mace, flail, etc  |
-| _Weapon, great_              | 50    | --   |            |             | great axe, longsword, maul, etc           |
-
+| -  War Axe		            |   50  |   30 |   1d6/1d8  |             |              |             |
+| -  Great Axe (two-handed)     |   --  |   40 |	  1d10  |             |              |             |
+| -  Hand Axe  		         	|    8  |    8 |	   1d6  |             |              |             |
+| Cestus, Knuckledusters, Hook  |   --  |   10 |       1d4  |             |              |             |
+| Dagger                        |   10  |   10 |       1d4  |             |              |             |
+| -  Main Gauche                |       |   12 |       1d4  |             |              |             |
+| -  Silver Dagger		        |   	|	30 |       1d4  |             |              |             |
+| Flails, Hammers, and Maces:	|       |      |            |             |              |             |
+| -  Club 	      		        |    5  |   5  |	   1d4  |             |              |             |
+| -  Flail, footman's	        |   25  |  20  |   1d6/1d8  |             |              |             |
+| -  Mace, footman's            |   25  |  20  |   1d6/1d8  |             |              |             |
+| -  Morning Star (two-handed)  |	50  |  25  |	  1d10  |             |              |             |
+| -  War Hammer 	 		    |   50  |  20  |   1d6/1d8  |             |              |             |
+| Garotte                       |   --  |   5  |            |             |              |
+| Lance                         |   --  |  30  |      1d10  |             |              | charge from horseback
+| Net                           |    5  |   3  |            |             |              |
+| Pick, heavy                   |   --  |  45  |            |             |              |
+| Polearms:                     |   --  |  30  |      1d10  |             |              |
+| --Billhook                    |   --  |  40  |            |             |              |
+| --Guisarme                    |   --  |  50  |            |             |              |
+| --Halberd                     |   --  |  50  |            |             |              |
+| --Poleaxe                     |   --  |  45  |            |             |              |
+| --Others                      |   --  |   3  |            |             |              |
+| Spear                         |    8  |   5  |   1d6/1d8  |             |              | strike from second rank
+| Staff                         |    5  |   3  |       1d6  |             |              |
+| Swords                        |       |      |            |             |              |
+| --Heteri broadsord            |   50  |  40  |       1d8  |             |              |
+| --Sword, Arming               |   40  |  20  |       1d6  |             |              |
+| --Sword, Long                 |   --  |  50  |       1d8  |             |              |
+| --Sword, Rapier               |   --  |  45  |       1d8  |             |              |
+| --Sword, Tulwar               |   50  |  30  |       1d8  |             |              |
+| --Sword, Two-handed           |   --  |  50  |      1d10  |             |              |
+| Whip                          |   10  |  25  |       1d2  |             |              | can entangle
+| _Weapon, Minor_               |    5  |   5  |            |             | daggers, knives, etc                      |
+| _Weapon, small_               |   10  |  10  |            |             | short sword, hand axe, etc                |
+| _Weapon, medium_              |   50  |  20  |            |             | arming sword, battle axe, mace, flail, etc|
+| _Weapon, great_               |   --  |  50  |            |             | great axe, longsword, maul, etc           |
 
 #### Ranged
 
-|**Weapon**		              | City | Rural | **Damage** | Encumbrance | Availability | Special |
-| ----------------------------|-------|------|------------|-------------|--------------|--------|
-| Blowgun                     | 5sp      | --       |         |             |              |
-| Bow, long                   | 45sp     | --       |         |             |              |
-| Bow, short                  | 25sp     | 25sp     |         |             |              |
-| Crossbow, heavy             | 30sp     | --       |         |             |              |
-| Crossbow, light             | 25sp     | --       |         |             |              |
-| Rock                        | --       | --       |         |             |              |
-| Sling                       | 1sp      | 5cp      |         |             |              |
-| - Sling Stone               | 1sp      | 5cp      |         |             |              |
-| - Sling Bullet              | 1sp      | 5cp      |         |             |              |
-| Dart                        | 1sp      |          |         |             |              |
-| Spear                       | 5sp      | 3sp      |         |             |              |
-| Other thrown weapons        | as melee | as melee |         |             |              |
-  
+|**Weapon**		                | Rural | City | **Damage** | Encumbrance | Availability | Special     |
+| ------------------------------|-------|------|------------|-------------|--------------|-------------|
+| Blowgun                       |    5  |   5  |       1d2  |             |              |
+| Bow, long                     |   50  |  45  |       1d6  |             |              |
+| Bow, short                    |   25  |  25  |       1d6  |             |              |
+| - Quiver with 12 Arrows       |  	 5  |   5  |            |             |              |             |
+| - 1 Silver-Tipped Arrow       | 	    |   5  |            |             |              |             |
+| Crossbow, light               |   --  |  25  |            |             |              |
+| --Bolt, light crossbow (12)   |       |      |            |             |              |
+| Sling                         |   2   |   2  |            |             |              |
+| - Sling Stone                 |   0   |   0  |       1d3  |             |              |
+| - Sling Bullet (12)           |   3   |   2  |     1d3+1  |             |              |
+| Dart                          |       |   2  |       1d3  |             |              |
+| Crossbow, heavy               |   --  |  40  |            |             |              |
+| --Bolt, heavy crossbow (12)   |       |      |            |             |              |
+| - Arbalest		            |       | 50gp |       1d8  |             |              |             |
+| -  Crossbow		            |       | 30gp |	   1d6  |             |              |             |
+| - -    Case with 20 Bolts     |       |  2gp |	        |             |              |             |
+
 #### Firearms
 |**Weapon**		              | Rural | City | **Damage** | Encumbrance | Availability | Special |
 | ----------------------------|-------|------|------------|-------------|--------------|---------|
@@ -272,12 +233,14 @@ _LotFP Reference_
 | - - Catapult Shot (25lb)    | 	  |   5	 |            |             |              |
 | - - Shot, Pitch (25lb)      |       |  25  |            |             |              |
 
+    
 
 ## General Equipment
 
-| **Item**         | City | Rural | Special                                    |
-|----------------|------|-------|--------------------------------------------|
-| Shield Nog | | | | 
+| **Item**         | City | Rural | Availability | Encumbrance |Special                                    |
+|------------------|------|-------|----------------|--------------|--------------|
+| Shield Nog       | | | | 
+| Cartographer Nog | | | 
 
 ### Clothing
 |**Item**		              | Rural | City | Encumbrance | Availability | Special |
@@ -326,7 +289,7 @@ _LotFP Reference_
 | Boat, raft  | 5        |   5
 | Boat, canoe | 25       |  30
 
-### Barding
+#### Barding
 
 | **Item**        | **Rural** | **City** | AC |
 |-----------------|-----------|----------|----|
@@ -377,6 +340,20 @@ _LotFP Reference_
 
 Costs are per day, unless noted. The cost to buy instead of rent is one hundred times the listed monthly rental price.
 
+### Miscellaneous, Unsorted
+* Rumors 10-60
+* Ads for hires 100sp each
+* potion of mithridate 1000
+* Black Powder Pistol
+* Blunderbuss
+* Heteri Broadsword
+* Sword cane
+* *nogs
+* nogshields 
+* |Shield, Nog Coverage | | |
+* nog cartography (hirelings)
+* pulley (and other simple tools)
+
 ### Miscellaneous
 
 | **Item**                | **City** | **Rural** |
@@ -409,7 +386,7 @@ Costs are per day, unless noted. The cost to buy instead of rent is one hundred 
 | *Holy symbol, wood*     | 1sp      | 1cp       |
 | Holy water              | 25sp     | 25sp      |
 | Hourglass               | 100sp    | --        |
-| *Ink*                   | 1cp      | 5cp       |
+| *Ink and Quill*         | 1cp      | 5cp       |
 | Instrument, musical     | > 1sp    | > 5sp     |
 | *Jewelry*               | > 10sp   | > 10sp    |
 | _Ladder, 10'_           | 10sp     | 7sp       |
@@ -434,7 +411,6 @@ Costs are per day, unless noted. The cost to buy instead of rent is one hundred 
 | *Soap*                  | 1cp      | 1cp       |
 | Specialist's tools      | 50sp     | --        |
 | *Spike, iron*           | 3cp      | 5cp       |
-| *Spike, wooden*         | 1cp      | 1cp       |
 | Spyglass                | 250sp    | --        |
 | _Tent, grand_           | 25sp     | --        |
 | _Tent, pavilion_        | 50sp     | --        |
@@ -566,21 +542,32 @@ Costs are per day, unless noted. The cost to buy instead of rent is one hundred 
 | Stabling (draft/riding horse, one night)	| 2sp-5sp	|
 | Stabling (warhorse, one night) 	  	|	5sp-1gp	|
 
-# Encumbrance
 
+| Item        | Capacity (Coins) | Capacity (Items) | Reference |
+|-------------|------------------|------------------|-----------|
+| Saddle bags | 300 | 2 | BX
+| Backpack    | 400 | 2 | BX
+| Sack, large | 600 | 3 | BX
+| Sack, small | 200 | 1 | BX
+| Pouch, large| 50  | 0 | AD&D
+| Pouch, small| 25  | 0 | AD&D
 
-## Character Movement and Encumbrance
-Encumbrance	   Exploration Movement		Combat Movement		Running Movement
+* See also, AD&D Companion v1.3
 
-Animal/Vehicle Movement and Encumbrance
-Animal/Vehicle 		Exploration Movement		Normal Load	Maximum Load
+## Services
+### Temple Services & Magic
+### Magic
+Spell Availability
+    By level and market
+Scroll Availability
+    By level and market
 
-
-# Followers and Employees
+## Followers and Employees
 Hirelings
     Availability by "Market"
     Pay per Month
     Types and standard equipment
+Nogs
 Henchmen
     Availability by "Market"
     Pay per Month
@@ -592,14 +579,35 @@ Mercenaries
 Specialists
     Pay per month
 
-# Magic
-Spell Availability
-    By level and market
-Scroll Availability
-    By level and market
 
-## Equipment
-### Livestock
-### Goods
-## Services
-### Temple Services & Magic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Encumbrance
+
+
+### Character Movement and Encumbrance
+|Encumbrance	   |Exploration Movement	  |Combat Movement		| Running Movement|
+|------------------|----------|---------------|-------------------------|-----------|
+
+### Animal/Vehicle Movement and Encumbrance
+Animal/Vehicle 		Exploration Movement		Normal Load	Maximum Load|
+|------------------|----------|---------------|-------------------------|-----------|
+
+#### Burden
+| Animal Cost (gp) | Miles/Day| Movement Rate | Max Encumbrance (Coins) | Notes |
+|------------------|----------|---------------|-------------------------|-----------|
+
+#### Container Capacity
