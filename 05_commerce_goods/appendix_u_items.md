@@ -120,7 +120,7 @@ _LotFP Reference_
 
 #### Armor Descriptions
 * Breast & Back - pare of steel plates worn over the chest, often with a soft leather garment underneath. The back plate is typically excluded by cavalry.
-* Brigadine - long coat of leather bands, each studded and embedded with steel plates.
+* Brigandine - long coat of leather bands, each studded and embedded with steel plates.
 * Buff Coat - heavy coat of quilted cloth, often in multiple layers.
 * Codpiece, mundane
 * Cloak - heavy cloth garment of wool, cotton or other material, used hung over offhand arm as shield and for weapon entanglment.
