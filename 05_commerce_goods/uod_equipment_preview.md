@@ -135,7 +135,6 @@ _See charts and descriptions below_
 * Shields - a variety of shapes and sizes, made of wood (often covered with leather or hide) or metal. Large, Small, Small wooden
 * Studded Leather - soft leather, usually with a cuir bouilli breastplate, closely studded with steel rivets.
 
-
 ### Weapons
 
 #### Melee
@@ -231,28 +230,16 @@ _See charts and descriptions below_
 
 ## General Equipment
 
-| **Item**         | City | Rural | Availability | Encumbrance |Special                                    |
-|------------------|------|-------|----------------|--------------|--------------|
-| Shield Nog       | | | | 
-| Cartographer Nog | | | 
-
-
 ### Miscellaneous, Unsorted
 * Rumors 10-60
 * Ads for hires 100sp each
 * potion of mithridate 1000
-* *nogs
-* nogshields 
-* nog cartography (hirelings)
-* pulley (and other simple tools)
 
 ### Miscellaneous
 
 | **Item**                | **City** | **Rural** |
 |-------------------------|----------|-----------|
-| *Air bladder*           | 1sp      | 1sp       |
 | Bedroll                 | 2sp      | 1sp       |
-| Belladona               |          |           |
 | Block & tackle          | 2sp      | 3sp       |
 | Book, blank             | 5sp      | 10sp      |
 | Book, reading           | 10sp     | 20sp      |
@@ -267,13 +254,13 @@ _See charts and descriptions below_
 | Drill                   | 5sp      | 5sp       |
 | Fishing gear            | 1sp      | 1sp       |
 | Flask of lamp oil       | 2sp      | 2sp       |
-| *Garlic*                | 3cp      | 1cp       |
 | Grappling hook          | 5sp      | 10sp      |
+| Hammer                  | 3sp      | 2sp       |
 | Hourglass               | 100sp    | --        |
 | *Ink and Quill*         | 1cp      | 5cp       |
 | Instrument, musical     | > 1sp    | > 5sp     |
 | _Ladder, 10'_           | 10sp     | 7sp       |
-| Lantern                 | 10sp      | 7sp       |
+| Lantern                 | 10sp     | 7sp       |
 | Lard                    | 1cp      | 1cp       |
 | Lock                    | 7sp      | 10sp      |
 | Mallet                  | 3cp      | 3cp       |
@@ -283,22 +270,26 @@ _See charts and descriptions below_
 | *Mirror, silver*        | 30sp     | --        |
 | *Mirror, steel*         | 1sp      | 5sp       |
 | *Nails*                 | 1cp      | 2cp       |
+| Oil, lamp, flask        | 2sp      | 1sp       |
+| Oil, military, flask    |  --      | 10sp      |
 | *Paper*                 | 2cp      | 2cp       |
 | Pick, miner's           | 6sp      | 12sp      |
 | *Pipe*                  | 1sp      | 5cp       |
-| _Pole, 10'_             | 1sp      | 5cp       |
-| _Riding gear_           | 25sp     | 10sp      |
+| Pole, 10'               | 1sp      | 5cp       |
+| Pulley                  | 5sp      | 3sp       |
 | Rope, 50'               | 3sp      | 3sp       |
+| Saddle and Tack (draft) | 25       | 12	     |
+| Saddle and Tack (riding)|	25       | 10        |
+| Saddle and Tack (war)	  |	50       | 50        |
 | Scroll case, leather    | 1sp      | 3sp       |
 | Scroll case, bone       | 5sp      | 15sp      |
 | Shovel                  | 3sp      | 3sp       |
-| *Soap*                  | 1cp      | 1cp       
+| *Soap*                  | 1cp      | 1cp       |
 | *Spike, iron*           | 3cp      | 5cp       |
 | Spyglass                | 250sp    | --        |
-| _Tent, grand_           | 25sp     | --        |
-| _Tent, pavilion_        | 50sp     | --        |
+| Stake and mallets       |  3sp     |  3sp      |
 | _Tent, personal_        | 5sp      | 10sp      |
-| _tent, regular_         | 10sp     | 20sp      |
+| _Rent, regular_         | 10sp     | 20sp      |
 | Thieve's tools          | 50sp     | --        |
 | Tinderbox               | 1sp      | 5sp       |
 | Tobacco                 | 1sp      | 5cp       |
@@ -306,7 +297,6 @@ _See charts and descriptions below_
 | *Vial or bottle, empty* | 5cp      | 7cp       |
 | Waterskin               | 1sp      | 1sp       |
 | *Whistle*               | 1sp      | 1sp       |
-| *Wolvesbane*            | 1sp      | 1cp       |
 
 
 ### Religious Items
@@ -325,6 +315,14 @@ _See charts and descriptions below_
 | Ghostpowder             |          |           |
 | Spiritmask, Chlendi     |          |           |
 
+### Herbs
+| **Item**                | **Rural** | **City** |
+|-------------------------|-----------|----------|
+| Belladona               |  5cp      |  1sp     |
+| Comfrey                 |  3cp      | 10sp     |
+| *Garlic*                |  1cp      |  3cp     |
+| Goldenrod               |  5sp      | 10sp     |
+| *Wolvesbane*            |  1sp      | 10sp     |
 
 ### Clothing
 
@@ -360,10 +358,10 @@ _See charts and descriptions below_
 | Turban, Chlendi             | 	  |	   1 |             |              |         |
 | Wool (cheap, 1 yard)	      | 	  |    6 |             |              |         |
 | Wool (fine, 1 yard)		  |	      |    6 |             |              |         |
-| Clothing, extravagant   | > 20sp   | --        |
-| *Clothing, normal*      | 5sp      | 2sp       |
-| *Clothing, poor*        | 1sp      | 5cp       |
-| Clothing, winter travel | 10sp     | 5sp       
+| Clothing, extravagant       | --    | > 20sp        |
+| *Clothing, normal*          | 2sp   | 5sp       |
+| *Clothing, poor*            | 5cp   | 1sp       |
+| Clothing, winter travel     | 5sp   | 10sp       
 
 ### Containers
 
@@ -371,7 +369,7 @@ _See charts and descriptions below_
 |-------------|-----------|----------|------------------|------------------|-----------|
 | Backpack    |   3       |       2  |           400    |          2       |      BX   |
 | Barrel      |   5       |       3  |                  |                  |           |
-| Chest       |  10       |       5  |                  |                  |           |
+| Chest       |  20       |      10  |                  |                  |           |
 | Pouch, large|   1       |       1  |            50    |        0.5       |     AD&D  |
 | Pouch, small|   1       |       1  |            25    |        0.2       |     AD&D  |
 | Quiver      |  10       |       5  |                  |  24 arrows       |           |
@@ -381,145 +379,97 @@ _See charts and descriptions below_
 
   * See also, AD&D Companion v1.3
 
-### Food
+### Food and Provisions
 
-| **Item**                      | **City** | **Rural** |
-|-------------------------------|----------|-----------|
-| Bottle of Wine/Liquor, Poor   | 5cp      | 2cp       |
-| Bottle of Wine/Liquor, Decent | > 1sp    | > 1sp     |
-| Bottle of Wine/Liquor, Rich   | > 10sp   | --        |
-| Drink, cheap                  | 1cp      | 1cp       |
-| Drink, decent                 | 3cp      | 2cp       |
-| Drink, good                   | 6cp      | 4cp       |
-| Drink, rich                   | > 15sp   | > 10sp    |
-| Meal, fancy                   | 1sp      | 5cp       |
-| Meal, horrid                  | 2cp      | 1cp       |
-| Meal, rich                    | > 15sp   | > 10sp    |
-| Meal, standard                | 5cp      | 3cp       |
-| Rations, iron per day         | 2sp      | 1sp       |
-| Rations, standard per day     | 1sp      | 5cp       |
-| Feed, animal per day          | 1sp      | 5cp       |
-| **Foodstuffs**			  	 |	Cost	|
-| --------------------------|---------- |
-|Ale/Beer (cheap, 3 pints)	  |		1cp		|
-|Ale/Beer (good, 1 pint)		|  		2cp	|
-|Bread (white, 4lb)		  	|	1sp			|
-|Bread (wheat, 8lb)		  	|	1sp			|
-|Bread (coarse, 12lb)		 | 		1sp		|
-|Cheese (1lb)   			  |		5cp			|
-|Cinnamon (clover, pepper, sugar) (1lb)	|	3gp			|
-|Dried Fruit (1lb) 	  	 |		1sp			|
-|Eggs (1 dozen)				|	5cp			|
-|Meal (1 person, poor to feast)		|	1cp-10gp	|
-|Meat (beef, chicken, mutton, or pork, 1lb)	| 1sp |
-|Saffron (1lb)	     	     	      	|	15gp	|
-|Wine (cheap, 1 pint)		|		2cp		|
-|Wine (good, 1 pint)			|	1sp			|
-|Wine (rare, 1 pint)			|	5sp			|
+| **Item**                      | **Rural** | **City** |
+|-------------------------------|-----------|----------|
+| Wine, Bottle - Poor           | 2cp       | 5cp
+| Wine, Bottle - Good           | > 1sp     | >1sp
+| Beer/Ale, Pint - cheap        | 1cp       | 1cp
+| Beer/Ale, Pint - decent       | 2cp       | 3cp
+| Meal, rich                    | > 10sp    | >15sp
+| Meal, standard                | 3cp       | 5cp
+| Rations, iron per day         | 1sp       | 2sp
+| Rations, standard per day     | 5cp       | 1sp
+| Cheese (1lb)   			    |           | 1sp
+| Meat (mutton or pork, 1lb)    |           | 3sp
+| Cinnamon (clover, pepper,1lb) |  	        | 10sp
+| Saffron (1lb)	     	     	|           | 50sp
 
 
-### Animals
+### Animals and Livestock
 
 | **Item**       | **Rural** | **City** |
 |----------------|-----------|----------|
-| Carrier Pigeon | 100sp     | 100
-| Dog            |   2sp     |   1
-| Horse, riding  | 100sp     | 100
-| Horse, war     |  --       | 500
-| Livestock      |   5sp     |  10
-| Mule           |  25sp     |  50
-| Pony           |  50sp     |  75
-| **Livestock**		    |    Cost	|
-| ----------------------|---------- |
-| Chicken (3lb)		    |	1sp	|
-| Cow (550lb)			|  10gp		|
-| Dog (hunting)		    |  10gp	|
-| Dog (war)				|	75gp			|
-| Goat (125lb)			|   3gp			|
-| Hawk (trained)		|	20gp		|
-| Pig (125lb)			|		3gp			|
-| Sheep (80lb)			|		2gp			|
+| Carrier Pigeon |   100     | 100      |
+| Chicken (3lb)	 |	 2cp	 |   5cp    |
+| Cow (550lb)	 |    50	 | 100      |
+| Dog (hunting)	 |     3	 |   3      |
+| Dog (war)		 |	  75	 |  50      |
+| Donkey         |    15     |  15      |
+| Goat (125lb)	 |     1	 |   3      |
+| Hawk (trained) |	 100     |  50      |
+| Horses         |           |          |
+|-- Heavy Draft  |	  75	 | 100      |
+|-- Heavy War    |	  --     | 700  	|
+|-- Medium War   |    --     | 500      |
+|-- Riding       |   100     | 100      |
+|-- Light War	 |    --     | 300      |
+| Mule           |    25     |  50      |
+| Ox (2,000lb)   |	 100	 | 100      |
+| Pig (125lb)	 |	   5	 |  15      |
+| Pony           |    50     |  75      |
+| Sheep (80lb)	 |	   2	 |   5      |
 
-
-### Vehicles
+### Transport
 
 | **Item**    | **Rural** | **City** |
-|-------------|----------|-----------|
-| Cart        | 25       |  50
-| Coach       | --       | 500
-| Wagon       | 75       | 150
-| Chariot     | --       | 250
-| Boat, raft  | 5        |   5
-| Boat, canoe | 25       |  30
-| **Land Transport**		|			Cost		|
-| --------------------------|---------- |
-|Camel					    |	100gp			|
-|Caparison (warhorse)	    |			20gp|
-|Cart (small)			    |		25gp			|
-|Cart (large)			    |		50gp			|
-|Donkey					    |	8gp			|
-|Horses:					|		|
-|-   Heavy Draft Horse		|	        40gp			|
-|-   Heavy Warhorse			|	700gp			|
-|-   Medium Draft Horse		|		30gp		|
-|-   Medium Riding Horse	|			40gp	|
-|-   Medium Warhorse		|	250gp			|
-|-   Light Riding Horse		|		75gp		|
-|-   Light Warhorse			|	150gp			|
-|Mule	 				    |	20gp			|
-|Ox (2,000lb)		            |			40gp	|
-|Saddle and Tack (draft)		|		5gp			|
-|Saddle and Tack (riding)		|	10gp |
-|Saddle and Tack (war)			|	25gp |
-|Saddlebags (leather)			|	5gp	|
-|Stabling (riding horse, one night)|	2sp-5sp		|
-|Stabling (warhorse, one night) 	  |		5sp-1gp			|
-|Wagon	| 	    				200gp			|
+|-------------|-----------|----------|
+| Cart        | 75        |  50      |
+| Coach       | --        | 500      |
+| Wagon       | 250       | 150      |
+| Chariot     | --        | 250      |
+| Boat, raft  | 5         |   5      |
+| Boat, canoe | 25        |  30      |
 
-
-
-| **Maritime Transport**		|	Cost |
-| --------------------------|---------- |
-| Barge/raft		        |		1gp/sq ft |
-| Boat (river)		        |		4000gp |
-| Boat (sailing)	        |			2000gp |
-| Canoe				        |	40gp |
-| Galley (large)	        |			30,000gp |
-| Galley (small)	        |			10,000gp |
-| Galley (war)		        |		60,000gp |
-| Longship			        |	15,000gp |
-| Sailing Ship (large)	    |		20,000gp |
-| Sailing Ship (small)	    |		10,000gp |
-| Troop Transport (large)	|	30,000gp |
-| Troop Transport (small)	|	15,000gp |
+| **Maritime Transport**	|	Cost    |
+| --------------------------|-----------|
+| Barge/raft		        | 1gp/sq ft |
+| Boat (river)		        |	 4000gp |
+| Boat (sailing)	        |    2000gp |
+| Canoe				        |	   40gp |
+| Galley (large)	        |  30,000gp |
+| Galley (small)	        |  10,000gp |
+| Galley (war)		        |  60,000gp |
+| Longship			        |  15,000gp |
+| Sailing Ship (large)	    |  20,000gp |
+| Sailing Ship (small)	    |  10,000gp |
+| Troop Transport (large)	|  30,000gp |
+| Troop Transport (small)	|  15,000gp |
 
 
 ### Lodging
 
-| **Item**                    | **City** | **Rural** |
-|-----------------------------|----------|-----------|
-| Barn                        | --       | 1cp       |
-| Inn, poor                   | 1sp      | 5cp       |
-| Inn, average                | 5sp      | 2sp       |
-| Inn, secure                 | 10sp     | 5sp       |
-| Inn, fancy                  | > 25sp   | > 2sp     |
-| Inn, extravagant            | > 100sp  | > 25sp    |
-| Rent, 1 month (per 10' sq.) | 30sp     | 15sp      |
+| **Item**                    | **Rural** | **City** |
+|-----------------------------|-----------|----------|
+| Barn                        | 1cp       |    --    |
+| Inn, poor                   | 5cp       |    1sp   |
+| Inn, average                | 2sp       |    5sp   |
+| Inn, secure                 | 5sp       |    10sp  |
+| Inn, fancy                  | > 2sp     | >  25sp  |
+| Inn, extravagant            | > 25sp    | > 100sp  |
+| Rent, 1 month (per 10' sq.) | 15sp      |    30sp  |
+| Stabling (riding horse)     |	2sp		  |     5sp  |
+| Stabling (warhorse) 	      |	5sp 	  |    10sp  |
 
 Costs are per day, unless noted. The cost to buy instead of rent is one hundred times the listed monthly rental price.
-| **Lodging**			              |	Cost   |
-| ------------------------------------|---------- |
-| Cottage (wood)				      | 300gp |
-| Inn (one person, one night, slum)   |	1sp |
-| Inn, one person, one night, average)|	5sp |
-| Inn (one person, one night, superb) |	2gp |
-| Hut (wattle)	      	              | 25gp |
-| Hut (wooden)			              |	50gp |
-| Townhouse (stone)		              |	1,200gp |
-| Stabling (draft/riding horse, one night)	| 2sp-5sp	|
-| Stabling (warhorse, one night) 	  	|	5sp-1gp	|
 
-
+| **Structures**			  | **Rural** | **City** |
+| ----------------------------|-----------|----------|
+| Cottage (wood), purchase    |     300gp |    300gp |
+| Hut (wattle), purchase	  |      25gp |     25gp |
+| Hut (wooden), purchase      |	     50gp |     50gp |
+| Townhouse (stone), purchase |	  1,200gp |  1,200gp |
 
 
 ## Services
@@ -531,11 +481,18 @@ Scroll Availability
     By level and market
 
 ## Followers and Employees
+
+| **Item**           | **Rural** | **City** | Availability   |Special       |              |
+|--------------------|-----------|----------|----------------|--------------|--------------|
+| Nogs               |           |          | | | 
+| -- Cartographer Nog |          |          | | | 
+| -- Shield Nog      |           |          | | |
+| -- Nogs, Service   |           |          | | |
+
 Hirelings
     Availability by "Market"
     Pay per Month
     Types and standard equipment
-Nogs
 Henchmen
     Availability by "Market"
     Pay per Month
@@ -546,22 +503,6 @@ Mercenaries
     Types and standard equipment
 Specialists
     Pay per month
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Encumbrance
 
