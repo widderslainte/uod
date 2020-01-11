@@ -1,17 +1,17 @@
 # Commerce
 
-* Currency & Coinage
+* [Currency & Coinage](currency.md)
 * Banking & Credit
 * Trade Routes
 
 # Technology & Goods
 
-* Agriculture & Subsistence
-* Armour
+* [Agriculture & Subsistence](agriculture.md)
+* [Armour](armor_descriptions.md)
 * Construction & Architechture
-* Foodstuffs
-* Medicinal and Alchemical Goods
-* Trade Goods
-* Transportation
+* [Foodstuffs](food.md)
+* [Medicinal and Alchemical Goods](medicine_alchemy.md)
+* [Trade Goods](trade_goods.md)
+* [Transportation](transportation.md)
 * Weapons & Military Innovation
-* Law and Punishment
+* [Law and Punishment](law_punishment.md)
