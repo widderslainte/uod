@@ -7,6 +7,24 @@
 * Feeling lost?  Try the [Uod Primer](/01_primer)
 * Recent Updates:  When Shawn is lazy, check [the blog](http://snailsofuod.blogspot.com/).
 
+## Content Outline
+* [Primer](01_primer/README.md)
+* [Rules](02_rules/README.md)
+* [Cultures](03_cultures/README.md)
+* [Nations & Sovereign Cities](04_nations_cities/README.md)
+* [Economy, Commerce & Goods](05_commerce_goods/README.md)
+* [History](06_history/README.md) 
+* [Magic](07_magic/README.md)
+* [Theology & Religion](08_religion/README.md)
+* [Organizations](09_organizations/README.md)
+* [Individuals of Note](10_people/README.md)
+* [Campaigns](11_campaigns/README.md)
+* [Flora and Fauna](12_flora_fauna/README.md)
+* [Mechanics](80_mechanics/README.md)
+* [Unsorted Notes](98_unsorted/README.md)
+* [Archive](99_archive/README.md)
+
+
 #### General Information
 * Geography and Climatology
 * [Glossary](01_primer/glossary.md)
@@ -35,19 +53,3 @@
 * Player Content
 * [Random Notes](98_unsorted/README.md)
 
-#### Content Outline
-* [Primer](01_primer/README.md)
-* [Rules](02_rules/README.md)
-* [Cultures](03_cultures/README.md)
-* [Nations & Sovereign Cities](04_nations_cities/README.md)
-* [Economy, Commerce & Goods](05_commerce_goods/README.md)
-* [History](06_history/README.md) 
-* [Magic](07_magic/README.md)
-* [Theology & Religion](08_religion/README.md)
-* [Organizations](09_organizations/README.md)
-* [Individuals of Note](10_people/README.md)
-* [Campaigns](11_campaigns/README.md)
-* [Flora and Fauna](12_flora_fauna/README.md)
-* [Mechanics](80_mechanics/README.md)
-* [Unsorted Notes](98_unsorted/README.md)
-* [Archive](99_archive/README.md)
