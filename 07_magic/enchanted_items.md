@@ -1,4 +1,5 @@
 ## Enchanted Items
+* Banner of Glory
 * Book of the Black Shoals
 * Black Lens
 * Five Demon Bag
