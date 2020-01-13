@@ -10,7 +10,7 @@ Traditional Maetah theology views bodies of water as a source of entropy and obl
 _Lord of Life_ 
 The early Maetah saw Musthyoch as one of major deities. All plants and animals (including humanity) were seen as his children and servants, in one manner or another. Particular animals were idolized in beast cults, which were subservient to Musthyoch, and stereotypical qualities of these animals (strength of bulls) were used to represent other gods. For example, Thedine was originally a bull cult, showing the strength and stability of the bull, and the earth with the connection that bulls (and oxen) were used in cultivation. Musthyoch was also known as the ‘Emperor of All Flesh’ and is pictured as a short, bald, blue-skinned humanoid, although this imagery does not pass on to modern times. By the period of the Eschlatli Empire, Musthyoch is idolized as a short, hooded, gray skinned being of undetermined gender. 
 
-In later times (early Maetah colonies on the North Sea plateau), two of these beats cults came to prominence. Lob and Ubo, the sons of Musthyoch, 
+In later times (early Maetah colonies on the North Sea plateau), two of these beats cults came to prominence. Lob and Ubo, the sons of Musthyoch.
 
 ### Lob
 _The Tusked God_

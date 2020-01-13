@@ -1,4 +1,5 @@
 ## Enchanted Items
+* Banner of Glory
 * Book of the Black Shoals
 * Black Lens
 * Five Demon Bag
@@ -7,6 +8,9 @@
 * Blue Vials - Formula againt grevious wounds
 * Charm Againt Dreams
 * Bone Needles - thrown with unerring accuracy, turning black upon striking foes.
+* Bayan Quills
+* Spirit World Quality
+* Old Man's Smoking Leaves
 
 ## Tomes of Magic and Philosophy
 * Book of the Way of the Heavans
