@@ -15,3 +15,6 @@
 * [Transportation](transportation.md)
 * [Weapons & Military Innovation](weapons.md)
 * [Law and Punishment](law_punishment.md)
+
+## Game Notes
+* [Equipment List Preview](uod_equipment_preview.md)

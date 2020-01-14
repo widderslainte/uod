@@ -5,16 +5,16 @@ The Rhiat is the central continent (for gaming purposes) on the planet. It is lo
 
 ### Nearby Celestial Bodies
 
-**Uzhidhomi** - the large green-gray moon, named after the god of Night and Stars.
-**Seraf** - a smaller grey moon which precedes the rising of Uzhidhomi each night.
-**The Sun** - a yellow star 1.5 times the size of Sol.
-**Hyit** - a smaller orange planet, closest to the Sun.
-**Pasdani** - a blue-green planet close to Uod.
-**Ikuyalhu** - green, correspondes to Chlendi city.
-**Khiduomo** - a large red gas giant.
-**Iaovyus** - large red, ringed planet.
-**Nehia** - a medium-size blue-white planet farthest from the Sun.
-**"Black Planet"** - unseen, astrologically posited at edge of solar system by Chlendi scholars.
+* **Uzhidhomi** - the large green-gray moon, named after the god of Night and Stars.
+* **Seraf** - a smaller grey moon which precedes the rising of Uzhidhomi each night.
+* **The Sun** - a yellow star 1.5 times the size of Sol.
+* **Hyit** - a smaller orange planet, closest to the Sun.
+* **Pasdani** - a blue-green planet close to Uod.
+* **Ikuyalhu** - green, correspondes to Chlendi city.
+* **Khiduomo** - a large red gas giant.
+* **Iaovyus** - large red, ringed planet.
+* **Nehia** - a medium-size blue-white planet farthest from the Sun.
+* **"Black Planet"** - unseen, astrologically posited at edge of solar system by Chlendi scholars.
 
 ### Stars & Constellations
 
@@ -27,7 +27,7 @@ The year is 3042. The Rhiat has been occupied by the Heteri people as long as an
 * Hyit (First Day)
 * Pasdani
 * Ikuyalhu
-* Khiduomo(TempleDay)
+* Khiduomo (TempleDay)
 * Iaovyus
 * Nehia (MarketDay)
 * BlackDay
@@ -53,5 +53,7 @@ In the north, the Maetah followed a system on 10 months, which corresponede with
 
 ## The Dream Plane
 * The Caul
+
 ## The Ether
+
 ## The Labyrinth
