@@ -508,15 +508,15 @@ Specialists
 
 
 ### Character Movement and Encumbrance
-|Encumbrance	   |Exploration Movement	  |Combat Movement		| Running Movement|
-|------------------|----------|---------------|-------------------------|-----------|
+|Encumbrance	   |Exploration Movement |Combat Movement | Running Movement|
+|------------------|---------------------|----------------|-----------------|
 
 ### Animal/Vehicle Movement and Encumbrance
-Animal/Vehicle 		Exploration Movement		Normal Load	Maximum Load|
-|------------------|----------|---------------|-------------------------|-----------|
+| Animal/Vehicle |	Exploration Movement | Normal Load | Maximum Load |
+|----------------|-----------------------|-------------|--------------|
 
 #### Burden
 | Animal Cost (gp) | Miles/Day| Movement Rate | Max Encumbrance (Coins) | Notes |
-|------------------|----------|---------------|-------------------------|-----------|
+|------------------|----------|---------------|-------------------------|-------|
 
 #### Container Capacity

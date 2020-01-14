@@ -30,6 +30,7 @@
 * [Glossary](01_primer/glossary.md)
 * [Maps](01_primer/rhiat.jpg)
 * [Species, Sentient and Otherwise](12_flora_fauna/species/READNE.md)
+
 #### Peoples & Places
 * [Cultures](03_cultures/README.md)
 * [Economy, Commerce & Goods](05_commerce_goods/README.md)
@@ -38,11 +39,13 @@
 * [Miscellaneous People and Names](10_people/misc_people.md)
 * [Nations & Sovereign Cities](04_nations_cities/README.md)
 * [Organizations](09_organizations/README.md)
+
 #### Magic, Thought & Belief
 * [Cosmology, Astronomy, & Time](01_primer/cosmology_time.md)
 * [Magic](07_magic/README.md)
 * [Theology & Religion](08_religion/README.md)
 * Aesthetics: Cross-cultural articles on art, music, and fashion
+
 #### Game Content
 * Handouts and Files
 * Character Creation
