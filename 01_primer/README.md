@@ -12,19 +12,20 @@ The year is 3042. The Rhiat has been occupied by the Heteri people as long as an
 **What's Going On**
 * Goblin Invasion
 * Heteri Civil War
-* The Church of Thedine
+* The Church of [Thedine](../08_religion/thedine.md)
 * Guild Wars
 
 # Ethnicities & Cultures
-* **Maetah** - Skin and hair of light colors. Clans traditionally fished and raised animals.
-* **Heteri** - Tribes of burly, brown-skinned horsemen, who settled down into city-states along the Rhiat's southern coast.
-  * If you were Raised Heteri...
-* **Chlendi** - Olive skinned and dark haired. Shamanistic clans who conjure and worship spirits.
-  * If you were Raised Chlendi...
-* **Mindat** - Wiry, dark skinned, academic people to the south.
-  * If you were Raised Mindat...
-* **Eskla** - A mix of Chlendi and Maetah peoples. Little independent culture, but a mix of the original pantheons of both. Traditionally dark hair and a variety of skin tones.
-  * If you were Raised Eskla...
+* [Chlendi](../03_cultures/chlendi/README.md) - Olive skinned and dark haired. Animistic clans who conjure and worship spirits.
+  * [Being Raised Chlendi](../03_cultures/chlendi/raised_chlendi.md)
+* [Eskla](../03_cultures/eskla/README.md) - A mix of Chlendi and Maetah peoples. Little independent culture, but a mix of the original pantheons of both. Traditionally dark hair and a variety of skin tones.
+  * [Being Raised Eskla](../03_cultures/eskla/raised_eskla.md)
+* [Heteri](../03_cultures/heteri/README.md) - Clans of burly, brown-skinned horsemen, who settled down into city-states along the Rhiat's southern coast.
+  * [Being Raised Heteri](../03_cultures/heteri/raised_heteri.md)
+* [Maetah](../03_cultures/maetah/README.md) - Skin and hair of light colors. Clans traditionally fished and practiced animal husbandry.
+  * [Being Raised Maetah](../03_cultures/maetah/raised_maetah.md)
+* [Mindat](../03_cultures/mindat/README.md) - Wiry, dark skinned people of an academic empire of the south.
+  * [Being Raised Mindat](../03_cultures/mindat/raised_mindat.md)
   
 ### Other Sentient Species
 * Nogs - Imp like creatures, similar to goblins, but appear in shades of tan and brown. Used as slaves in Vensat, Ghikarn'nagi and other lands to the South.
