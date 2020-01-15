@@ -10,9 +10,13 @@ Uod: Land of the Lost
 
 5. Nature of magic: You summon spirits to do you bidding, answer questions, or occasionally possess friend or foe.  Alchemical concoctions and potion miscibility.  
 
-6. What's new? What's different? Shawn is making up NPCs or setting details as he goes - just kidding, he always does.  You can play Uod without being a Shaman.
+6. What's new? What's different? Shawn is making up NPCs or setting details as he goes - just kidding, he always does that.  You can play Uod without being a Shaman.
 
-7. System: Lotfp or S&W with my rule additions.  Maybe Wonders and Wickedness
+7. System: Lotfp or S&W with my rule additions.  Maybe Wonders and Wickedness.
 
 8. You shouldn't play this if: You need a strong plot motivation.  You think the setting will be more than 30% different from other Uod swamps.  You think Sleestak are dumb or googled “Shadowrun + Chicago” after reading this and were revolted in a bad way.
 
+### Campaign Reference
+* [Known Hexes](player_hexes.md)
+* [Healing Resource Rules](resources_healing.md)
+* [Collected Rulings and Rule Divergences](rules_and_rulings.md)
