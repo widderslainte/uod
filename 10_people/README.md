@@ -43,6 +43,9 @@ _Listed by their locale of first encounter_
 * Valloy
 * Kolan - Barrister General of the Dream Realms. Sole employer of nogs in the Dream Realm. Can nullify soul contracts. 
 
+## Jungles of the South
+* [Grandmother Moss](grandmother_moss.md)
+
 ## Noble Families
 
 * **Auberge** -- Maetah (Cuvauw, formerly Akklai Point) Being Po'

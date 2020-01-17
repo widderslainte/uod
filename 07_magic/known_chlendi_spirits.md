@@ -15,6 +15,7 @@
 * The Insect King
 * The Faceless Warrior - a young spirit, said to be the captured essense of the dissipated Mindat god of war.
 * [Ghost of the Mark](ghost_of_the_mark.md)
+* Unfiaire - river spirit in the jungles of the south
 
 ### The Hajad
 Master spirits of a sphere or region, as described in [Viljimil's Hierarchy](viljimils_hierarchy.md). The Hajad of Winds rules the spirits of Air, Storms, and Winds across the Rhiat.
