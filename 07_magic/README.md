@@ -21,7 +21,6 @@ Most magical skills are passed down as learned knowledge from teacher to student
 * Methods of Magic
 * Initiation
 * True Names
-* Taint
 * Superstitions
 * Sympathetic Methods
 * Taboos
@@ -30,8 +29,8 @@ Most magical skills are passed down as learned knowledge from teacher to student
 * The Fugue
 * [Enchanted Items](enchanted_items.md)
 * [Viljimil's Hierarchy](viljimils_hierarchy.md)
-* Foci
-* Resevoirs
+
+* [The Vumach Sign](vumach_sign.md)
 
 ## Terminology
 * Incantation
@@ -44,3 +43,6 @@ Most magical skills are passed down as learned knowledge from teacher to student
 * Pen of The Art
 * Chthonic Bond
 * Symbolic Ideas
+* Foci
+* Resevoirs
+* Taint

@@ -20,7 +20,7 @@ Chlendi Sorcery is inherently tied in with the relgious beliefs and structures o
 * Dismissing
 * Querying
 * Warding (Rite and Gesture)
-* [Vijimil's Hierarchy](vijimils_hierarchy.md)
+* [Viljimil's Hierarchy](viljimils_hierarchy.md)
 * Miscellenous Rite: Atejitl's Blessing
 
 #### Chlendi Sorcery Mechanics

@@ -1,0 +1,5 @@
+## Jakinta
+
+The Salt Mines of Jakinta were initially discovered by the Warlord Ivogd.  A dabbler in Chlendi spirit summoning, he roamed the hills west of the new port town, looking for possible sources of amberite.  After a week of fruitless searching, Ivogd and his band had stopped to rest and discuss giving up the pursuit, when they noticed their horses licking stones at the entrance to a crevice.  Slaves were immediatelty brought in, and the enterprise marked the beginning of the regional slave trade from nearby Sofegai (just across the mountains).  A year later, Ivogd's brother Foglais took control of mining operations after Ivogd died in a tunnel collapse.  Many speculated foul play, and the shaft was closed after workers refused to mine in a haunted region.
+
+To this day, Ivogd's Clan of the Studded Reign controls the vast salt mines, now the leading export of Jakinta (just ahead of white steel). 

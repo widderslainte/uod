@@ -32,6 +32,11 @@ _Listed by their locale of first encounter_
 
 ### Vennosat City
 * Ivali Bon - an uncouth, hunchback trader. Ally of the Lamplighters. 
+* [Vennosat Caius](vennosat_caius.md)
+
+### Others
+* [The Magosh of Sofegai](the_magosh_of_sofegai.md)
+* [Miscellanrous People](miscellaneous_people.md)
 
 ## The Dream Realm
 * Johud - Current Ruler of the Dream Realm
@@ -45,6 +50,9 @@ _Listed by their locale of first encounter_
 
 ## Jungles of the South
 * [Grandmother Moss](grandmother_moss.md)
+* The Governor of Tuloi
+* The Wooden Priest
+* Onesuli
 
 ## Noble Families
 

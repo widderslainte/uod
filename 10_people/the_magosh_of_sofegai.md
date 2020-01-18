@@ -1,4 +1,5 @@
 ## The Magosh of Sofegai
+
 "We had been waiting.  The same day we toppled the Mindat control of our cities, he arrived"
 
 The day the Heteri people claimed their independence, The Magosh entered the ruling keep of Sofegai.  He has held that seat as vuhwul of Sofegai for 200 years.
