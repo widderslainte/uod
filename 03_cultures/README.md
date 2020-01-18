@@ -1,4 +1,5 @@
 ## Cultures
+
 * [Chlendi](chlendi/README.md)
   * [Being Raised Chlendi](chlendi/raised_chlendi.md)
   * [Example Chlendi Words](chlendi/chlendi_word.ms)
@@ -10,7 +11,7 @@
   * [Being Raised Heteri](heteri/raised_heteri.md)
   * [Heteri Clans](heteri/heteri_clans.md)
   * [Heteri Names](heteri/heteri_names.md)
-    * [Example Heteri Words](heteri/heteri_word.md)
+  * [Example Heteri Words](heteri/heteri_words.md)
 * [Maetah](maetah/README.md)
   * [Being Raised Maetah](maetah/raised_maetah.md)
   * [Examaple Maetah Words](maetah/maetah_words.md)
