@@ -1,12 +1,12 @@
 # History
 
-* The Eskla Empire
-* The Golden Empire
-* Rhiat Timeline
-* Succession of the Chlendi Kings
+* [The Eskla Empire](eskla_empire.md)
+* [The Golden Empire](golden_empire.md)
+* [Rhiat Timeline](timeline.md)
+* [Succession of the Chlendi Kings](chlendi_kings.md)
 * Hinnok, the Dragon King
 * The New Emperor's Rebellion
-* Yurgen
+* [Yurgen](yurgen.md)
 
 * War of XXXXX
 

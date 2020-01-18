@@ -8,10 +8,11 @@
   * [Givos](givos.md)
 * [Vennosat](vennosat.md)
   * [Vennosat City](vennosat_city.md)
-  * [Noduan](noduan.md))
-* [Ghikarn'gai](ghikarngi.md)
+  * [Noduan](noduan.md)
+* [Ghikarn'gai](ghikarngai.md)
   * [Kushel](kushel.md)
   * [Bolog](bolog.md)
+  * [Kovwos](kovwos.md)
 * [Mindat Empire](mindat_empire.md)
 
 # Sovereign Cities
@@ -23,7 +24,7 @@
   * [Minkaraph](minkaraph.md)
 
 # Other Areas
-* The Plaguelands(plaguelands.md)
+* [The Plaguelands](plaguelands.md)
 * Shn-Kavarush
 * Salphanos
 * Southern Jungles
