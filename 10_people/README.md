@@ -68,6 +68,7 @@ _Listed by their locale of first encounter_
 * **Kohut** -- Heteri
 * **Ifaal** -- Chlendi (Pasdani)
 * **Ilwaen** -- Maetah (Cuvauw) - the late Baron Caus Ilwaen
+* **[Infaux](house_infaux.md)
 * **Iplalvi** -- Chlendi (Jegelumuth)
 * **Revuud** -- Heteri (Cuvauw) - Mining Comte Mlash Revuud
 * **Sabari** -- Chlendi

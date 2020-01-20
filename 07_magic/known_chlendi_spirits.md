@@ -16,6 +16,7 @@
 * The Faceless Warrior - a young spirit, said to be the captured essense of the dissipated Mindat god of war.
 * [Ghost of the Mark](ghost_of_the_mark.md)
 * Unfiaire - river spirit in the jungles of the south
+* **The Tail Prince** - The Tall Prince is a Chlendi Spirit of Vengeance, with teeth of ivory and eyes of gold.  He is said to be the prince of a forgotten Chlendi clan, whose father poisoned him in the night so as to steal the prince's new bride.  To summon him, seek out the poisonous dewbite mushrooms in the deepest swamplands.  Prepare a broth of their stems and drink it at dusk.  When two moons appear as three, place a copper coin in your mouth, count to ten, and swallow it.  If your cause if just, you will awake when your vengeance is done.  The only cost is your little finger. During the 3rd Century, it became fashionable in some southern cities to remove the little finger from one's offhand to give an aura of machismo.  Youths and ne'er-do-wells would graffiti a four-fingered hand on the doors and buildings as a sign of intimidation. 
 
 ### The Hajad
 Master spirits of a sphere or region, as described in [Viljimil's Hierarchy](viljimils_hierarchy.md). The Hajad of Winds rules the spirits of Air, Storms, and Winds across the Rhiat.

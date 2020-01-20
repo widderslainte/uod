@@ -1,0 +1,8 @@
+## House Infaux
+
+House Infaux, or Clan of the Spider Trees in the Chlendi tongue, may be a minor power in Vennosat politics, but this upstart clan looked down upon by the mechant guilds of Vennosat City carries a noble lineage that the wise choose not to ignore.  Qod Infaux were the leading astrologers and advisers to the ruling Clan of the Lily Crown in Asklor and held sway in the councils of Imphomonee and Minkaraph decades ago.  Members of the clan still hold high rank in both the Jewelers' and Clayworkers' guildhalls in the valley.
+
+When the dread events at Minkaraph broke the spine of the Chlendi Empire and Balancont fell under the sway of the Goblin Queen, the clan's economic support collapsed. To maintain their holdings and any semblance of their status, the Clan brokered deals with its "lessers", acquiesced on trade disputes, and committed their progeny to questionable contracts.
+
+The Infaux concentrated their remaining wealth and resources in a massive clan hall in Vennosat City, full of scrolls and tomes, and began funneling their meager income into support an allied sorcerer's lodge, The Lelleivantli.  Together, they have begun purchasing land in ancestral Chlendi areas among the swamps of Ramush and stockpiling amberite from the few extant mines.  The Lelleivantli are know as the foremost academics on Chlendi summoning techniques and dedicated recorders of population migrations along the northern seacoast.
+Donkad Infaux himself, the elder of Clan Infaux, has been seen in the village of Pugshlow buying up old fisheries and ruins for use by lodge he know tutors under.
