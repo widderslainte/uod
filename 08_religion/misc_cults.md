@@ -22,4 +22,4 @@ The path of communion is less traumatic, but more depraved. It is the creation o
 
 Why flesh and blood? It is traditional, and written in the holy books, that flesh and blood are essential to eternal life. But the flesh must be infused with prana or the of the empyreal realm, which is what sustains the body for eternity. For this same, reason, spiritual people and mystics are preferred food sources.
 
-The hermetic ideas of correspondence apply to the Ghul. Effects are obtained through consumptia the act of eating particular body parts. The eyes bring memories, the brain knowledge, the muscles and sinews strength and resistence, the genetalia passion and virility.
+The hermetic ideas of correspondence apply to the Ghul. Effects are obtained through consumptia the act of eating particular body parts. The eyes bring memories, the brain knowledge, the muscles and sinews strength and resistence, the genetilia passion and virility.

@@ -37,10 +37,10 @@ Bekalas is the God of Wealth and Trade.  His number is five and his color blue, 
 #### Kos
 _..._
 
-Kos if the God of the Desert and the Natural World and known as the "Burrower of the Dawn".  His number is 2, his animal the turtle, and his color the orange of the sunrise.
+Kos if the God of the Desert and the Natural World and known as the "Burrower of the Dawn".  His number is 2, his animal the turtle, and his color the orange of the sunrise. Iconography of Kos shows him as hawk in the sky, a turtle superimposed upon a rising sun, or a scaled man with the head of a hawk. 
 
 * Holy Act:
-* Sacrifice:
+* Sacrifice:  Large insects and other invertibrates that dwell below ground.
 
 ### Lihoe 
 _Speaker of the Dusts of Time_
@@ -48,7 +48,7 @@ _Speaker of the Dusts of Time_
 Lihoe is the goddess Weather and Fortune. Her animal is the snake, her color white and her number 12.
 
 * Holy Act:
-* Sacrifice:
+* Sacrifice: Feathers of colorful or large birds, taken without harming the bird.  Rumors in the darker corners of Heteri lands say her priests sacrific humans to turn around misfortune.  During the rebellion, caretakers at many a shrine to Lihoe awoke to find the heads of Mindat soldiers left at their steps.
 
 ### Shobok
 _Thirster of the Ravening Wastelands_
@@ -56,7 +56,7 @@ _Thirster of the Ravening Wastelands_
 Shobok of the goddess of the poor, the sick and diseased, and the patron of those seeking justice or vengeance.  Her animal is the spider, her color is violet, and her number 8.
 
 * Holy Act:
-* Sacrifice:
+* Sacrifice: Birds, especially hawks and birds of prey.
 
 #### Jotesh
 _Eradicator of the Sovok Grasslands_
@@ -64,7 +64,7 @@ _Eradicator of the Sovok Grasslands_
 Jotesh is the God of Horses and Rebellion, and the patron travelers.  His number is 3 and his color is green. Iconography shows him a human faced horse with only 3 legs, one of which was stolen by Bekalas to weigh the scales of fortune. 
 
 * Holy Act:
-* Sacrifice:
+* Sacrifice: Mandrake roots and fine incense
 
 ## Practices
 * Temple sanctums are conical towers covered in hides, skins, and skulls of animals.

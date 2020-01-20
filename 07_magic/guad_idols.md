@@ -1,0 +1,7 @@
+## The Guad Idols
+
+In 2031, just a few years after the Dispersion of the Vaporous Host, a humble artisan in Vedeldermoush presented the Mindat Emperor Guad with a carved set of small wooden idols in likeness of the Imperial family. So struck by their beauty and the carver's story of the time and care that went into their making, he honoured the man with title and a place among the court.  Scant months later, the Emperor Guad, hisvfamily, the artisan and most of the court will slaughtered in a coup, and the palace sacked.
+
+The idols were presumed lost or destroyed until one, that of the Guadvinfant son, appeared in a trove hauled from a shipwreck off the coastvof Givos.  It was passed on to the Preceptor of the Rais-Worm Lodge in Bolog, who purchased it from a gambler unaware of its significance. Study showed that the wood used in the idol was taken from a Sh'n soul tree, probably taken during the artisan's work as a shipwright during Mindat invasion of the Sh'n homeland.  The carving depicts the infant lying on his side, huddled around a lit lantern.
+
+The Preceptor claims he has not aged a day since taking possession of the idol, and his hair and nails remain the same length, even restored each morning after a cutting.  Curious about effects of the other idols, member of his Lodge will pay dearly for any information of their whereabouts.

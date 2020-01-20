@@ -1,0 +1,7 @@
+## Clan of the Sunset Moss
+
+The Clan of the Sunset Moss, or Qod Etherhi, are only of founding clans of the Chlendi settlements of the Rhiat.  They are historically notable for taking the Chlendi crown in one of the few interruptions of the Black Lily dynasty. After an occurrence of the Chlendi Black Pox on the mainland, Iminir of the Black Lily Crown offered himself in sacrifice to Paeglaphiis, Chlendi spirit of disease. Lacking a an heir Iminir's cousin, Shokinnan of the Sunset Moss, took the crown and seat upon the Crooked Throne.  Shokinnan and his clan held title for almost 150 years before an arranged marriage restored the Black Lily to their rightful spot in 1687.
+
+Shokinnan was the founder of Pugshlow, and the clan remains the rulers of the region.  The town's original border can be seen in a ring of swamp graves 3 miles out.  During the border skirmished with the Maetah, the Etherhi claim pacts with a Chlendi War Spirit, Itil-called-the-Vengeful.  They claim the blessing of this spirit allowed acid to pour from the heavens, destroying Maetah crops and driving back their troops.
+
+Shokinnan's ancestors still hold the manorhouse on Eel Row in Pugshlow and remain remain suspicious of the Lelleivantli Lodge's incursions and their alliance with the Infaux.

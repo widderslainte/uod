@@ -1,0 +1,7 @@
+# The Eastern Wastes
+
+Along the frigid coast of the North Sea, where the Gose River drains out from the mountains, sit the Eastern Wastes.  Centered around the ruins of Demenian, a city that the Storm Mother all but wiped from the land in her wrath, are small villages and roving bands of Maetah and mixed blooded people left to the wilderness.  While not as barren as the Plaguelands of the west, the xenophobia of the inhabitants can be just as dangerous.
+
+During the height of the Chlendi Empire, their fear of a return of the grey plague led them to migrate disease populations (no matter how minor) to work camps in the peninsula by Demenian.  As the bureaucracy spread, political enemies and undesirables joined the populace.  As the Chlendi might waned, the villages of the Eastern Wastes were left to their own direction and communication with the cities of (now) Argaevaligne and the Minkush River Valley ended.  The villages became isolated and inbred, and some joined the Kuzak mountain tribes, a Heteri people to the south.
+
+Some say an exile noble built his own domain in the ruins, calling upon Maetah and Chlendi sorceries to extend his life.  Others says the exile did exist, but his magicks brought down the wrath of the Storm Mother which leveled Demenian, and he travels between villages in search of a glimpse of sanity and hospitality.
