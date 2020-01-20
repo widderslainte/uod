@@ -29,20 +29,19 @@ Most magical skills are passed down as learned knowledge from teacher to student
 * The Fugue
 * [Enchanted Items](enchanted_items.md)
 * [Viljimil's Hierarchy](viljimils_hierarchy.md)
-
 * [The Vumach Sign](vumach_sign.md)
 
 ## Terminology
 * Incantation
-* Ritual/Rite
+* [Ritual and Rites](rituals.md)
 * Fetch
-* Omnessence
+* [Omnessence](omnessence.md)
 * Prana - Omnessence derived from a living or organic source
 * Sorceror
 * Practitioner
 * Pen of The Art
-* Chthonic Bond
-* Symbolic Ideas
-* Foci
-* Resevoirs
+* [Chthonic Bond](cthonic_bind.md)
+* [Symbolic Ideas](symbolic_ideas.md)
+* [Foci](foci.md)
+* [Resevoirs](resevoirs.md)
 * Taint

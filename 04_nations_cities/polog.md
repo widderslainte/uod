@@ -1,0 +1,5 @@
+# The Tomb City of Polog
+
+Recent earthquakes have uncovered a pass in the mountains north of Narrosh.  Expeditions from the Commerce Guild have found ruins of a small city or ceremonial center once called Luumb (to the best of their deciphering). Small amounts of gold jewelry have been recovered among the squat towers and domes.  The ruins lack staircases and have numerous murals of red-eyed faces along the ramps that take their place.  Wax-sealed tombs line the interior walls, but no remains have been found in any of the excavations.  Large circular pits are scattered throughout the center, each having scattered remains of humanoid, large quadroped, and small rodent bones.
+
+According to Heteri history, Putuv II ruled the mountain tribes of this region that his father had conquered.  There is no mention in their legends of a city or location called Luumb.

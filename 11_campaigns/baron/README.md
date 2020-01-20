@@ -5,4 +5,5 @@
 * Viktor
 * Nisik
 * Irosk
+* Rikuu
 * Kolya
