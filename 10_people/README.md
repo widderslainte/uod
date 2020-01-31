@@ -36,6 +36,7 @@ _Listed by their locale of first encounter_
 
 ### Others
 * [The Magosh of Sofegai](the_magosh_of_sofegai.md)
+* [Favod the Younger](favod_the_younger.md)
 * [Miscellanrous People](miscellaneous_people.md)
 
 ## The Dream Realm

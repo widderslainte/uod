@@ -169,7 +169,7 @@ _See charts and descriptions below_
 | Staff                         |    5  |   3  |       1d6  |             |              |
 | Swordcane                     |   --  |  50  |       1d6  |             |              |
 | Swords                        |       |      |            |             |              |
-| --Heteri broadsord            |   50  |  30  |       1d8  |             |              |
+| --Heteri Broadsord            |   50  |  30  |       1d8  |             |              |
 | --Sword, Arming               |   50  |  20  |       1d6  |             |              |
 | --Sword, Long                 |   50  |  40  |       1d8  |             |              |
 | --Sword, Rapier               |   --  |  40  |       1d8  |             |              |
@@ -356,12 +356,14 @@ _See charts and descriptions below_
 | Tunic and Pants (armiger)   |		  |   20 |             |              |         |
 | Tunic and Pants (noble)	  |	      |  100 |             |              |         |
 | Turban, Chlendi             | 	  |	   1 |             |              |         |
+| Wig, cheap                  |		  |	   5 |             |              |         |
+| Wig, fine quality           |		  |	  50 |             |              |         |
 | Wool (cheap, 1 yard)	      | 	  |    6 |             |              |         |
 | Wool (fine, 1 yard)		  |	      |    6 |             |              |         |
-| Clothing, extravagant       | --    | > 20sp        |
-| *Clothing, normal*          | 2sp   | 5sp       |
-| *Clothing, poor*            | 5cp   | 1sp       |
-| Clothing, winter travel     | 5sp   | 10sp       
+| *Clothing, extravagant*     | --    | > 20sp        |  |              |         |
+| *Clothing, normal*          | 2sp   | 5sp       |  |              |         |
+| *Clothing, poor*            | 5cp   | 1sp       | |              |         |
+| *Clothing, winter travel*   | 5sp   | 10sp       | |              |         |
 
 ### Containers
 

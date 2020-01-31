@@ -81,3 +81,4 @@ Jotesh is the God of Horses and Rebellion, and the patron travelers.  His number
 * Bone-carved Fetishes
 * Burial Mounds
 * The Afterlife of Utan
+* [Heteri Shamanish](heteri_shamanish.md)
