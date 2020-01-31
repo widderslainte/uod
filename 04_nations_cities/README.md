@@ -13,11 +13,18 @@
   * [Kushel](kushel.md)
   * [Bolog](bolog.md)
   * [Kovwos](kovwos.md)
+  * [Narrosh](narrosh.md)
+  * [Polog](polog.md)
 * [Mindat Empire](mindat_empire.md)
+* [Ramush](ramush.md)
+  * [Asklor](asklor.md)
+  * [Pasdani](pasdani.md)
+  * [Pugshlow](pugshlow.md)
 
 # Sovereign Cities
 * [Cuvauw](cuvauw.md)
 * [Dhugyle](dhugyle.md)
+* [Jakinta](jakinta.md)
 * [Minkush River Valley](minkush_river_valley.md)
   * [Jegeldumuth](jegeldumuth.md)
   * [Imphomonee](imphomonee.md)
