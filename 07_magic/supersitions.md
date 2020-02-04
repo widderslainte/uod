@@ -5,3 +5,8 @@
 * Sneezing
 * Moon colours
 * Weather
+
+### Good Luck or Omen
+
+
+### Bad Luck or Omen
