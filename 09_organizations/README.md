@@ -10,7 +10,7 @@
 * Alchemists' Guild
 * Clayworkers' Guild
 * Commerce Guild - Banking and notes of Currency
-* Jeweler's Guild - Mercantile guild
+* Jeweler's Guild - Mercantile guild - emblem is a crowned gem on field of raspberry purple
 * Guild of Arms
 * Lamplighter's Guild
 * Guild of Royal Engineers
