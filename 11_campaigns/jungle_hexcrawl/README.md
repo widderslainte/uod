@@ -20,3 +20,4 @@ Uod: Land of the Lost
 * [Known Hexes](player_hexes.md)
 * [Healing Resource Rules](resources_healing.md)
 * [Collected Rulings and Rule Divergences](rules_and_rulings.md)
+* [Maetah Witch's Spellbook](spellbook_maetah_witch.md)
