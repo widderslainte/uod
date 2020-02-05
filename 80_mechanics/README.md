@@ -3,6 +3,7 @@
 
 
 ### Spells
+* [Maetah and Traditional Sorcery Spells](maetah_magic_spell_list.md)
 * [Miscellaneous spells](spells_beta.md)
 * [Supplement U, Spells Exerpt](spells.md) - Beta rules exerpt.
 * Spell - [Blood Blessing of Musthyoch](blood_blessing_of_musthyoch.md)

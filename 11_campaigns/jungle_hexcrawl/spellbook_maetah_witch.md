@@ -14,12 +14,13 @@
 * Stinking Cloud
 
 
+
 ### Spell Descriptions
 
 #### Coven's Vengeance
-Magician, 1st Level - _Precept of Fury_
-Duration: Instantaneous
-Range: 50'+ 5'/level
+Magician, 1st Level - _Precept of Fury_  
+Duration: Instantaneous  
+Range: 50'+ 5'/level  
 
 Casting of this spell requires blood - a pint or more for the uninitiated, but just a serious (1hp damage) cut to oneself for those trained in the tradition.  Upon the spilling of blood and whispering of words, bolts of a viscous red-blood like enemy surge forth towards the desired target(s).  The bolts will always hit if the target can be seen, regardless of cover or engagement.  A shield spell or similar will absorb the attack.
 
@@ -27,6 +28,8 @@ Upon hitting, each bolt does 1d4+1 points of damage.  A second cut (or pint) wil
 
 
 #### Foeretch
-Magician, 2st Level - _Precept of Fury_
-Duration: Instantaneous
-Range: 100'
+Magician, 2st Level - _Precept of Fury_  
+Duration: Instantaneous  
+Range: 100'  
+
+Causes foe with range to vomiting up blood and bile, and requires a save vs spells.  If failed they take 2d6 points of damage and can act in the next round as they drog to their knees in agony. A successful saving throw results in half damage and allows the target to act normally.
