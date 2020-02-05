@@ -3,7 +3,9 @@
 
 
 ### Spells
+* [Chlendi Sorcery Spell List](chlendy_sorcery_spell_list.md)
 * [Maetah and Traditional Sorcery Spells](maetah_magic_spell_list.md)
+* [Mindat Vibrationalist Spell List](mindat_vibrationalist.md)
 * [Miscellaneous spells](spells_beta.md)
 * [Supplement U, Spells Exerpt](spells.md) - Beta rules exerpt.
 * Spell - [Blood Blessing of Musthyoch](blood_blessing_of_musthyoch.md)
