@@ -3,15 +3,15 @@
 
 
 ### Spells
-* [Chlendi Sorcery Spell List](chlendy_sorcery_spell_list.md)
+* [Chlendi Sorcery Spell List](chlendi_sorcery_spell_list.md)
 * [Maetah and Traditional Sorcery Spells](maetah_magic_spell_list.md)
 * [Mindat Vibrationalist Spell List](mindat_vibrationalist.md)
 * [Miscellaneous spells](spells_beta.md)
 * [Supplement U, Spells Exerpt](spells.md) - Beta rules exerpt.
-* Spell - [Blood Blessing of Musthyoch](blood_blessing_of_musthyoch.md)
-* Spell - [Strength of the Unplowed Earth](strength_of_the_unplowed_earth.md)
-* Spell - [The Red Mark](the_red_mark.md)
-* Spell - [Uzhidohmi's Vision of Night](uzhidohmis_vision_of_night.md)
+  * Spell - [Blood Blessing of Musthyoch](blood_blessing_of_musthyoch.md)
+  * Spell - [Strength of the Unplowed Earth](strength_of_the_unplowed_earth.md)
+  * Spell - [The Red Mark](the_red_mark.md)
+  * Spell - [Uzhidohmi's Vision of Night](uzhidohmis_vision_of_night.md)
 
 
 
@@ -19,7 +19,7 @@
 * Sanity System
 * Honour System
 * Taint System
-* [Magic Elements](magic_elemens.md)
+* [Magic Elements](magic_elements.md)
 * Fear, Rage, and Noble Triggers
 * Trial Rules
 
