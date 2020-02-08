@@ -2,8 +2,8 @@
 * [The Baron Plot](the_baron_plot.md)
 
 ### Characters
-* Viktor
+* [Viktor](viktor.md)
 * Nisik
-* Irosk
+* [Irosk](irosk.md)
 * Rikuu
-* Kolya
+* [Kolya](kolya.md)
