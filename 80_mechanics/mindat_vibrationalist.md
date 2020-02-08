@@ -1,5 +1,6 @@
 # Mindat Magic
 
+### Elements
 • Mindat initiates wrap arms w/copper to ward off spirits
 • paint sigil on back of book and destroy/burn pages w/in upon ascension is complete
 
