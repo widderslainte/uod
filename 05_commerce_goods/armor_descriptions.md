@@ -1,12 +1,13 @@
 ## Cultural Armor and Weapon Preferences
 
 ### Argaevaligne, Maetah Tribes, and the North
+
 **Armor:**
 * Breast & Back 
 * Buff Coat 
 * Cloak
 * Furs
-* Helmets 
+* Helmets, various and (among tribes) armored mask
 * Hides, Regional
 * Lamellar, Lacquered or Metal
 * Leather - Light, Cuir Bouilli, or Studded
@@ -19,6 +20,7 @@
 **Weapons:** Battle axe; Bow (long bow, short bow); Cestus (including hook, knuckledusters); Crossbow; Dagger (including Main-gauche, Poignard); Dart; Hand axe; Flail; Lance; Mace; Polearm (Bill, Glaive, Halberd, Mancatcher, Poleaxe); Quarterstaff; Sickle, straight; Spear; Spear, long; Sword (Cutlass, Long sword, Sabre, Short); Two-handed axe; Warhammer
 
 ### Traditional Chlendi Lands and Ramush
+
 **Armor:**
 * Breast & Back 
 * Hides, Regional
@@ -34,7 +36,7 @@
 * Buff Coat 
 * Cloak
 * Codpiece, mundane
-* Helmets 
+* Helmets, various 
 * Lamellar, Metal
 * Leather - Light, Cuir Bouilli, or Studded
 * Leather scale armour
@@ -50,7 +52,7 @@
 * Buff Coat 
 * Codpiece, mundane
 * Furs
-* Helmets 
+* Helmets, various (and armored mask in southern regions)
 * Hides, Regional
 * Leather - Cuir Bouilli, or Studded
 * Leather scale armour
@@ -65,7 +67,7 @@
 * Breast & Back 
 * Brigandine 
 * Cloak
-* Helmets 
+* Helmets - various, or armored mask
 * Hide, Zhouna
 * Lamellar, Lacquered or Metal
 * Leather - Light, Cuir Bouilli, or Studded
@@ -99,9 +101,9 @@
 | Brigandine	    |  -    | 120  | 3	 | 350  | 120' | Common
 | Cloak             |   1   |   1  | 1   |  20  | 120' | Common
 | Codpiece, mundane |  -    |   1  | 0   |   0  | 120' | Common
-| Helmet, Various 1 |  10   |   5  | +1  |   2  | 120' | Common
-| Helmet, Various 2 |  --   |  15  | +1  |   5  | 120' | Common
-| Helmet, Various 3 |  --   |  30  | +1  |  10  | 120' | Common
+| Helmet, skullcap  |  10   |   5  | 0   |   2  | 120' | Common
+| Helmet, kettle    |  --   |  15  | +1  |   5  | 120' | Common
+| Helmet, sallet    |  --   |  30  | +1  |  10  | 120' | Common
 | Hides / Fur    	|  10   |  15  | 2	 | 200  | 90'  | Common
 | Lamellar	        |  -	| 110  | 6	 | 200  | 90'  | Common
 | Leather, Cuir Bouilli |  20 | 20 | 2	 | 120  | 120' | Common
@@ -138,9 +140,10 @@
 * Cloak - heavy cloth garment of wool, cotton or other material, used hung over offhand arm as shield and for weapon entanglment.
 * Furs - soft leather or hide coat, tunic, or jacket padded with heavy furs for warmth, treat as padded armour.
 * Helmets
-    * Helmet, Type I
-    * Helmet, Type II
-    * Helmet, Type III
+    * Helmet, Skullcap
+    * Helmet, Kettle
+    * Helmet, Sallet
+    * Armored Mask
 * Hides, Regional
 * N/A -- Hide, Zhouna - stripes of the hide of zhounas, the reptilian riding beasts of the Mindat.
 * Leather, Cuir Bouilli
