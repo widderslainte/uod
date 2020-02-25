@@ -8,6 +8,7 @@
 * [Mindat Vibrationalist Spell List](mindat_vibrationalist.md)
 * [Miscellaneous spells](spells_beta.md)
 * [Supplement U, Spells Exerpt](spells.md) - Beta rules exerpt.
+* [Supplement U, Spell Descriptions](spell_descriptions.md)
   * Spell - [Blood Blessing of Musthyoch](blood_blessing_of_musthyoch.md)
   * Spell - [Strength of the Unplowed Earth](strength_of_the_unplowed_earth.md)
   * Spell - [The Red Mark](the_red_mark.md)
