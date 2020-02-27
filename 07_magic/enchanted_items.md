@@ -11,6 +11,7 @@
 * Bayan Quills
 * Spirit World Quality
 * Old Man's Smoking Leaves
+* Cloak of Green Feathers
 
 ## Tomes of Magic and Philosophy
 * Book of the Way of the Heavans
