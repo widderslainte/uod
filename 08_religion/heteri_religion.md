@@ -5,7 +5,7 @@
 #### Utan the Destroyer
 _God of Warfare and Sovereignty, the Earth and The Sky and Oracle of the Fallen Bleeding Cities_
 
-Utan the Destroyer is the god of Warfare, the Earth & the Sky (in metaphoric terms). All the other deities are considered his slaves. The Heteri people recognize him as the greatest of gods, but hold that he ultimately cares little for his people. Legend has it that Utan was the first chief of the Heteri people and slew the elder gods, gaining immortality by consuming their blood and flesh, and birthed a new family of deities. From them he learned the secrets of the world and taught his people the ways of herding and husbandry. He raised his brothers and sisters, other chieftains up to the heavens to rules beside him.  Utan iconography often includes dogs, specific allythe steppe hound, with its long legs and lion-like mane.
+Utan the Destroyer is the god of Warfare, the Earth & the Sky (in metaphoric terms). All the other deities are considered his slaves. The Heteri people recognize him as the greatest of gods, but holds that he ultimately cares little for his people. Legend has it that Utan was the first chief of the Heteri people and slew the elder gods, gaining immortality by consuming their blood and flesh, and birthed a new family of deities. From them he learned the secrets of the world and taught his people the ways of herding and husbandry. He raised his brothers and sisters, other chieftains up to the heavens to rules beside him.  Utan iconography often includes dogs, specifically the steppe hound, with its long legs and lion-like mane.
 
 Utan favors the bold, those that offer prayer and worship, but do not *need* it. Utan's number is 6, his color yellow, and his favored sacrifices are reptiles or a male goat of adult age. On high holy days, clergy of Utan strip to the waist and paint themselves in yellow ochre. To honor Utan's name, fast in rememberence of the first tribe's famine.
 
@@ -81,4 +81,4 @@ Jotesh is the God of Horses and Rebellion, and the patron travelers.  His number
 * Bone-carved Fetishes
 * Burial Mounds
 * The Afterlife of Utan
-* [Heteri Shamanish](heteri_shamanish.md)
+* [Heteri Shamanism](heteri_shamanism.md)
