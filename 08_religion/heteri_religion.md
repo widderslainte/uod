@@ -9,11 +9,13 @@ Utan the Destroyer is the god of Warfare, the Earth & the Sky (in metaphoric ter
 
 Utan favors the bold, those that offer prayer and worship, but do not *need* it. Utan's number is 6, his color yellow, and his favored sacrifices are reptiles or a male goat of adult age. On high holy days, clergy of Utan strip to the waist and paint themselves in yellow ochre. To honor Utan's name, fast in rememberence of the first tribe's famine.
 
+Symbol: horizontal hemisphere overlapped with splay of 5 vertical lines (like fingers)
+
 #### Hilinavyu 
 The Coal God, governs mining and construction, metals, fires, and the hearth. Hilinavyu was the father of the Gods and keeper of the secrets of the mountains. Priests seek "secrets under the mountains" in Hilinavyu's name and blackness the skin around the eyes when acting in his honor.  Heteri seek out Hilinavyu's blessing over the hearth in a new home or other construction. Large temple complexes devoted to Hilinvayu can be found in Narrosh and Bolog. Status of Hilinavyu are always carved and depict the eyes surrounding by black or represented by shiny coal orbs. His number is nine and his color black. He has no animal, but rather a fire-ravaged tree.
 
-* Holy Act:
-* Sacrifice:
+* Holy Act: Underground bonfire vigil
+* Sacrifice: Small birds and precious metals
 
 #### Eluus
 _..._
