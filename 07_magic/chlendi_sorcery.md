@@ -1,6 +1,6 @@
 # Chlendi Sorcery
 
-Chlendi Sorcery is inherently tied in with the relgious beliefs and structures of Chlendi culture. Being animists, the sorcerers of this culture focus their effors on the summoning of, and interaction with, spirits of various. Their methods focus on binding, commanding, and dispelling empyreal entities and divination or other forms of communication.
+Chlendi Sorcery is inherently tied in with the religious beliefs and structures of Chlendi culture. Being animists, the sorcerers of this culture focus their effors on the summoning of, and interaction with, spirits of various. Their methods focus on binding, commanding, and dispelling empyreal entities and divination or other forms of communication.
 
 ## Chlendi Spirit Forms
 
