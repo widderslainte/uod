@@ -92,7 +92,7 @@ _Ghastly Affair also includes a “Demon Hunter” Class. The class is skilled i
 	  * Remove Blindness/Deafness/Curse/Disease
 	  * Speak with Dead
 	* L4
-      * Discern Shapechanger
+     * Discern Shapechanger
 	  * Dismissal
 	  * Divination
 	  * Dream Sight
@@ -100,7 +100,7 @@ _Ghastly Affair also includes a “Demon Hunter” Class. The class is skilled i
 	  * Less Spirit Ally
 	  * Order’s/Chaos’ Wrath, Unholy Blight
 	  * Snake Barrier
-   	* L5
+   * L5
       * Break Enchantment
       * Commune w/ Greater Spirit
       * Control Winds (via Spirit)

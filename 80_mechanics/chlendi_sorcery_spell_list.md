@@ -5,7 +5,7 @@ Tutelary Spells are available to casters regardless of cultural tradition.
 ### Level 1
 * Detect Magic
 * Light
-* Circle of Protection (from Evil/Chaos)
+* Circle of Protection (from Evil/Chaos, includes Spirits)
 * Identify (AD&D/LotFP)
 * Read Languages
 * Read Magic
@@ -22,8 +22,8 @@ Tutelary Spells are available to casters regardless of cultural tradition.
 ## Chlendi Sorcery
 ### Level 1
 * Call of the Minor Spirits (Chanbara/Flying Swordsman)
+* Chant of The Secret Visions 
 * Detect Aura (chaos/evil/etc)
-* Detect Spirit Creatures
 * Faerie Fire
 * Feather Fall
 * Floating Disc
@@ -32,16 +32,15 @@ Tutelary Spells are available to casters regardless of cultural tradition.
 * Message
 * Obscuring mist (via spirit)
 * Oracle
-* Purge Evil Spirits (Chanbara)
+* Renunciation from the World of Man
 * Sainted Weapon
 * Shield
-* (Spirit) Animal Messenger
-* Spirit Ward (Chanbara)
 * Summon (LotFP)
 * Summon Monster I
+* Summon Observer, Minor Form
 * Summon Spirit of Service (Unseen Servant, LotFP)
 * Trance
-* Ward against undead (detect as well protection from)
+
 
 ### Level 2
 * Ancestral Vengeance

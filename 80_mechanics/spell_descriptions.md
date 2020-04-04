@@ -57,7 +57,32 @@ The spirit will peacably depart upon the sorcerer's command, but remains no long
 | Pledge of Service | +1 | 
 | Caster level 5+ | +1 | 
 
-#### Summon Watcher, Minor Form
+#### Summon Observer, Minor Form
+Magician, Level 1 - _Chlendi Tradition_  
+Range: 10'  
+Duration: 12 hours + 1 hour/level  
+Casting Time: 1 turn  
+Comprehension: 95%  
+
+**Effect:** The sorceror summons a observer - an entity not quite as sentient or powerful as the most minor of spirits.  The minor form of watch only lasts a few hours more than a night, and has the intelligence comparable to a dog. The observer must remain within the sorceror's general range of sight or be rooted to the spot upon which they are evoked.  It can understand basic instructions and silently relay messages back to the sorcerer, waking or bring them out of a meditative state.  They have no corporeal form and cannot physically block or hold anything. Any attack or abjuration that would affect spirits or extraplanar creatures will immediate dissipate the observer spirit.
+
+#### Chant of The Secret Visions 
+Magician, Level 1 - _Chlendi Tradition_  
+Range: 20' + 10'/level  
+Duration: 1 turn + 1 round/level with concentration  
+Casting Time: 1 round  
+Comprehension: 95%  
+
+**Effect:** The sorceror chants while clutching a small piece of Amberite and staring into the sky or clouds, or into the amberite if indoors.  Use of the Chant while indoors is considered an ill omen, and only done as a last resort. While concentrating and staring through the amberite, spirits and spirit creatures are revealed. The spell does not grant into the names, powers, or true form of any entity detected, but calls into being a friendly appearence where the spirits are found - such as affable faces appear in trees or smiles form upon rocks.  Chlendi sorcerors are superstitious, but practical - any translucent gem or crystal of 100sp value or more can be used in place of amberite.
+
+#### Renunciation from the World of Man
+Magician, Level 1 - _Chlendi Tradition_  
+Range: 30'  
+Duration: Instanct  
+Casting Time: 1 round  
+Comprehension: 75% 
+
+**Effect:** Functions almost identically to the _Turn Undead_ spell, except that it only affects a single spirit.  All banished spirits are removed from the **Primeval Natural Plane**.
 
 ## Level 2
 
@@ -67,7 +92,7 @@ Range: 50’
 Duration: 1 turn + 1 round/level  
 Comprehension: 75%  
 
-The sorcerer calls up a spirit from local genius loci to unleash violence.  The spirit (AC 17, HD 2, 1 Attack, Dmg 1d8) takes a visible form representing its nature, but can only attack the sorcerer's foes and will not engage in menial tasks or divination.  The spirit will disperse at the caster’s bidding, upon losing all its hit points, or at the end of the spell’s duration.  It can be banished by normal means.
+**Effect:** The sorcerer calls up a spirit from local genius loci to unleash violence.  The spirit (AC 17, HD 2, 1 Attack, Dmg 1d8) takes a visible form representing its nature, but can only attack the sorcerer's foes and will not engage in menial tasks or divination.  The spirit will disperse at the caster’s bidding, upon losing all its hit points, or at the end of the spell’s duration.  It can be banished by normal means.
 
 
 ## Level 3
