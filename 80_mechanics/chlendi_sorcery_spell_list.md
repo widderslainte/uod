@@ -45,8 +45,9 @@ Tutelary Spells are available to casters regardless of cultural tradition.
 ### Level 2
 * Ancestral Vengeance
 * Augury
+* Call Lesser Spirit of War
 * Calm Emotions
-* Commune with lesser spirit
+* Commune with Lesser spirit
 * Invisibility
 * Invisibility to Spirits
 * Kami’s Vengeance (Chanbara)
@@ -58,7 +59,6 @@ Tutelary Spells are available to casters regardless of cultural tradition.
 * Rebuke
 * Spiritual Barrier (Chanbara)
 * Stinking Cloud
-* Summon Lesser Spirit (Chanbara)
 * Wall of Fog
 
 Reference:
