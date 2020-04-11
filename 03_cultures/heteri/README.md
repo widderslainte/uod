@@ -102,6 +102,9 @@ Legends tell of the ancient worship of the Vundaelad, the Great Serpent, in Hete
 * [Pantheon](../../08_religion/heteri_religion.md)
 * [Prayercloths](prayer_cloths.md)
 
+### Death and Burial
+* Heteri prefer funeral pyres 
+
 #### Religious Movements
 * **Sarpha Cult**
 * **Hilinavyu separatists**

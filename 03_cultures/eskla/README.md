@@ -23,6 +23,8 @@ The Eskla worship a polytheistic pantheon, comprised of mostly Maetah deities, w
 * Domitevati - Judgement, Truth, Death and the Afterlife
 * Itil-called-the-Vengeful - Blessings of War
 
+### Death and Burial
+
 ## Material Culture
 * Architecture
 * Food

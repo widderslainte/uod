@@ -13,6 +13,7 @@
   * Spell - [Strength of the Unplowed Earth](strength_of_the_unplowed_earth.md)
   * Spell - [The Red Mark](the_red_mark.md)
   * Spell - [Uzhidohmi's Vision of Night](uzhidohmis_vision_of_night.md)
+* [Enchanted and Magical Items](enchanted_items.md)
 
 
 

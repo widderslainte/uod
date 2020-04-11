@@ -1,4 +1,5 @@
 # Chlendi Sorcery
+
 ## Tutelary Spells
 Tutelary Spells are available to casters regardless of cultural tradition.
 
@@ -20,8 +21,10 @@ Tutelary Spells are available to casters regardless of cultural tradition.
 * Wizard Lock
 
 ## Chlendi Sorcery
+Custom [spell descriptions](./spell_descriptions.md)
+
 ### Level 1
-* Call of the Minor Spirits (Chanbara/Flying Swordsman)
+* Call of the Minor Spirits
 * Chant of The Secret Visions 
 * Detect Aura (chaos/evil/etc)
 * Faerie Fire
