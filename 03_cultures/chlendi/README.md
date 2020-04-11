@@ -66,6 +66,8 @@ See [Chlendi Religion](../../08_religion/chlendi_religion.md)
 ## Magic
 See [Chlendi Sorcery](../../07_magic/chlendi_sorcery.md)
 
+### Death and Burial
+
 # Material Culture
 The staple of traditional Chlendi garbed is a colourful perfumed turban. The scent is engineered to hide the musk of the swamp as well as repel the abundent insects. The colors are a matter of fashion, and the pin or broach holding it in place is the most prominent symbol of ones economic status. Common colours are Indigo, mossy greens, and browns. Bright colours attract insects. Blue and purple are the signs of wealth or status. For important occasions the turban will be decorate with colorful feathers of local birds.
 

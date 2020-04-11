@@ -17,3 +17,5 @@ Maetah "clan" sigils are simple drawings of lines, dots, and curves, enclosed by
 ## Religion
 * Pantheon
 * Symbol Ribbons
+
+### Death and Burial

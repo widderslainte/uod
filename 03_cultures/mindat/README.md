@@ -30,6 +30,8 @@ A thousand years ago, Mindat sorcerors evoked their deities into corporeal form 
 
 ### Pantheon
 
+### Death and Burial
+
 ## Magick
 
 ### Mindat Wizards 
