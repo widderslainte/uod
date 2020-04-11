@@ -43,7 +43,7 @@ _Many shamans have expert knowledge of medicinal plants native to their area, an
 
 * Infertility of women - _This problem is thought to be cured by obtaining the soul of the expected child_
 
-* Spirits - _Spirits are invisible entities that only shamans can see. They are seen as persons that can assume a human or animal body. Some animals in their physical forms are also seen as spirits such as the case of the eagle, snake, jaguar, and rat. Beliefs related to spirits can explain many different phenomena. For example, the importance of storytelling, or acting as a singer, can be understood better if the whole belief system is examined. A person who can memorize long texts or songs, and play an instrument, may be regarded as the beneficiary of contact with the spirits (e.g. Khanty people)._
+* Spirits - The Heteri believe in spirits - those of the otherworld, nature, and the dead. Most spirits are invisible and can not be seen without the involvement of a Magician (Shaman) or Priest, though many common folk have dreams or get messages from their ancestors. Spirits can possess people and animals, bring curses or bad omens.  All of these call for the work and defense of the shaman.
 
 ### Other practices
 * Entheogens
@@ -60,10 +60,11 @@ _Many shamans have expert knowledge of medicinal plants native to their area, an
 
 #### Heteri Shamanisms vs Priests
 
-Priests reveal the truth of the gods and bring their will to the physical world and bring order to it,
+Priests reveal the truth of the gods and bring their will to the physical world and bring order to it.
 
 Shamans seek understanding and stewardship of both the natural and otherworldly forces.
 
 #### Heteri Shamanism vs Chlendi Sorcery
 
 
+_Italicized sections are quotes from Wikipedia:Shamanism until I get correct wordings substituted._

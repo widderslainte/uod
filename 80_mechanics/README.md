@@ -1,19 +1,22 @@
 # Mechanics
-* [Basic Magic Rules](basic_magic_rules.md)
-
+* [Basic Magic Rules](basic_magic_rules.md) - Spell casting rules larged based on LotFP v1.5/beta rules.
+* [Codifying Magic](codifying_magic.md) - summary of magic techniques and how they map to cultural magical traditions.
 
 ### Spells
-* [Chlendi Sorcery Spell List](chlendi_sorcery_spell_list.md)
-* [Maetah and Traditional Sorcery Spells](maetah_magic_spell_list.md)
-* [Mindat Vibrationalist Spell List](mindat_vibrationalist.md)
-* [Miscellaneous spells](spells_beta.md)
-* [Supplement U, Spells Exerpt](spells.md) - Beta rules exerpt.
+* Rules for Cultural Traditions - specific spell descriptions are listed in **Supplement U** excerpts below.
+  * [Chlendi Sorcery Spell List](chlendi_sorcery_spell_list.md)
+  * [Maetah and Traditional Sorcery Spells](maetah_magic_spell_list.md)
+  * [Mindat Vibrationalist Spell List](mindat_vibrationalist.md)
 * [Supplement U, Spell Descriptions](spell_descriptions.md)
+  * [Supplement U, Spells Exerpt](spells.md) - draft spells exerpt.
+  * [Miscellaneous rituals](rituals.md) - draft rituals excerpt.
   * Spell - [Blood Blessing of Musthyoch](blood_blessing_of_musthyoch.md)
   * Spell - [Strength of the Unplowed Earth](strength_of_the_unplowed_earth.md)
   * Spell - [The Red Mark](the_red_mark.md)
   * Spell - [Uzhidohmi's Vision of Night](uzhidohmis_vision_of_night.md)
-* [Enchanted and Magical Items](enchanted_items.md)
+
+### Magic Materials and Enchanted Items
+* [Enchanted and Items](enchanted_items.md)
 
 
 
@@ -30,6 +33,7 @@
 * [Culture Orientation](culture_orientatin.md)
 
 ### Archive - Story Teller Mechanics
+_older campaigns used StoryTeller 2.0 rules for a while.  This information is preserved for inspirational and reference purposes_
 * Magic Mechanics
 * Second Sight Magic
 * [Merits](merits.md)
