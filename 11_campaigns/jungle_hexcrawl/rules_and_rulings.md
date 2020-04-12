@@ -29,6 +29,7 @@ Rules & Magic".  For items not covered there or in this document, refer back to 
 #### Experience Points
 * Defeating Enemies - XP values from BX (Molday) will generally be used
 * Recovering Treasure 
+  * Magic items kept (but not sold or exchanged) by a player character provide XP in amount determined by the Dungeon Master (roughly based on AD&D Dungeon Master's Guide values)
 * Gaining a Level
 
 #### Foraging and Hunting
@@ -41,7 +42,8 @@ Rules & Magic".  For items not covered there or in this document, refer back to 
     _"When his Hit Points reach 0, the character becomes unable to take any action, and in most cases falls completely unconscious. The character becomes mortally wounded at –3 Hit Points and will die in 1d10 minutes. No healing, magical or otherwise, can prevent death at this point. Death is instantaneous at –4 Hit Points."_
 
 #### Healing
-
+### Retainers
+* Hirelings and other non-classed retainers can gain XP as "0 level" NPCs and become a 1st level characer class after gaining 1000 xp.  Special exception for retainers taken over permanently by a player as their **primary** PC.
 
 ### Combat
 * Initiative
