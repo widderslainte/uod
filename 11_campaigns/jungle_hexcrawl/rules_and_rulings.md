@@ -11,19 +11,19 @@ Rules & Magic".  For items not covered there or in this document, refer back to 
 
 ### Character Creation 
 #### Ancestry
-* Choose from the following, either individually or in combination (mixed ancestry other than Eskla, "ancestrally Heteri, but raised among the Mindat", etc).  Details can be found on Uod sites.
-    * Chlendi
-    * Eskla
-    * Heteri
-    * Maetah
-    * Mindat
+Choose from the following, either individually or in combination (mixed ancestry other than Eskla, "ancestrally Heteri, but raised among the Mindat", etc).  Details can be found on Uod sites.
+* Chlendi
+* Eskla
+* Heteri
+* Maetah
+* Mindat
+
 #### Choose a Character Class
 * Only Cleric, Fighter, Magic-User, and Specialist are available. 
 * Dwarf - Elf, Halfling - No actual dwarves, elves or halflings, but with negotiation you could potentially use their rules in some other fashion (halfling rules for scout,etc).
 
 #### Determine Hit Points
 * Maximum hit points at first level
-* When gaining a level, roll all hit dice and choose if higher ("Empire of Petal Throne method").  Charaters always gain at least 1 hp when gaining a level (up to potential maximum: 3rd level fighter could not have more than 24hp, ignoring consitution bonuses).
 
 #### Choose a Name
 * Choose name based off character's culture - examples in Uod wiki, but make your own that sounds "right" to you compared to other examples.
@@ -32,23 +32,28 @@ Rules & Magic".  For items not covered there or in this document, refer back to 
 * **Coins** - for simplicity and consistency:  
  1 sp = 10 cp   
  1 gp = 10 sp  
- 1 pp = 10 gp = 100 sp  
+ 1 pp = 10 gp = 100 sp
+* Tuloi is considered "rural" for cost and availability purposes.  As the village grows, availability of some items will increase into die roll chance.
 
 
 ### Adventuring: The Rules of the Game 
+
 #### Experience Points
 * Defeating Enemies - XP values from BX (Moldvay/Cook) will generally be used
 * Recovering Treasure 
   * Magic items kept (but not sold or exchanged) by a player character provide XP in amount determined by the Dungeon Master (roughly based on AD&D Dungeon Master's Guide values).
 * Gaining a Level
+  * When gaining a level, roll all hit dice and choose if higher ("Empire of Petal Throne method").  Charaters always gain at least 1 hp when gaining a level (up to potential maximum: 3rd level fighter could not have more than 24hp, ignoring consitution bonuses).
+
 
 #### Foraging and Hunting
 * Travel rules from **Forbidden Lands** are generally used instead
+
 #### Getting Lost
 * Travel rules from **Forbidden Lands** are generally used instead
+
 #### Hazards
-* Damage
-    * We have not been using, but probably should:
+* Damage - We have not been using, but probably should:
     _"When his Hit Points reach 0, the character becomes unable to take any action, and in most cases falls completely unconscious. The character becomes mortally wounded at –3 Hit Points and will die in 1d10 minutes. No healing, magical or otherwise, can prevent death at this point. Death is instantaneous at –4 Hit Points."_
 
 #### Healing
