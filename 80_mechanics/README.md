@@ -12,16 +12,12 @@
 * [Supplement U, Spell Descriptions](spell_descriptions.md)
   * [Supplement U, Spells Excerpt](spells.md) - draft spells excerpt.
   * [Miscellaneous Rituals](rituals.md) - draft rituals excerpt.
-  * Spell - [Blood Blessing of Musthyoch](blood_blessing_of_musthyoch.md)
-  * Spell - [Strength of the Unplowed Earth](strength_of_the_unplowed_earth.md)
-  * Spell - [The Red Mark](the_red_mark.md)
-  * Spell - [Uzhidohmi's Vision of Night](uzhidohmis_vision_of_night.md)
+
+
 
 ### Magic Materials and Enchanted Items
 * [Enchanted and Items](enchanted_items.md)
 * Esoteric Materials
-
-
 
 ### Miscellaneous Elements
 * Sanity System
@@ -31,13 +27,19 @@
 * Fear, Rage, and Noble Triggers
 * Trial Rules
 
-### Aria Mechanics
+### Older Mechanics
+
+#### Aria Mechanics
 * [Culture Aspects](culture_aspects.md)
 * [Culture Orientation](culture_orientatin.md)
 
-### Archive - Story Teller Mechanics
+#### Archive - Story Teller Mechanics
 _older campaigns used StoryTeller 2.0 rules for a while.  This information is preserved for inspirational and reference purposes_
 * Magic Mechanics
+  * Spell - [Blood Blessing of Musthyoch](blood_blessing_of_musthyoch.md)
+  * Spell - [Strength of the Unplowed Earth](strength_of_the_unplowed_earth.md)
+  * Spell - [The Red Mark](the_red_mark.md)
+  * Spell - [Uzhidohmi's Vision of Night](uzhidohmis_vision_of_night.md)
 * Second Sight Magic
 * [Merits](merits.md)
 * [Wealth System](archival_wealth_system.md)

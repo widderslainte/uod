@@ -57,6 +57,8 @@ Choose from the following, either individually or in combination (mixed ancestry
     _"When his Hit Points reach 0, the character becomes unable to take any action, and in most cases falls completely unconscious. The character becomes mortally wounded at –3 Hit Points and will die in 1d10 minutes. No healing, magical or otherwise, can prevent death at this point. Death is instantaneous at –4 Hit Points."_
 
 #### Healing
+* By convention, we've been granting d3 hit points recovered for a normal night's rest.
+
 ### Retainers
 * Hirelings and other non-classed retainers can gain XP as "0 level" NPCs and become a 1st level characer class after gaining 1000 xp.  Special exception for retainers taken over permanently by a player as their **primary** PC.
 
@@ -64,12 +66,21 @@ Choose from the following, either individually or in combination (mixed ancestry
 * Initiative
     * Group initiative is used
     * Declare intended actions before round
-    * Initiative ties generally go to the PCs at the DM's discretion
+    * Initiative ties generally go to the PCs on even results, to the foes on odd results.
     * Actions are taken in order of Moldvay Basic (**SHAWN NEEDS TO ADD HERE**)
 * Other Combat Issues
     * **"Shields be Splintered"** is used - a shield can be sacrificed (effectively destroyed) to negate the effect of an attack.
     * See **Damage** above
 
+### Magic
+
+#### Magic-Users
+* Magic-Users start knowing _Read Magic_ and three other first level spells (from the standardard LotFP list) of their choice.
+* A Magic-User can be a student of a cultural magical tradition, normally chosen at character creation.  See the [Mechanics](../../80_mechanics/README.md) section for currently detailed traditions.  If this option is chosen:
+  * The character **must** pick spells at creation of the "Tutelary" list available to all Magic-Users and from their cultural tradition list.
+  * Upon gaining a level the newly gained spell **must** also be chosen from the "Tutelary" list or from their cultural tradition list.
+  * Spells from the standard LotFP Magic-User list can be found (in scrolls or spellbooks) or independently researched and then memorized as normal.
+  * Spells from other cultural traditions can not be learned under normal circumstances (a beneficient practioner of that tradition or initiation into a knowledgable lodge).  Standard Magic-Users can not learn or choose spells from cultural traditions.  _Eventually Shawn hopes to reformulate the standard Magic-User spell list into Traditional Sorcery._
 
 ## Otherwise Unchanged Rules
 

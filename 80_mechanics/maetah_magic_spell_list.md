@@ -26,6 +26,15 @@ _spell list in progress_
 
 ## Spell Descriptions
 
+#### Blood Blessing of Musthyoch
+Magician, 1st Level - _Precept of Fury_  
+Duration: 1 turn + 1 turn/level 
+Range: Touch 
+
+Description: By the blood of a sow, a blade is blessed.
+
+A sow or other beast is killed while chanting a prayer to Musthyoch. The blood from the death blow is applied to an blade or other edged weapon, enhancing its ability to take life. The weapon is considered magical and provides a +1 bonus to hit and damage.  With each caster level the duration can be split to affect multiple weapons instead (2nd level = 2 turns for one weapons, 2 weapons for 1 turn).
+
 #### Coven's Vengeance
 Magician, 1st Level - _Precept of Fury_  
 Duration: Instantaneous  
