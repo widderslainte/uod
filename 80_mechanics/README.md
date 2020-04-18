@@ -5,11 +5,13 @@
 ### Spells
 * Rules for Cultural Traditions - specific spell descriptions are listed in **Supplement U** excerpts below.
   * [Chlendi Sorcery Spell List](chlendi_sorcery_spell_list.md)
+  * Heteri Shamanism and Magic
   * [Maetah and Traditional Sorcery Spells](maetah_magic_spell_list.md)
-  * [Mindat Vibrationalist Spell List](mindat_vibrationalist.md)
+  * Mindat Theurgy
+    * [Mindat Vibrationalist Spell List](mindat_vibrationalist.md)
 * [Supplement U, Spell Descriptions](spell_descriptions.md)
-  * [Supplement U, Spells Exerpt](spells.md) - draft spells exerpt.
-  * [Miscellaneous rituals](rituals.md) - draft rituals excerpt.
+  * [Supplement U, Spells Excerpt](spells.md) - draft spells excerpt.
+  * [Miscellaneous Rituals](rituals.md) - draft rituals excerpt.
   * Spell - [Blood Blessing of Musthyoch](blood_blessing_of_musthyoch.md)
   * Spell - [Strength of the Unplowed Earth](strength_of_the_unplowed_earth.md)
   * Spell - [The Red Mark](the_red_mark.md)
@@ -17,6 +19,7 @@
 
 ### Magic Materials and Enchanted Items
 * [Enchanted and Items](enchanted_items.md)
+* Esoteric Materials
 
 
 
