@@ -28,6 +28,8 @@
 * Prayer for Fertility
 * Prayer for Rain
 
+### Ritual Descriptions
+
 |Vessel of the Black Bile| Necromancy
 |------------|------------------
 |Level:| Magician 3

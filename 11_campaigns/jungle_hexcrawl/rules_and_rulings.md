@@ -1,6 +1,7 @@
 # Campaign Rules and Rulings
 **Changelog**
 * 2019/12/15 document start
+* 2020/04/17 lots of updates that should have been in previous changelogs, 
 
 ## Defaults and Assumptions
 In between character creation at campaign start and the first 3 or 4 sessions, we effectively switched from BX (Moldvay) to Lamentations of the Flame Princess.  When in doubt refer to the 2013 "Player Core Book:
@@ -18,18 +19,27 @@ Rules & Magic".  For items not covered there or in this document, refer back to 
     * Mindat
 #### Choose a Character Class
 * Only Cleric, Fighter, Magic-User, and Specialist are available. 
-* Dwarf - Elf, Halfling - No actual dwarves, elves or halflings, but with negotiation you could potentially use their rules in some other fashion (halfling rules for scout,etc) 
+* Dwarf - Elf, Halfling - No actual dwarves, elves or halflings, but with negotiation you could potentially use their rules in some other fashion (halfling rules for scout,etc).
+
 #### Determine Hit Points
 * Maximum hit points at first level
-* When gaining a level, roll all hit dice and choose if higher ("Empire of Petal Throne method")
+* When gaining a level, roll all hit dice and choose if higher ("Empire of Petal Throne method").  Charaters always gain at least 1 hp when gaining a level (up to potential maximum: 3rd level fighter could not have more than 24hp, ignoring consitution bonuses).
+
 #### Choose a Name
 * Choose name based off character's culture - examples in Uod wiki, but make your own that sounds "right" to you compared to other examples.
 
+### Equipment
+* **Coins** - for simplicity and consistency:  
+ 1 sp = 10 cp   
+ 1 gp = 10 sp  
+ 1 pp = 10 gp = 100 sp  
+
+
 ### Adventuring: The Rules of the Game 
 #### Experience Points
-* Defeating Enemies - XP values from BX (Molday) will generally be used
+* Defeating Enemies - XP values from BX (Moldvay/Cook) will generally be used
 * Recovering Treasure 
-  * Magic items kept (but not sold or exchanged) by a player character provide XP in amount determined by the Dungeon Master (roughly based on AD&D Dungeon Master's Guide values)
+  * Magic items kept (but not sold or exchanged) by a player character provide XP in amount determined by the Dungeon Master (roughly based on AD&D Dungeon Master's Guide values).
 * Gaining a Level
 
 #### Foraging and Hunting
