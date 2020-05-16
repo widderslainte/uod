@@ -6,3 +6,11 @@
 * Powdered Wigs
 ### Clothing
 ### Accessories
+## Body Decoration
+### Hair 
+### Jewelry
+### Adornment
+* Piercings
+* Tattoos
+* Scarifiction
+* Body Painting
