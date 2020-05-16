@@ -2,7 +2,7 @@
 The Heteri were the original inhabitants of the Rhiat. They were a smattering of tribes, the Heter, Luggai, Naggai, Polog, and others that lived in what is now Ghikarn, Vennosat, Balancont, and other lands along the sea. The tribes were horsemen, brigands, and herders, may of whom settled down to an ever fluxatitng alliance of city states, ruled by king and chief who claimed lineage from the heavens.
 
 ## Cultural Notes
-Construction is hide and thatch tents in nomadic regions, and buildings of wood timber and red granite-like stone in sedentary communities. In warmer climes, adobe or wattle and daub materials dominate. Structures are rectangular, and only in modenr urban areas greater than a single story. Outlying structures are built for task areas and nuclear family units. Smaller clans may build these in a contiguous are, and surround it by a wall or fence, with a single main gate of clan markers. Most Heteri communities are built upon hills or man-made earthen rises, walled in stone or timber, and have a central well. In larger towns are cities, the well is replaced by an ornate fountain.
+Construction is hide and thatch tents in nomadic regions, and buildings of wood timber and red granite-like stone in sedentary communities. In warmer climesdobe or wattle and daub materials dominate. Structures are rectangular, and only in modern urban areas greater than a single story. Outlying structures are built for task areas and nuclear family units. Smaller clans may build these in a contiguous area, and surround it by a wall or fence, with a single main gate of clan markers. Most Heteri communities are built upon hills or man-made earthen rises, walled in stone or timber, and have a central well. In larger towns are cities, the well is replaced by an ornate fountain.
 
 The Heteri are burly sun-browned people with long, curly hair, and dark eyes. They wear clothing of hide, skin, and wool, ornamented with beads, feathers, teeth, and scraps of fur. In more cosmopliton arenas, the same fashion persists, but with finer tailoring, and polished stones and finer furs as ornamentations. Traditional head covering is an embroidered leather hood, which wraps around the neck or chest as a sash or scarf. The Heteri worship a pantheon of gods headed by Utan the Destroyer, who conquered 'The Old Lords' and birthed a new family of deities.
 
@@ -13,10 +13,12 @@ The Heteri practice slavery of criminals, war captives, and debtors. This captiv
 
 **Clan Marker:** carved wooden totems, the tops of which are hollowed depressions for torches or lit pitch.
 
-**Names & Title:** Traditionally, it would be, 'Firstname of Clan_Name'. Among other Heteri, the Tribal affiliation (Polog, Luggai, etc) would be known from the Clan Name. If you were of noble lineage, you might just say 'Firstname, son of Fathername', as any proper person would recognize the name of your father. In more modern times, the clans have larger settled and because of some intermixing, some will use 'Firstname Lastname of Cityname' instead of the clan name. Last names are a convention adopted from other cultures. In Cuvauw, they'd be sued by a lot of Heteri. In Ghikarn'gai, they only care about your clan.
+**Names & Title:** Traditionally, it would be, 'Firstname of Clan_Name'. Among other Heteri, the Tribal affiliation (Polog, Luggai, etc) would be known from the Clan Name. If you were of noble lineage, you might just say 'Firstname, son of Fathername', as any proper person would recognize the name of your father. In more modern times, the clans have larger settled and because of some intermixing, some will use 'Firstname Lastname of Cityname' instead of the clan name. Last names are a convention adopted from other cultures. In Cuvauw, they'd be sued by a lot of Heteri. In Ghikarnaggai, they only care about your clan.
 
 * **Vuhwul**: Tribal Chief or King 
 * **Mivehwul**: Mayor or Clan Head
+* **...**: Elder
+* **...**: Sir, expression of respect
 
 The Heteri aren't too formal beyond that. They would use terms like Elder (for age and respect) and Sir (for politeness or unfamiliarity), but I don't know that I have specific Heteri words for those. Women don't hold title, but would still be respected, and might call them selves "Firstname, son of Fathername" (yes, son) is their father was a chief. There aren't specific vowels used in female names, but I'll try to come up with lists of common names for each gender.
 

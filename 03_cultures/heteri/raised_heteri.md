@@ -37,6 +37,7 @@ Heteri are increasingly being raised or living in urban environments, but even l
 * Before battle, Heteri will bathe the hooves of their horses in blood for luck.
 
 ### Social Interaction
+
 * To seal a deal, a Heteri will spit into the dirt and grind or stamp his foot at the spot.
 * The traditional Heteri challenge is to spit at the feet of your foe. This is a serious offense, and doing so is cause for drawing steel, except by the closest of friends. Note the similarity to above.
 * Friends and family will great each other with great bear hugs
@@ -45,3 +46,15 @@ Heteri are increasingly being raised or living in urban environments, but even l
   * "Blessing upon your horse", reply "And upon yours"
   * "May Utan guide your knife" (generically used for all weapons or deadly conflicts)
 * In Heteri towns, the sounds of arrhythmic drumming means a funeral procession has started.
+
+
+### Aging and Death
+* Funerals are quiet occasions.  The dead are commonly burned on pyres with gifts or offerings.
+
+### Birth and Childhood
+
+
+### Wealth and Luxury
+
+
+
