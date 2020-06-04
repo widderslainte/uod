@@ -28,7 +28,7 @@
 * Maile, Hauberk and Shirt
 * Shields
 
-**Weapons:** Bow - short; Caltrop; Crossbow; Dagger (including Jambiya); Dart; Hand axe; Flail; Quarterstaff; Polearm (Billhook, Mancatcher, Military Fork); Sling; Spear; Spear, long; Spiked Club; Staff sling; Sword (Cutlass, Long sword, Short, Tulwar)
+**Weapons:** Bow - short; Caltrop; Crossbow; Dagger (including Jambiya); Dart; Hand axe; Hookspear; Flail; Quarterstaff; Polearm (Billhook, Mancatcher, Military Fork); Sling; Spear; Spear, long; Spiked Club; Staff sling; Sword (Cutlass, Long sword, Short, Tulwar)
 
 ### Minkush Valley, Southern Coast, and Eskla Communities
 **Armor:**
