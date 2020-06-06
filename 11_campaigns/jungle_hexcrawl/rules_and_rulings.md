@@ -42,6 +42,7 @@ Choose from the following, either individually or in combination (mixed ancestry
 * Defeating Enemies - XP values from BX (Moldvay/Cook) will generally be used
 * Recovering Treasure 
   * Magic items kept (but not sold or exchanged) by a player character provide XP in amount determined by the Dungeon Master (roughly based on AD&D Dungeon Master's Guide values).
+  * Magic items must be used (typical for weapons and armor), tested (often for potions, charged items), or otherwise identified (by reading scroll, use of **Identify** spell, sage, etc) to gain experience.  
 * Gaining a Level
   * When gaining a level, roll all hit dice and choose if higher ("Empire of Petal Throne method").  Charaters always gain at least 1 hp when gaining a level (up to potential maximum: 3rd level fighter could not have more than 24hp, ignoring consitution bonuses).
 
