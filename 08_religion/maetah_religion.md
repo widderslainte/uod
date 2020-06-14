@@ -47,4 +47,4 @@ Hilinavyu, the Coal God, is an import from the south. He governs mining, metals,
 The Storm Mother brings the rains and the storms. She controls the seas. It is her dictate if there shall be a drought this seasons, and if the ships will make it past the North Sea Point. The Storm Mother is not worshiped, but placated. Unlike most Maetah worship, human sacrifices are still offered to the Storm Mother. Her inland shrines are built in Maetah fashion but feature domes ratherthan peaks, and commonly have a large pool or well prominently displayed in front of the structure. 
 
 ### Uzhidhomi 
-Uzhiddhomi is another imported deity. He rules the sky, the nights, and the stars. He keeps secrets and taught magick to mortal men. He binds the spiritsof the Otherworld in place and guards children while they sleep. 
+Uzhidhomi is another imported deity. He rules the sky, the nights, and the stars. He keeps secrets and taught magick to mortal men. He binds the spiritsof the Otherworld in place and guards children while they sleep. 
