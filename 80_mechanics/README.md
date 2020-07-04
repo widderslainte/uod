@@ -19,6 +19,9 @@
 * [Enchanted and Items](enchanted_items.md)
 * Esoteric Materials
 
+## Healing
+* [Healing Resources](../11_campaigns/jungle_hexcrawl/resources_healing.md)
+
 ### Miscellaneous Elements
 * Sanity System
 * Honour System

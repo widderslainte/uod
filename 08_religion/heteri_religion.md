@@ -12,7 +12,7 @@ Utan favors the bold, those that offer prayer and worship, but do not *need* it.
 Symbol: horizontal hemisphere overlapped with splay of 5 vertical lines (like fingers)
 
 ### Hilinavyu 
-The Coal God, governs mining and construction, metals, fires, and the hearth. Hilinavyu was the father of the Gods and keeper of the secrets of the mountains. Priests seek "secrets under the mountains" in Hilinavyu's name and blackness the skin around the eyes when acting in his honor.  Heteri seek out Hilinavyu's blessing over the hearth in a new home or other construction. Large temple complexes devoted to Hilinvayu can be found in Narrosh and Bolog. Status of Hilinavyu are always carved and depict the eyes surrounding by black or represented by shiny coal orbs. His number is nine and his color black. He has no animal, but rather a fire-ravaged tree.
+The Coal God, governs mining and construction, metals, fires, and the hearth. Hilinavyu was the father of the Gods and keeper of the secrets of the mountains. Priests seek "secrets under the mountains" in Hilinavyu's name and blacken the skin around the eyes when acting in his honor.  Heteri seek out Hilinavyu's blessing over the hearth in a new home or other construction. Large temple complexes devoted to Hilinvayu can be found in Narrosh and Bolog. Status of Hilinavyu are always carved and depict the eyes surrounding by black or represented by shiny coal orbs. His number is nine and his color black. He has no animal, but rather a fire-ravaged tree.
 
 * Holy Act: Underground bonfire vigil
 * Sacrifice: Small birds and precious metals
