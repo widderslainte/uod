@@ -21,3 +21,18 @@
 | Size:	            | S (1')	| S (6")	| M (5')	| G (25'+)
 | Morale:	        | 7	        | 7	        | 8	        | 10
 | XP Value:	        | 35	    | 35	    | 175	    | 1,400
+
+
+### centipedes
+
+| name | visual           | poison | size | HD | notes |
+|------|------------------|--------|------|----|-------|
+|  ?   | black            | ||||
+|  ?   | red spotted      | ||||
+|  ?   | orange spiny     |        |
+
+
+#### Poison Effects
+* Black Glossy:
+* Red Spotted: +4 to save, failure cause death after X time.
+* Orange Spiny: Causes victims to become horribly sick for ten days (save versus poison): no physical activity possible except half speed movement.

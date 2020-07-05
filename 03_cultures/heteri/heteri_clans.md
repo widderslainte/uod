@@ -26,5 +26,6 @@ Older tribe, among the western coast and mountains to the north
 * Tanished Border - Quod-Berdunesh
 * Lunging Mare
 * Grey Muzzle
+* Mighty Western Rains
 
 ### Kushel
