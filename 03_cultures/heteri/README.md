@@ -22,7 +22,6 @@ The Heteri practice slavery of criminals, war captives, and debtors. This captiv
 
 The Heteri aren't too formal beyond that. They would use terms like Elder (for age and respect) and Sir (for politeness or unfamiliarity), but I don't know that I have specific Heteri words for those. Women don't hold title, but would still be respected, and might call them selves "Firstname, son of Fathername" (yes, son) is their father was a chief. There aren't specific vowels used in female names, but I'll try to come up with lists of common names for each gender.
 
-
 ### Tribes & Clans
 The main Heteri tribes: Naggai, Luggai, Polog. There are three or four minor tribes. Each tribe is made up of dozens of clans. Naggai are the clans of the south (which includes Irosk's). Luggai are the clans of the west (which includes Rikuu's).
 

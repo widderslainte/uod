@@ -55,7 +55,7 @@ kuglaiglaiuhv
 
 putglaioxf
 
-hat
+kughat
 
 glaiis
 
@@ -205,7 +205,7 @@ chuglai
 
 uluft
 
-chuglaior
+chuglaior - a deity
 
 glaiush
 
@@ -219,7 +219,7 @@ sobplrglai
 
 shishzoglai
 
-kos
+Kos - a deity
 
 kuglaifyr
 
@@ -385,13 +385,11 @@ ohitb
 
 vuhdud
 
-det
-
 guh
 
 nuglaigaglai
 
-bus
+busdet
 
 dugkuglai
 
@@ -441,7 +439,7 @@ ytevt
 
 todye
 
-lihoe
+lihoe - a deity
 
 cuglaivichf
 
