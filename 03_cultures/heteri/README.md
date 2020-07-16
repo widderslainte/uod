@@ -22,23 +22,27 @@ The Heteri practice slavery of criminals, war captives, and debtors. This captiv
 
 The Heteri aren't too formal beyond that. They would use terms like Elder (for age and respect) and Sir (for politeness or unfamiliarity), but I don't know that I have specific Heteri words for those. Women don't hold title, but would still be respected, and might call them selves "Firstname, son of Fathername" (yes, son) is their father was a chief. There aren't specific vowels used in female names, but I'll try to come up with lists of common names for each gender.
 
-
 ### Tribes & Clans
 The main Heteri tribes: Naggai, Luggai, Polog. There are three or four minor tribes. Each tribe is made up of dozens of clans. Naggai are the clans of the south (which includes Irosk's). Luggai are the clans of the west (which includes Rikuu's).
 
 
-### Cities & Towns
-#### Heteri Politics
+### Nations
 
 **Ghikarnaggai:** A modern Heteri nation in Northern Rhiat, bordering on Argaevaligne, Balaconth, and Nipend. Currently in the midst of a civil war between tribal factions. Punluggai: In modern times, a political faction among the Heteri people. The faction arose from a historical Heteri aristocratic lineage. The Punluggai ruled cities and small kingdoms along the southern Blood Coast. They were the first to be conquered when the Mindat Empire expanded north. Other factions allied with the Maldaer and Eschaltlin forces to the north, the same peoples that invaded Heteri lands along the northern Blood Coast centuries earlier. Seeing their kingdoms being destroyed and their fellow Heteri allied with traditional enemies, the Punluggai moved to retake traditional lands, some of which were being occupied by Heteri/Eschaltlin allied peoples.
 
-Traditional Heteri cities and communities along the Blood Coast and Inland Territories: Givos, Dlutuz, Sufesgai, Oshej, Glaivuf, Narrosh (along the Maldaer border), Pegaigoth, Fokhei, Shaekzhul (near Mindat), Ghofeka (also near Mindat). Ancient Heteri Cities (Second Epoch): Heter, Dubhe, Nukora, Phecta, Vulag
+### Cities & Towns
+
+#### Ancient Heteri Cities 
+***(Second Epoch):** Heter, Dubhe, Nukora, Phecta, Vulag
+
+#### Traditional Heteri Cities and Communities 
+**Along the Blood Coast and Inland Territories:** Givos, Dlutuz, Sofegai, Oshej, Glaivuf, Narrosh (along the Maldaer border), Pegaigoth, Fokhei, Shaekzhul (near Mindat), Ghofeka (also near Mindat).   
 
 **Bolog** - ancient Heteri community at the base of Moniin peaks at one of the ends of the Cuvauw Pass. The hills behind the small city are lined with caves and tunnels and contain the Grand Temple of Hilinavyu. It is ruled by the Vuhwul ('king' or 'chief') Solok of the Smoking Thunder, who is descended from the Luggai Heteri tribes. His only daughter was to marry the lord of Akklai Point, but was killed during the goblin invasion. Solok is fiercely independent of both the Ghikarn'gai revolts and the goblins, and has close ties with the Temple of Hilinavyu to this end. Bolog maintains good relations of Argaevaligne, Cuvauw, and other independent communties in Balaconth.
 
 The city of Bolog is a sprawling mess, with neigborhoods running up and down the hills, with towers lining the highest peaks. In honour of the city's patron, Hilinavyu, great coal braziers are lit of hillstops and city walls during every new moon, as well as the feats of god. Its ancient inner gates are lined with huge boulder rlled down from the hills, upon which chunks of iron slag and molten were thrown to cool. The populace is predominately Heteri, although there are no extensive clan presence outside that of Smoking Thunder. Even in other ethnic neighborhoods, Heteri style clan markers are used upon gates and entranceways. Given the predominance of Hilinavyu and worship of the rest of the Heteri pantheon, the city is remarkably tolerant of other faiths, though the small Thedine presence is limited to insular churches.
 
-**Givos** - coastal town, traditionally disputed by Balaconth and the rulers of Teldarpha. Currently occupied by the Goblin Queen's forces, it is ruled by 'Mivuhwul' Isasnias Koman, the middle-aged burgher of a upper class family who act as puppets to the local goblin Captain Nivinak. Isasnias demonstrated his loyalty by killing the previous Mivuhwul in the city square. Givos, for unknown reason, was on the first communties targetd when the goblins came surfaceside.
+**Givos** - coastal town, traditionally disputed by Balaconth and the rulers of Teldarpha. Currently occupied by the Goblin Queen's forces, it is ruled by 'Mivuhwul' Isasnias Koman, the middle-aged burgher of a upper class family who act as puppets to the local goblin Captain Nivinak. Isasnias demonstrated his loyalty by killing the previous Mivuhwul in the city square. Givos, for unknown reason, was one of the first communties targeted when the goblins came surfaceside.
 
 Despite the crumbling walls and downtrodden residents, Givos stills welcomes travellers and merchants, so long they keep clear of the Goblin occupying force. Discreet travellers can find same loding at the White Witch inn, two blocks in the from east gate. The Sorceror's House of Duslangarot is still active, but only with a skeleton staff. They are said to be in the good graces of the Goblin Queen.
 
@@ -63,11 +67,11 @@ The city is a mix of Eslka and Heteri ethnicities, and most building are small h
 
 **Glaivuuf** 
 
-**Narrosh** (along Argaevaligne border) 
+**Narrosh** - (along Argaevaligne border) 
 
 **Pelgaigosh** - ancient capitol of the Polog/Punluggai tribes. Now secondary center to Dunzeldaryn. 
 
-**Fokhei Shaezhul** (near Mindat) 
+**Fokhei Shaezhul** - (near Mindat) 
 
 **Dutuz Heter** (no longer extent) – According to legend the mythological home of the Heteri people, said to be in the nortern mountains near Bogog.
 
