@@ -13,7 +13,7 @@
 * Grummel - Cuvauw - Nog - furniture polisher
 * Halduan - Noduan, Vennosat - Eskla - Annoying, but popular minstrel - foppish
 * Johud - unknown - unknown - appearence (in a dream): bald, green eyes, well cut black velvet suit
-* Kabrah the Hermeturge - Cuvauw - Eskla - Head of Tounaphas Lodge - appearence: Wild Hair, purple robes or furs
+* Kabrah the Hermeturge - Cuvauw - Eskla - Head of Tounaphas Lodge - appearence: Wild Hair, purple robes, ermine furs
 * Paedruun - Cuvauw - Maetah - Bookkeeper - Appearence: Mousy, grungy ink-covored smock.  Found in Asylum, claims seeing a white worm
 * Sijukiim - slaver from Dream Realms. Black faces in robes with burning eyes
 * Simac - Nipend - Chlendi - Sorcerer
