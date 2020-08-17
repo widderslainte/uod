@@ -90,6 +90,7 @@ Comprehension: 75%
 Magician, Level 2 - _Chlendi Tradition_  
 Range: 50’  
 Duration: 1 turn + 1 round/level  
+Casting Time: 1 round  
 Comprehension: 75%  
 
 **Effect:** The sorcerer calls up a spirit from local genius loci to unleash violence.  The spirit (AC 17, HD 2, 1 Attack, Dmg 1d8) takes a visible form representing its nature, but can only attack the sorcerer's foes and will not engage in menial tasks or divination.  The spirit will disperse at the caster’s bidding, upon losing all its hit points, or at the end of the spell’s duration.  It can be banished by normal means.
@@ -97,3 +98,19 @@ Comprehension: 75%
 
 ## Level 3
 
+
+# Classical Sorcery
+
+## Miscellaneous Spells
+
+## Level 2
+
+#### Theft of the Body's Hearth
+Magician, Level 2 - _Classical Sorcery Tradition_    
+Range: Touch  
+Duration: Permanent (Conditional)    
+Casting Time: 1 round  
+Saving Throw: Normal, Negates Effect  
+Comprehension: 50%  
+
+**Effect:** Caster's touch steals a rib from the target, with significant pain but no immediate damage.  Until the rib restored, the target can not heal (magical or otherwise, short of Grand Rituals).  If the rib is retrieved, it will painless slide back into place if touched upon the original target's skin.

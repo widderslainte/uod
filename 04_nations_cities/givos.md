@@ -8,4 +8,12 @@ Despite the crumbling walls and downtrodden residents, Givos still welcomes peac
 
 The city is a mix of Eskla and Heteri ethnicities, and most buildings are small houses of stone and peat, barely able to withstand the stormy summer season.
 
-Illness has set in around the region. Street vendors sell "plague masks" and cures with a variety of effectiveness. The streets are barren at save, save for the burning piles of corpses.
+Illness has set in around the region. Street vendors sell elaborate "plague masks" and cures with a variety of effectiveness. Some question whether the "plague cures" are actually being used to infect more people. The streets are barren at night, save for the burning piles of corpses.
+
+* Hanging shows every weekend
+* Goblins drink milky cognacs with a licorice aftertase
+* Patrols hunt through back neighborhoods with packs dogs
+* Local fever gives blue rash (but doesn't seem to affect goblins)
+
+
+Campaign note: Fever progressed - number of people coughing, wheezing, and hacking slowly increased through sessions.

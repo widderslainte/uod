@@ -63,6 +63,9 @@ Shobok of the goddess of the Poor, the Sick and Diseased, and the patron of thos
 
 ## Practices
 * Temple sanctums are conical towers covered in hides, skins, and skulls of animals.
+* Shrines to Chuglaior in side chapels within larger temples to Utan or the pantheon, where the icon of Chuglaior is lined with candles and surrounded by cylindrical carved wooden busts of ancestors.  It is a great honor (and often a political process in larger communities) to be placed at the shrine, and the final phase of funerary ceremonies.
+* Feasts marked by procession through the community, led by handlers with hounds, followed by statue of Utan (from local shrine or temple) wrapped in yellow cloth and wearing a crown (of whatever wealth is available, actual gold in cities or large shrines, or just constructed of stiffened cloth in small villages), and finally community members dressed in costumes of the gods carrying baskets or litters of food.  Large drums are played as others sing hymns.
+
 
 ## Elements of Regions
 
