@@ -24,7 +24,6 @@
 * Thin, whip like tail
 * Grave goods: jade rods, lines of gold disks alongside body
 
-
 ## Brown Lizardfolk
 * Coloration and features:
 * Size:

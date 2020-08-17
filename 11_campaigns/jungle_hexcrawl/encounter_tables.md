@@ -1,70 +1,25 @@
 
-SAMPLE ENCOUNTER TABLE
-
-Encounter Check: 1 in 1d8
-
-Border Encounters: 50%
-
-Encounter Type (1d20):
-
-1-10: LOCATION
-
-11-20: OTHER
+## SAMPLE ENCOUNTER TABLE
+* Encounter Check: 1 in 1d8
+* Border Encounters: 50%
+* Encounter Type (1d20):  
+    1-10: LOCATION
+    11-20: OTHER
 
 | 1d20 | Encounter | % LAIR | % TRACKS |
 |------|-----------|--------|----------|
-1d20
-Encounter	
-% LAIR
-% TRACKS
-1-3
-Lizardmen (hex A10, A13)	
-30%
-50%
-4-5
-1d2 tree trolls (hex C13)	
-40%
-50%
-6
-Adventurers	
-10%
-75%
-7-9
-Ghouls (hex A12, E9)	
-20%
-50%
-10-12
-Zombies (hex E9)	
-25%
-50%
-13
-Bat Swarm	
-20%
-5%
-14
-Jungle Bear (hairless, use black bear stats)	
-10%
-50%
-15
-Carrion crawlers	
-50%
-50%
-16
-Giant leech	
-Nil
-Nil
-17-18
-Orcs (hex B7)	
-25%
-50%
-19
-Wild boars	
-Nil
-25%
-20
-Tyrannosaurus Rex	
-Nil
-50%
+| 1-3 |Lizardmen (hex A10, A13)	| 30% | 50%
+| 4-5 1d2 tree trolls (hex C13)	 40% 50%
+| 6 Adventurers	10% 75%
+| 7-9 Ghouls (hex A12, E9)	20% 50%
+| 10-12 Zombies (hex E9)	25% 50%
+| 13 Bat Swarm	20% 5%
+| 14 Jungle Bear (hairless, use black bear stats)	10% 50%
+| 15 Carrion crawlers	50% 50%
+| 16 Giant leech	 Nil Nil
+| 17-18 Orcs (hex B7)	 25% 50%
+| 19 Wild boars	 Nil 25%
+| 20 Tyrannosaurus Rex	 Nil 50%
 
 
 ## monsters
