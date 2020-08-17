@@ -1,3 +1,4 @@
+# Mindat Religion
 More than a millennia ago, the Mindat worshipped an elaborate pantheon of Gods, whose heirarchy and functions mirrored the social structures of the Empire, and it's breadth of influence. With the rise of the Saghhit Dynasty in 1996, the priesthood suffered numerous changes. The practices of the God-Kings were abolished, and the heir to the Emperor's Throne abdicated in favour of his younger brother. Instead, Wukein travelled west to the lands of the Dushanni, north to the pox-ridden homeland of the Chlendi, and south the forbidden jungles of the Shn-Kvaruth, lengendary enemies of the Mindat. He brought back teachings and knowledge from the lands, and began a radical reform of the Mindat temple structure.
 
 ### The Sacrifice of the Old Gods

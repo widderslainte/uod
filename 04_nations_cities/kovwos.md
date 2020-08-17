@@ -1,0 +1,5 @@
+## The Oasis of Kovwos 
+
+Fifteen days south along the trade route from Sofegai, you'll see signs for the Oasis of Kovwos.  Once a small town known for it easier source of water, resilient pottery, and hospitality to travelers, Kovwos is now a ghost town of ruins and burnt out buildings.  
+
+Around 100 years ago, a child was born in Kovwos and prophets claimed him to be the earthly for of Shobok, a Heteri god.  Pilgrams, scholars, and profiteers flocked to Kovwos in the following months.  As the attraction of the child increased, the hospitality and economic appeal of Kovwos stopover for travelers waned.   After winter passed and the spring trading season began, word filtered through the region that the town had been burnt to the ground and abandonded by its residents.  A few brave souls have scoured to ruins for artifacts, treasure, or word of the fate of the prophesied child, but little was found beyond the debris and a spoiled water spring.

@@ -6,8 +6,6 @@ The Chlendi enslaved whole towns of Maetah peasants as laborers, and eventually 
 
 In ancient times, the Chlendi lived off the swamps, eating shellfish, snakes, swamp rats and fowl. Philters and herbal concoctions were made the from the plants and fungi. A potent incense from the toxic black algae was used to conjure spirits.
 
-
-
 ## Physiology
 Chlendi are tall and thin, with long spindly limbs and appendages. Their hair is thin and dark, though often hidden beneath a turban. Facial hair is sparse and rarely grown. Skin tones occur in a varying shades, but all have an olive cast, indicative of any intermixing since arriving the Rhiat. Chlendi eyes are brown or hazel, with the rare blue or purple.
 
@@ -21,11 +19,18 @@ The Chlendi hold a measure of strict fealty to their lineage, and through that t
 * **Lilotle**, Clan of the Violet Glory
 * **Cydierni**, Clan of the Marble Hammer
 * Clan of the Bronze Blade
-*  Clan of the Noble-light-people
-*  Clan of the Mottled Bull
-*  Clan of the Mourning Legions
+* Clan of the Noble-light-people
+* Clan of the Mottled Bull
+* Clan of the Mourning Legions
 * Clan of the Everlasting Bog
 * Clan of the Spider Trees
+* Clan of the Early Dawn		
+* Clan of the Mushroom Fen
+* Clan of the Rotting Egg
+* Clan of the Serpent Travelers		
+* Clan of the Mountain Walkers
+* Clan of the Resiliant Timber
+* Clan of the Undying Flame
 
 ## Cities & Towns
 Major populations of Chlendi still exist in Ramush and the polities of the Minkush River Valley. Throughout the swamps and foothills near Asklor, small villages of the olive skinned folk still live an isolated existence, uncaring of the rise and all of the Chlendi monarchy.
@@ -56,13 +61,15 @@ The Chlendi bury their dead in subterranean tombs of stone. Because this is not 
 They mastered the arts of summoning and astrology building shrines along veins of mystical ores. Their most prized material is amberite, a golden translucent rock which is carved into jewelry, idols, and other religious object.
 
 ## Pantheon
-See Chlendi Religion
+See [Chlendi Religion](../../08_religion/chlendi_religion.md)
 
 ## Magic
-See Chlendi Sorcery
+See [Chlendi Sorcery](../../07_magic/chlendi_sorcery.md)
+
+### Death and Burial
 
 # Material Culture
-The staple of traditional Chlendi garbed is a colourful perfumed turban. The scent is engineered to hide the musk of the swamp as well as repel the abundent insects. The colors are a matter of fashion, and the pin or broach holding it in place is the most prominent symbol of ones economic status. Common colours are Indigo, mossy greens, and browns. Bright colours attract insects. Blue and purple are the signs of wealth or status.
+The staple of traditional Chlendi garbed is a colourful perfumed turban. The scent is engineered to hide the musk of the swamp as well as repel the abundent insects. The colors are a matter of fashion, and the pin or broach holding it in place is the most prominent symbol of ones economic status. Common colours are Indigo, mossy greens, and browns. Bright colours attract insects. Blue and purple are the signs of wealth or status. For important occasions the turban will be decorate with colorful feathers of local birds.
 
 Snake, fowl, swamp rat, fish, and shellfish, as well as the variety of fruits and vegetables in the swamp form the basis of the diet. They are masters of finding the edible algae and fungi of the region, and aren't above partaking in the delicacy of large beetles on occasion. Common beverages are a distilled liquor from swamp reed "marrow", herbal concoctions and aromatic teas from the bark and leaves of swamp trees.
 

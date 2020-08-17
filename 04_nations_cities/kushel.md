@@ -3,7 +3,7 @@
 
 ## Politics
 * Ruler: Mivehwul (Mayor) Sahul of Blackened Hoof
-* Real Ruler:  ???
+* Real Ruler: Probably Mivehul Sahul, but rumors abound.
 * Military Forces: Town guard/milita, Platoon of Mindat Heavy Infantry
 
 ## Culture
@@ -14,7 +14,6 @@
 * Agriculture, Herding, Horse Breeding, Minor Trade Center
 
 ## Notable clans and familiies:
-
 * Blackened Hoof (Heteri)
 * Mayyad (Maetah)
 * Red Granite (Heteri)
@@ -22,7 +21,6 @@
 
 
 ## Notable People & Places:
-
 * Town Market
 * Dog-fighting Fields
 * Steerhorn: upscale restaurant / drinking establishment

@@ -23,3 +23,9 @@ _known to current characters in Spring 2019 campaign_
 #### Availability and Time Rolls
 
 _to be added_
+
+
+### Other resources
+* Black Monkey Orchid
+  * Powder preparation (d6x100sp): Allows reroll of a poison save with +2 bonus. 
+  * Distillation (3d6x100sp):  Cures the effects of most poisons

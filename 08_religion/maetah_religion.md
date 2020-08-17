@@ -10,7 +10,7 @@ Traditional Maetah theology views bodies of water as a source of entropy and obl
 _Lord of Life_ 
 The early Maetah saw Musthyoch as one of major deities. All plants and animals (including humanity) were seen as his children and servants, in one manner or another. Particular animals were idolized in beast cults, which were subservient to Musthyoch, and stereotypical qualities of these animals (strength of bulls) were used to represent other gods. For example, Thedine was originally a bull cult, showing the strength and stability of the bull, and the earth with the connection that bulls (and oxen) were used in cultivation. Musthyoch was also known as the ‘Emperor of All Flesh’ and is pictured as a short, bald, blue-skinned humanoid, although this imagery does not pass on to modern times. By the period of the Eschlatli Empire, Musthyoch is idolized as a short, hooded, gray skinned being of undetermined gender. 
 
-In later times (early Maetah colonies on the North Sea plateau), two of these beats cults came to prominence. Lob and Ubo, the sons of Musthyoch, 
+In later times (early Maetah colonies on the North Sea plateau), two of these beats cults came to prominence. Lob and Ubo, the sons of Musthyoch.
 
 ### Lob
 _The Tusked God_
@@ -47,4 +47,4 @@ Hilinavyu, the Coal God, is an import from the south. He governs mining, metals,
 The Storm Mother brings the rains and the storms. She controls the seas. It is her dictate if there shall be a drought this seasons, and if the ships will make it past the North Sea Point. The Storm Mother is not worshiped, but placated. Unlike most Maetah worship, human sacrifices are still offered to the Storm Mother. Her inland shrines are built in Maetah fashion but feature domes ratherthan peaks, and commonly have a large pool or well prominently displayed in front of the structure. 
 
 ### Uzhidhomi 
-Uzhiddhomi is another imported deity. He rules the sky, the nights, and the stars. He keeps secrets and taught magick to mortal men. He binds the spiritsof the Otherworld in place and guards children while they sleep. 
+Uzhidhomi is another imported deity. He rules the sky, the nights, and the stars. He keeps secrets and taught magick to mortal men. He binds the spiritsof the Otherworld in place and guards children while they sleep. 

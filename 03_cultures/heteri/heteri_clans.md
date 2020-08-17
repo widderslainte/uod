@@ -23,7 +23,9 @@ Traditonally clans of the west (which includes Rikuu's).
 
 ## Polog
 Older tribe, among the western coast and mountains to the north 
-* Tanished Border - QUod-Berdunesh
+* Tanished Border - Quod-Berdunesh
 * Lunging Mare
+* Grey Muzzle
+* Mighty Western Rains
 
 ### Kushel

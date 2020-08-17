@@ -1,6 +1,6 @@
 # Chlendi Sorcery
 
-Chlendi Sorcery is inherently tied in with the relgious beliefs and structures of Chlendi culture. Being animists, the sorcerers of this culture focus their effors on the summoning of, and interaction with, spirits of various. Their methods focus on binding, commanding, and dispelling empyreal entities and divination or other forms of communication.
+Chlendi Sorcery is inherently tied in with the religious beliefs and structures of Chlendi culture. Being animists, the sorcerers of this culture focus their effors on the summoning of, and interaction with, spirits of various. Their methods focus on binding, commanding, and dispelling empyreal entities and divination or other forms of communication.
 
 ## Chlendi Spirit Forms
 
@@ -20,6 +20,9 @@ Chlendi Sorcery is inherently tied in with the relgious beliefs and structures o
 * Dismissing
 * Querying
 * Warding (Rite and Gesture)
+* [Viljimil's Hierarchy](viljimils_hierarchy.md)
 * Miscellenous Rite: Atejitl's Blessing
 
 #### Chlendi Sorcery Mechanics
+
+* [Spell List](../80_mechanics/spells_beta.md) (for level-based games) 

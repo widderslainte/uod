@@ -75,3 +75,71 @@ Upon invoking the blessing, all within the target radius are blessed, gaining a 
 1.  Blessing of Benificance - grants a +4 to all saving throws for the duration of the spell
 2.  Blessing of Wrath - grants +2 to hit and damage to all hand-to-hand attacks for the duration of the spell
 3.  Blessing of Fortitude - grants a +2 to armor class and defences for the duration of the spell
+
+
+## Miscellaneous Spells
+* Act of Dweomercraft, Lesser
+* Aegis
+* Capture Fleeing Soul
+* Conjure Beast
+* Conjure Entity
+* Body of Spirit
+
+| Dedication | _Invocation_ [Ritual]
+|------------|------------------
+|Level:| Magician 1
+|Components:| V,S,M
+|Casting Time:| 1 Week
+|Range:| 5 ft. radius
+|Duration:| Permanent
+|Saving Throw:| None
+
+The caster prepares a week long ritual. The rite takes appromately 8 hours per day.
+During the remaining hour the caster may not engage in strenuous activity - only sleeping,
+meditation, light meals, etc. The dedicated item or area is treated as though it has an
+Arcane Mark (q.v.) and can be Dispelled (DC15 + the caster's level).
+
+| Empyrean Bolt | _Evocation_
+|------------|------------------
+|Level:| Magician 1
+|Components:| V,S,M
+|Casting Time:| 1 Week
+|Range:| 5 ft. radius
+|Duration:| Permanent
+|Saving Throw:| None
+
+| Infest Fetus | _Necromancy_
+|------------|------------------
+|Level:| Magician 4
+|Components:| V,S,M
+|Casting Time:| 8 hours
+|Range:| Special
+|Duration:| Permanent
+|Saving Throw:| None
+
+| Leechspit | _Alteration_
+|------------|------------------
+|Level:| Magician 2
+|Components:| V,S,M
+|Casting Time:| 1 
+|Range:| 15 feet
+|Duration:| 1 round/level
+|Saving Throw:| None
+
+| Wall of Maggots | _Conjuration_
+|------------|------------------
+|Level:| Magician 3
+|Components:| V,S,M
+|Casting Time:| 3
+|Range:| 5'/level
+|Duration:| 3 rounds/level
+|Saving Throw:| None
+
+| Ward Against Elementaries | Abjuration
+|------------|------------------
+|Level:| Magician 2
+|Components:| V,S,M
+|Casting Time:| 1 turn
+|Area of Effect:| 10 ft. radius
+|Duration:| 1 day
+|Saving Throw:| None

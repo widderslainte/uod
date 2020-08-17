@@ -1,0 +1,3 @@
+## Pen of the Art
+
+The Pen of the Art is fine tool used by magician to inscribe their secrets upon parchment or hide, or in the aether itself in more esoteric circumstances. It is not used to write love notes to succubi or scribe monographs, even to the most esteemed circles of sorcerous academia.  The shaft of the pen should be made of ash or hazel, cut while both moons are visible in the sky.  Some say the feather should be plucked from a pregnant crow, but true sorcerers know this is a blind.  The feather is purely ornamental, but the nib must be of bronze.  The whole item, once complete, should be consecrated in rat's blood with an invocation of Hielil, Chlendi Spirit of the Word.

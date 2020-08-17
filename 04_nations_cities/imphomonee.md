@@ -7,11 +7,21 @@ Imphomonee considers itself the northern barrier of the Auld South, a bastion of
 Imphomonee is ruled by Duchess Iphia Commun, the latest regent in the Commun clan that has ruled Imphomonee since the height of the Eskla Empire. Imphomonee is on good relations with Vennosat City and Minkarapht, but finds themselves at odds with Cuvauw and Jegeldumuth (their northern rival) due to ancient ties to the Jeweler’s guild.
 
 ### Locations
-**Tavern Names:** Bent Giant Groghouse, Brass Squire Inn, Red Fox Cellar
-Noble Ward
-Chlendi Ward
-The Falls
+* **Tavern Names:** Bent Giant Groghouse, Brass Squire Inn, Red Fox Cellar
+* Noble Ward
+* Chlendi Ward
+* The Falls
 
 ### Organizations
-**Notable Families and Clans:** Commun (Eskla), Thive (Chlendi) Enfer (Maetah), Givon (Maetah), Jhabeld (Eskla)
-**Schools & Guilds:** Jeweler’s Guild, Guild of Arms, Astille (Sorcery), Duslangarot (Sorcery) Lelleivanti (Sorcery)
+#### Notable Families and Clans 
+* Commun (Eskla)
+* Thive (Chlendi) 
+* Enfer (Maetah)
+* Givon (Maetah)
+* Jhabeld (Eskla)
+#### Schools & Guilds 
+* Jeweler’s Guild
+* Guild of Arms
+* Astille (Sorcery)
+* Duslangarot (Sorcery) 
+* Lelleivanti (Sorcery)

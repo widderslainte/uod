@@ -1,0 +1,3 @@
+## Slavery
+
+"Four more years and I'll be out of slavery.  I look out at the black obelisks lining the palace wall and that blasted massive statue the Mindat left in the harbour, and I wonder if the "New Days of the Heteri Kings" are any better than the old regime.  At least I don't have to listen to any crazy-hatted mystics bleating on about with lectures from the White Book.  Once a month, my debtmaster lets me head into Dunzeldaryn - in exchange for attending the orgies at his temple, he's knocking a month off my term.  Not a bad trade, I wager - the incense doesn't burn my eyes as much, but I doubt the scars on my chest will ever fade away."

@@ -1,6 +1,7 @@
 # Campaign Rules and Rulings
 **Changelog**
 * 2019/12/15 document start
+* 2020/04/17 lots of updates that should have been in previous changelogs, 
 
 ## Defaults and Assumptions
 In between character creation at campaign start and the first 3 or 4 sessions, we effectively switched from BX (Moldvay) to Lamentations of the Flame Princess.  When in doubt refer to the 2013 "Player Core Book:
@@ -10,49 +11,77 @@ Rules & Magic".  For items not covered there or in this document, refer back to 
 
 ### Character Creation 
 #### Ancestry
-* Choose from the following, either individually or in combination (mixed ancestry other than Eskla, "ancestrally Heteri, but raised among the Mindat", etc).  Details can be found on Uod sites.
-    * Chlendi
-    * Eskla
-    * Heteri
-    * Maetah
-    * Mindat
+Choose from the following, either individually or in combination (mixed ancestry other than Eskla, "ancestrally Heteri, but raised among the Mindat", etc).  Details can be found on Uod sites.
+* Chlendi
+* Eskla
+* Heteri
+* Maetah
+* Mindat
+
 #### Choose a Character Class
 * Only Cleric, Fighter, Magic-User, and Specialist are available. 
-* Dwarf - Elf, Halfling - No actual dwarves, elves or halflings, but with negotiation you could potentially use their rules in some other fashion (halfling rules for scout,etc) 
+* Dwarf - Elf, Halfling - No actual dwarves, elves or halflings, but with negotiation you could potentially use their rules in some other fashion (halfling rules for scout,etc).
+
 #### Determine Hit Points
 * Maximum hit points at first level
-* When gaining a level, roll all hit dice and choose if higher ("Empire of Petal Throne method")
+
 #### Choose a Name
 * Choose name based off character's culture - examples in Uod wiki, but make your own that sounds "right" to you compared to other examples.
 
+### Equipment
+* **Coins** - for simplicity and consistency:  
+ 1 sp = 10 cp   
+ 1 gp = 10 sp  
+ 1 pp = 10 gp = 100 sp
+* Tuloi is considered "rural" for cost and availability purposes.  As the village grows, availability of some items will increase into die roll chance.
+
+
 ### Adventuring: The Rules of the Game 
+
 #### Experience Points
-* Defeating Enemies - XP values from BX (Molday) will generally be used
+* Defeating Enemies - XP values from BX (Moldvay/Cook) will generally be used
 * Recovering Treasure 
+  * Magic items kept (but not sold or exchanged) by a player character provide XP in amount determined by the Dungeon Master (roughly based on AD&D Dungeon Master's Guide values).
+  * Magic items must be used (typical for weapons and armor), tested (often for potions, charged items), or otherwise identified (by reading scroll, use of **Identify** spell, sage, etc) to gain experience.  
 * Gaining a Level
+  * When gaining a level, roll all hit dice and choose if higher ("Empire of Petal Throne method").  Charaters always gain at least 1 hp when gaining a level (up to potential maximum: 3rd level fighter could not have more than 24hp, ignoring consitution bonuses).
+
 
 #### Foraging and Hunting
 * Travel rules from **Forbidden Lands** are generally used instead
+
 #### Getting Lost
 * Travel rules from **Forbidden Lands** are generally used instead
+
 #### Hazards
-* Damage
-    * We have not been using, but probably should:
+* Damage - We have not been using, but probably should:
     _"When his Hit Points reach 0, the character becomes unable to take any action, and in most cases falls completely unconscious. The character becomes mortally wounded at –3 Hit Points and will die in 1d10 minutes. No healing, magical or otherwise, can prevent death at this point. Death is instantaneous at –4 Hit Points."_
 
 #### Healing
+* By convention, we've been granting d3 hit points recovered for a normal night's rest.
 
+### Retainers
+* Hirelings and other non-classed retainers can gain XP as "0 level" NPCs and become a 1st level characer class after gaining 1000 xp.  Special exception for retainers taken over permanently by a player as their **primary** PC.
 
 ### Combat
 * Initiative
     * Group initiative is used
     * Declare intended actions before round
-    * Initiative ties generally go to the PCs at the DM's discretion
+    * Initiative ties generally go to the PCs on even results, to the foes on odd results.
     * Actions are taken in order of Moldvay Basic (**SHAWN NEEDS TO ADD HERE**)
 * Other Combat Issues
     * **"Shields be Splintered"** is used - a shield can be sacrificed (effectively destroyed) to negate the effect of an attack.
     * See **Damage** above
 
+### Magic
+
+#### Magic-Users
+* Magic-Users start knowing _Read Magic_ and three other first level spells (from the standardard LotFP list) of their choice.
+* A Magic-User can be a student of a cultural magical tradition, normally chosen at character creation.  See the [Mechanics](../../80_mechanics/README.md) section for currently detailed traditions.  If this option is chosen:
+  * The character **must** pick spells at creation of the "Tutelary" list available to all Magic-Users and from their cultural tradition list.
+  * Upon gaining a level the newly gained spell **must** also be chosen from the "Tutelary" list or from their cultural tradition list.
+  * Spells from the standard LotFP Magic-User list can be found (in scrolls or spellbooks) or independently researched and then memorized as normal.
+  * Spells from other cultural traditions can not be learned under normal circumstances (a beneficient practioner of that tradition or initiation into a knowledgable lodge).  Standard Magic-Users can not learn or choose spells from cultural traditions.  _Eventually Shawn hopes to reformulate the standard Magic-User spell list into Traditional Sorcery._
 
 ## Otherwise Unchanged Rules
 

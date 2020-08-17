@@ -156,6 +156,7 @@ _See charts and descriptions below_
 | -  Morning Star (two-handed)  |	--  |  50  |	  1d10  |             |              |             |
 | -  War Hammer 	 		    |   50  |  20  |   1d6/1d8  |             |              |             |
 | Garotte                       |   --  |   5  |       1d6  |             |              |
+| Hookspear, Chlendi            |   10  |  25  |       1d6  |             |              |  
 | Lance                         |   --  |  30  |      1d10  |             |              | charge from horseback
 | Net                           |    5  |   3  |        --  |             |              |
 | Pick, heavy                   |   --  |  45  |       1d6  |             |              |
@@ -169,7 +170,7 @@ _See charts and descriptions below_
 | Staff                         |    5  |   3  |       1d6  |             |              |
 | Swordcane                     |   --  |  50  |       1d6  |             |              |
 | Swords                        |       |      |            |             |              |
-| --Heteri broadsord            |   50  |  30  |       1d8  |             |              |
+| --Heteri Broadsord            |   50  |  30  |       1d8  |             |              |
 | --Sword, Arming               |   50  |  20  |       1d6  |             |              |
 | --Sword, Long                 |   50  |  40  |       1d8  |             |              |
 | --Sword, Rapier               |   --  |  40  |       1d8  |             |              |
@@ -356,12 +357,14 @@ _See charts and descriptions below_
 | Tunic and Pants (armiger)   |		  |   20 |             |              |         |
 | Tunic and Pants (noble)	  |	      |  100 |             |              |         |
 | Turban, Chlendi             | 	  |	   1 |             |              |         |
+| Wig, cheap                  |		  |	   5 |             |              |         |
+| Wig, fine quality           |		  |	  50 |             |              |         |
 | Wool (cheap, 1 yard)	      | 	  |    6 |             |              |         |
 | Wool (fine, 1 yard)		  |	      |    6 |             |              |         |
-| Clothing, extravagant       | --    | > 20sp        |
-| *Clothing, normal*          | 2sp   | 5sp       |
-| *Clothing, poor*            | 5cp   | 1sp       |
-| Clothing, winter travel     | 5sp   | 10sp       
+| *Clothing, extravagant*     | --    | > 20sp        |  |              |         |
+| *Clothing, normal*          | 2sp   | 5sp       |  |              |         |
+| *Clothing, poor*            | 5cp   | 1sp       | |              |         |
+| *Clothing, winter travel*   | 5sp   | 10sp       | |              |         |
 
 ### Containers
 
@@ -508,15 +511,15 @@ Specialists
 
 
 ### Character Movement and Encumbrance
-|Encumbrance	   |Exploration Movement	  |Combat Movement		| Running Movement|
-|------------------|----------|---------------|-------------------------|-----------|
+|Encumbrance	   |Exploration Movement |Combat Movement | Running Movement|
+|------------------|---------------------|----------------|-----------------|
 
 ### Animal/Vehicle Movement and Encumbrance
-Animal/Vehicle 		Exploration Movement		Normal Load	Maximum Load|
-|------------------|----------|---------------|-------------------------|-----------|
+| Animal/Vehicle |	Exploration Movement | Normal Load | Maximum Load |
+|----------------|-----------------------|-------------|--------------|
 
 #### Burden
 | Animal Cost (gp) | Miles/Day| Movement Rate | Max Encumbrance (Coins) | Notes |
-|------------------|----------|---------------|-------------------------|-----------|
+|------------------|----------|---------------|-------------------------|-------|
 
 #### Container Capacity

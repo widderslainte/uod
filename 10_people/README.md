@@ -32,6 +32,12 @@ _Listed by their locale of first encounter_
 
 ### Vennosat City
 * Ivali Bon - an uncouth, hunchback trader. Ally of the Lamplighters. 
+* [Vennosat Caius](vennosat_caius.md)
+
+### Others
+* [The Magosh of Sofegai](the_magosh_of_sofegai.md)
+* [Favod the Younger](favod_the_younger.md)
+* [Miscellanrous People](miscellaneous_people.md)
 
 ## The Dream Realm
 * Johud - Current Ruler of the Dream Realm
@@ -42,6 +48,12 @@ _Listed by their locale of first encounter_
 * The Walker in the Wastes - former ruler of the Dream Realm
 * Valloy
 * Kolan - Barrister General of the Dream Realms. Sole employer of nogs in the Dream Realm. Can nullify soul contracts. 
+
+## Jungles of the South
+* [Grandmother Moss](grandmother_moss.md)
+* The Governor of Tuloi
+* The Wooden Priest
+* Onesuli
 
 ## Noble Families
 
@@ -57,6 +69,7 @@ _Listed by their locale of first encounter_
 * **Kohut** -- Heteri
 * **Ifaal** -- Chlendi (Pasdani)
 * **Ilwaen** -- Maetah (Cuvauw) - the late Baron Caus Ilwaen
+* **[Infaux](house_infaux.md)
 * **Iplalvi** -- Chlendi (Jegelumuth)
 * **Revuud** -- Heteri (Cuvauw) - Mining Comte Mlash Revuud
 * **Sabari** -- Chlendi
