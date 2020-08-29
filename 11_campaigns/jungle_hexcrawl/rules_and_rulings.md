@@ -11,7 +11,7 @@ Rules & Magic".  For items not covered there or in this document, refer back to 
 
 ### Character Creation 
 #### Ancestry
-Choose from the following, either individually or in combination (mixed ancestry other than Eskla, "ancestrally Heteri, but raised among the Mindat", etc).  Details can be found on Uod sites.
+Choose from the following, either individually or in combination (mixed ancestry other than Eskla, "ancestrally Heteri, but raised among the Mindat", etc).  Details can be found on <a href="http://uodwiki.daimones.net/03_cultures/">Uod sites</a>.
 * Chlendi
 * Eskla
 * Heteri
@@ -34,6 +34,8 @@ Choose from the following, either individually or in combination (mixed ancestry
  1 gp = 10 sp  
  1 pp = 10 gp = 100 sp
 * Tuloi is considered "rural" for cost and availability purposes.  As the village grows, availability of some items will increase into die roll chance.
+* <a href="resources_healing.md">Healing Resources</a>
+* 
 
 
 ### Adventuring: The Rules of the Game 
@@ -44,7 +46,7 @@ Choose from the following, either individually or in combination (mixed ancestry
   * Magic items kept (but not sold or exchanged) by a player character provide XP in amount determined by the Dungeon Master (roughly based on AD&D Dungeon Master's Guide values).
   * Magic items must be used (typical for weapons and armor), tested (often for potions, charged items), or otherwise identified (by reading scroll, use of **Identify** spell, sage, etc) to gain experience.  
 * Gaining a Level
-  * When gaining a level, roll all hit dice and choose if higher ("Empire of Petal Throne method").  Charaters always gain at least 1 hp when gaining a level (up to potential maximum: 3rd level fighter could not have more than 24hp, ignoring consitution bonuses).
+  * When gaining a level, re-roll all hit dice and choose if higher ("Empire of Petal Throne method").  
 
 
 #### Foraging and Hunting
@@ -55,7 +57,7 @@ Choose from the following, either individually or in combination (mixed ancestry
 
 #### Hazards
 * Damage - We have not been using, but probably should:
-    _"When his Hit Points reach 0, the character becomes unable to take any action, and in most cases falls completely unconscious. The character becomes mortally wounded at –3 Hit Points and will die in 1d10 minutes. No healing, magical or otherwise, can prevent death at this point. Death is instantaneous at –4 Hit Points."_
+    _"When his Hit Points reach 0, the character becomes unable to take any action, and in most cases falls completely unconscious. The character becomes mortally wounded at –3 Hit Points and will die in 1d10 minutes. No healing, magical or otherwise, can prevent death at this point. Death is instantaneous at –4 Hit Points."_ - will try to remember for player characters, unimportant for others.
 
 #### Healing
 * By convention, we've been granting d3 hit points recovered for a normal night's rest.
