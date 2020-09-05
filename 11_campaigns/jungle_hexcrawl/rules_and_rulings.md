@@ -1,17 +1,17 @@
 # Campaign Rules and Rulings
 **Changelog**
 * 2019/12/15 document start
-* 2020/04/17 lots of updates that should have been in previous changelogs, 
+* 2020/04/17 lots of updates that should have been in previous changelogs
+* 2020/08/29 minor edits, links
 
 ## Defaults and Assumptions
-In between character creation at campaign start and the first 3 or 4 sessions, we effectively switched from BX (Moldvay) to Lamentations of the Flame Princess.  When in doubt refer to the 2013 "Player Core Book:
-Rules & Magic".  For items not covered there or in this document, refer back to BX (Moldvay).  For items still not covered, we'll fall back on the Gospels of Saint Gygax.
+In between character creation at campaign start and the first 3 or 4 sessions, we effectively switched from B/X Dungeons & Dragons (Moldvay edition) to <a href="https://www.drivethrurpg.com/product/115059/LotFP-Rules--Magic-Free-Version">Lamentations of the Flame Princess</a>.  When in doubt refer to the 2013 <a href="https://www.drivethrurpg.com/product/115059/LotFP-Rules--Magic-Free-Version">"Player Core Book: Rules & Magic"</a> version.  For items not covered there or in this document, refer back to <a href="https://www.drivethrurpg.com/product/110274/DD-Basic-Set-Rulebook-B-X-ed-Basic">BX (Moldvay</a>).  For items still not covered, we'll fall back on the <a href="https://www.acaeum.com/ddindexes/setpages/dmg.html">Gospels of Saint Gygax</a>.
 
 ## Modifications 
 
 ### Character Creation 
 #### Ancestry
-Choose from the following, either individually or in combination (mixed ancestry other than Eskla, "ancestrally Heteri, but raised among the Mindat", etc).  Details can be found on <a href="http://uodwiki.daimones.net/03_cultures/">Uod sites</a>.
+Choose from the following, either individually or in combination (mixed ancestry other than Eskla, "ancestrally Heteri, but raised among the Mindat", etc).  Details can be found on the <a href="http://uodwiki.daimones.net/03_cultures/">Uod site</a>.
 * Chlendi
 * Eskla
 * Heteri
@@ -35,8 +35,6 @@ Choose from the following, either individually or in combination (mixed ancestry
  1 pp = 10 gp = 100 sp
 * Tuloi is considered "rural" for cost and availability purposes.  As the village grows, availability of some items will increase into die roll chance.
 * <a href="resources_healing.md">Healing Resources</a>
-* 
-
 
 ### Adventuring: The Rules of the Game 
 
