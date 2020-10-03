@@ -33,6 +33,7 @@ Choose from the following, either individually or in combination (mixed ancestry
  1 sp = 10 cp   
  1 gp = 10 sp  
  1 pp = 10 gp = 100 sp
+* **Note, Aug 2020**: Based on discussion, we're moving towards LotFP standard coin values (and encumbrance): https://docs.google.com/document/d/1BDkuQhW-mEsUe0TuPmfLaA_SpknN2izevK0H68BN-nU/edit#heading=h.vpns5gtweip2
 * Tuloi is considered "rural" for cost and availability purposes.  As the village grows, availability of some items will increase into die roll chance.
 * <a href="resources_healing.md">Healing Resources</a>
 
@@ -60,6 +61,13 @@ Choose from the following, either individually or in combination (mixed ancestry
 #### Healing
 * By convention, we've been granting d3 hit points recovered for a normal night's rest.
 
+#### Movement and Encumbrance
+* **Note, Aug 2020**: Based on discussion, we're moving towards LotFP standard coin encumbrance (and coin values): https://docs.google.com/document/d/1BDkuQhW-mEsUe0TuPmfLaA_SpknN2izevK0H68BN-nU/edit#heading=h.vpns5gtweip2
+* Shields do **not** count as encumbering unless they are tower shields (or similarly large).  Buckler, Small, and Normal Shields still count as one item.
+* 5 days (or maybe we'll revert to 7) of rations count as one item.
+* Daggers count as one item.
+
+
 ### Retainers
 * Hirelings and other non-classed retainers can gain XP as "0 level" NPCs and become a 1st level characer class after gaining 1000 xp.  Special exception for retainers taken over permanently by a player as their **primary** PC.
 
@@ -67,7 +75,7 @@ Choose from the following, either individually or in combination (mixed ancestry
 * Initiative
     * Group initiative is used
     * Declare intended actions before round
-    * Initiative ties generally go to the PCs on even results, to the foes on odd results.
+    * Initiative ties generally go to the PCs on even results, to the foes on odd results. This means players always win on "6" and always lose on "1".
     * Actions are taken in order of Moldvay Basic (**SHAWN NEEDS TO ADD HERE**)
 * Other Combat Issues
     * **"Shields be Splintered"** is used - a shield can be sacrificed (effectively destroyed) to negate the effect of an attack.
