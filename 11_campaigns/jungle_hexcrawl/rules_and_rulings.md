@@ -3,6 +3,7 @@
 * 2019/12/15 document start
 * 2020/04/17 lots of updates that should have been in previous changelogs
 * 2020/08/29 minor edits, links
+* 2020/10/03 links to discussion docs, risky casting, initiative clarification
 
 ## Defaults and Assumptions
 In between character creation at campaign start and the first 3 or 4 sessions, we effectively switched from B/X Dungeons & Dragons (Moldvay edition) to <a href="https://www.drivethrurpg.com/product/115059/LotFP-Rules--Magic-Free-Version">Lamentations of the Flame Princess</a>.  When in doubt refer to the 2013 <a href="https://www.drivethrurpg.com/product/115059/LotFP-Rules--Magic-Free-Version">"Player Core Book: Rules & Magic"</a> version.  For items not covered there or in this document, refer back to <a href="https://www.drivethrurpg.com/product/110274/DD-Basic-Set-Rulebook-B-X-ed-Basic">BX (Moldvay</a>).  For items still not covered, we'll fall back on the <a href="https://www.acaeum.com/ddindexes/setpages/dmg.html">Gospels of Saint Gygax</a>.
@@ -20,7 +21,7 @@ Choose from the following, either individually or in combination (mixed ancestry
 
 #### Choose a Character Class
 * Only Cleric, Fighter, Magic-User, and Specialist are available. 
-* Dwarf - Elf, Halfling - No actual dwarves, elves or halflings, but with negotiation you could potentially use their rules in some other fashion (halfling rules for scout,etc).
+* Dwarf - Elf, Halfling - No actual dwarves, elves or halflings, but with negotiation you could potentially use their rules in some other fashion (halfling rules for scout, etc).
 
 #### Determine Hit Points
 * Maximum hit points at first level
@@ -62,7 +63,7 @@ Choose from the following, either individually or in combination (mixed ancestry
 * By convention, we've been granting d3 hit points recovered for a normal night's rest.
 
 #### Movement and Encumbrance
-* **Note, Aug 2020**: Based on discussion, we're moving towards LotFP standard coin encumbrance (and coin values): https://docs.google.com/document/d/1BDkuQhW-mEsUe0TuPmfLaA_SpknN2izevK0H68BN-nU/edit#heading=h.vpns5gtweip2
+* **Note, Aug 2020**: Based on discussion, we're moving towards LotFP standard coin encumbrance (and coin values): [Campaign Rules Discussion](https://docs.google.com/document/d/1BDkuQhW-mEsUe0TuPmfLaA_SpknN2izevK0H68BN-nU/edit#heading=h.vpns5gtweip2)
 * Shields do **not** count as encumbering unless they are tower shields (or similarly large).  Buckler, Small, and Normal Shields still count as one item.
 * 5 days (or maybe we'll revert to 7) of rations count as one item.
 * Daggers count as one item.
@@ -90,6 +91,7 @@ Choose from the following, either individually or in combination (mixed ancestry
   * Upon gaining a level the newly gained spell **must** also be chosen from the "Tutelary" list or from their cultural tradition list.
   * Spells from the standard LotFP Magic-User list can be found (in scrolls or spellbooks) or independently researched and then memorized as normal.
   * Spells from other cultural traditions can not be learned under normal circumstances (a beneficient practioner of that tradition or initiation into a knowledgable lodge).  Standard Magic-Users can not learn or choose spells from cultural traditions.  _Eventually Shawn hopes to reformulate the standard Magic-User spell list into Traditional Sorcery._
+* Using [risky casting rules](http://uodwiki.daimones.net/80_mechanics/basic_magic_rules.html), with a few less restrictions.
 
 ## Otherwise Unchanged Rules
 
