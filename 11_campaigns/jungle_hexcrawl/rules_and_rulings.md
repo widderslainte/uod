@@ -33,7 +33,7 @@ Choose from the following, either individually or in combination (mixed ancestry
  1 sp = 10 cp   
  1 gp = 10 sp  
  1 pp = 10 gp = 100 sp
-* **Note, Aug 2020**: Based on discussion, we're moving towards LotFP standard coin values (and encumbrance): https://docs.google.com/document/d/1BDkuQhW-mEsUe0TuPmfLaA_SpknN2izevK0H68BN-nU/edit#heading=h.vpns5gtweip2
+* **Note, Aug 2020**: Based on discussion, we're moving towards LotFP standard coin values (and encumbrance): [Campaign Rules Discussion](https://docs.google.com/document/d/1BDkuQhW-mEsUe0TuPmfLaA_SpknN2izevK0H68BN-nU/edit#heading=h.vpns5gtweip2)
 * Tuloi is considered "rural" for cost and availability purposes.  As the village grows, availability of some items will increase into die roll chance.
 * <a href="resources_healing.md">Healing Resources</a>
 
