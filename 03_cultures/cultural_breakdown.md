@@ -20,3 +20,9 @@
 - Mindat - Kriegsspiel-chess like game
 - Heteri/Ghiakrn - dice
 
+## Phases of Life
+### Funerary Customs
+* Pyres
+* Shrounds
+
+
