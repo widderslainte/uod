@@ -5,7 +5,7 @@ Montado Waxgallow, presumed Lich
 * Has been here since before the Mindat
 * Dislikes Red Lizardfolk - "scholarly disagreement"
 * Grand City of the Red Lizardfolk at the head of the North River
-* Other lizardfolk are generally hospitable, but the tribes oftern war among themselves.  Black lizardfolk inhabit the swamps to the north.
+* Other lizardfolk are generally hospitable, but the tribes often war among themselves.  Black lizardfolk inhabit the swamps to the north.
 * Hills beyond the South River
 * Onesuli is some sort of patron or guardian of the regions and it's flora and fauna.  
 * Others like him exist, but less well-temperate and noble of intention

@@ -43,7 +43,7 @@ _Craft Talisman, Less [Item Creation]_
 
 _Work in Progress_ - only works with certain spells or classes of spells. Will define list at later time. Prerequisite: Spellcaster Level 1+
 
-Benefit: Character can create a talisman, a minor magickal item, to link spells to. Creation of the talisman requires 1000 GP and 100 XP per level of spell it can link, and can only ever be linked to one spell. Linking a spell to a talisman takes up a "spell slot" until the spell is discharged, dispelled, or released, upon which the spell slot can be used as normal (with proper rest, etc). A properly linked talisman can be used to summon forth a spell throuh a single verbal component and may be done as a free action. This does not in any way eliminate the other requirements or components necessary for casting the spell normally.
+Benefit: Character can create a talisman, a minor magickal item, to link spells to. Creation of the talisman requires 1000 GP and 100 XP per level of spell it can link, and can only ever be linked to one spell. Linking a spell to a talisman takes up a "spell slot" until the spell is discharged, dispelled, or released, upon which the spell slot can be used as normal (with proper rest, etc). A properly linked talisman can be used to summon forth a spell through a single verbal component and may be done as a free action. This does not in any way eliminate the other requirements or components necessary for casting the spell normally.
 
 ## Material Culture
 **Random Elements**

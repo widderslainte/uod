@@ -30,7 +30,7 @@ _known to current characters in Spring 2019 campaign_
 | **Source**           | **Form**      | **Cost** | **Availability** | **Time** | **Location** | **Form** |
 |----------------------|---------------|----------|------------------|----------|--------------|----------|
 | **TBD**              | Poultice      | 100sp    | 75% / d6         | d3 days  | Boglai       |          |
-| --                   | Potion , Std  | 500sp    | 25% / d3         | d8 days  | --           |          |
+| --                   | Potion , Std  | 500sp    | 25% / 1          | d8 days  | --           |          |
 | **Apothecary Guild** | Poultice      | --       | N/A              | --       | Boglai       |          |
 | --                   | Potion, Std   | 750sp    | 50% / d6         | d8 days  | --           |          |
 | --                   | Black Monkey Powder       | d6x100sp | TBD% /d? | d6 days  | --       | |
