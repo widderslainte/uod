@@ -13,7 +13,7 @@
 
 ### 1.1.1 Risky Casting from LotFP
 
-Save or roll on miscast table for the following conditions - penalty to save for multiple conditions:
+Save or roll on [miscast table](magic_miscasts.md) for the following conditions - penalty to save for multiple conditions:
 
 * Casting after per day spell limits reaching (all spells expended)
 * Casting spell that has not been prepared
