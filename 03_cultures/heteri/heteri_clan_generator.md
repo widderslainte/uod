@@ -30,7 +30,7 @@
 ### Clan Tendencies
 * **Industry**
 * **Favored Color**
-* **Patron - Deity, Ancestor Spirit, or Totem**: all clans hold Utan as the supreme deity (at least publically), but most will claim another deity or ancestor spirit looks over the clan's welfare.
+* **Patron - Deity, Ancestor Spirit, or Totem**: all clans hold Utan as the supreme deity (at least publicly), but most will claim another deity or ancestor spirit looks over the clan's welfare.
 * **Prestige**
 * **Wealth**
 * **Assets or Contacts**
