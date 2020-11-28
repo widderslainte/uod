@@ -7,12 +7,13 @@ _God of Warfare and Sovereignty, the Earth and The Sky and Oracle of the Fallen 
 
 Utan the Destroyer is the god of Warfare, the Earth & the Sky (in metaphoric terms). All the other deities are considered his slaves. The Heteri people recognize him as the greatest of gods, but holds that he ultimately cares little for his people. Legend has it that Utan was the first chief of the Heteri people and slew the elder gods, gaining immortality by consuming their blood and flesh, and birthed a new family of deities. From them he learned the secrets of the world and taught his people the ways of herding and husbandry. He raised his brothers and sisters, other chieftains up to the heavens to rules beside him.  Utan iconography often includes dogs, specifically the steppe hound, with its long legs and lion-like mane.
 
-Utan favors the bold, those that offer prayer and worship, but do not *need* it. Utan's number is 6, his color yellow, and his favored sacrifices are reptiles or a male goat of adult age. On high holy days, clergy of Utan strip to the waist and paint themselves in yellow ochre. To honor Utan's name, fast in rememberence of the first tribe's famine.
+Utan favors the bold, those that offer prayer and worship, but do not *need* it. Utan's number is 6, his color yellow, and his favored sacrifices are reptiles or a male goat of adult age. On high holy days, clergy of Utan strip to the waist and paint themselves in yellow ochre. To honor Utan's name, fast in remembrance of the first tribe's famine.
 
 Symbol: horizontal hemisphere overlapped with splay of 5 vertical lines (like fingers)
 
 ### Hilinavyu 
-The Coal God, governs mining and construction, metals, fires, and the hearth. Hilinavyu was the father of the Gods and keeper of the secrets of the mountains. Priests seek "secrets under the mountains" in Hilinavyu's name and blacken the skin around the eyes when acting in his honor.  Heteri seek out Hilinavyu's blessing over the hearth in a new home or other construction. Large temple complexes devoted to Hilinvayu can be found in Narrosh and Bolog. Status of Hilinavyu are always carved and depict the eyes surrounding by black or represented by shiny coal orbs. His number is nine and his color black. He has no animal, but rather a fire-ravaged tree.
+_The Coal God_
+The Coal God governs mining and construction, metals, fires, and the hearth. Hilinavyu was the father of the Gods and keeper of the secrets of the mountains. Priests seek "secrets under the mountains" in Hilinavyu's name and blacken the skin around the eyes when acting in his honor.  Heteri seek out Hilinavyu's blessing over the hearth in a new home or other construction. Large temple complexes devoted to Hilinvayu can be found in Narrosh and Bolog. Statues of Hilinavyu are always carved and depict the eyes surrounding by black or represented by shiny coal orbs. His number is nine and his color black. He has no animal, but rather a fire-ravaged tree.
 
 * Holy Act: Underground bonfire vigil
 * Sacrifice: Small birds and precious metals

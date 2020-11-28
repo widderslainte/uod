@@ -25,6 +25,8 @@ The Heteri aren't too formal beyond that. They would use terms like Elder (for a
 ### Tribes & Clans
 The main Heteri tribes: Naggai, Luggai, Polog. There are three or four minor tribes. Each tribe is made up of dozens of clans. Naggai are the clans of the south (which includes Irosk's). Luggai are the clans of the west (which includes Rikuu's).
 
+* [Heteri Clans](heteri_clans.md)
+* [Heteri Clan Detail Generator](heteri_clan_generator.md)
 
 ### Nations
 
@@ -105,7 +107,7 @@ The Heteri worship a pantheon of gods headed by Utan the Destroyer, who conquere
 
 Legends tell of the ancient worship of the Vundaelad, the Great Serpent, in Heteri and Maetah communities along the North Sea Coast. [metaphor for fishing/living off the sea?] The use of the sea serpent image can be traced back through early maetah/maldaer colonization, and is believed to be imagery and cosmology brough from their homeland We later see this imagery later used by the renegade Heteri king, Sheiluch of Punluggai (an aristocratic dynasty), in his attempts to reconquer traditional Heteri communities along the Blood Coast from Eschaltlin forces. While other factions of the Heteri nobilities supported his goals, rumours abounded about pacts with demons and the Great Serpent. Ancient stories of fishermen appeasing spirits of the ocean were acceptable, but offering the collective soul of the civilization provoked outrage amongst the remaining kingdoms and tribes. None were surprised when Sheiluch vanished amidst a naval attack on Noduan.
 
-* [Pantheon](../../08_religion/heteri_religion.md)
+* [Pantheon and Worship](../../08_religion/heteri_religion.md)
 * [Prayercloths](prayer_cloths.md)
 
 ### Death and Burial
@@ -119,6 +121,9 @@ Legends tell of the ancient worship of the Vundaelad, the Great Serpent, in Hete
 
 ## Material Culture
 * **Heteri Broadsword**
+* [Prayercloths](prayer_cloths.md)
+* Wrapped Smoking Pipes
+**Clan Marker:** carved wooden totems, the tops of which are hollowed depressions for torches or lit pitch.
 
 ## Miscellania
 
