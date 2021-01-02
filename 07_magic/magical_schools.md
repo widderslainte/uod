@@ -1,12 +1,12 @@
 # Magical Schools
 ## Magickal Lodges of The Rhiat
 
-The magickal knowledge of Rhiat is preserved, dispersed, and instructed in a number of ways. Individual teachers, often hermits, or sorcerers in remote regions take on small numbers of pupils. Less complex traditions are taught in conjunction with other intellectual training (astronomers teach astrology, priesthood’s mysticism, etc). The most famous and effective sorcerers have left behind an intellectual tradition through generation after generation of students, similar to the academies of Plato, Socrates, and Aristotle. These are named after the founding mage. Other schoolss develop around a group, or faculty of teaching sorcerers, who specialize in a few of these methods or arcane knowledges.
+The magickal knowledge of Rhiat is preserved, dispersed, and instructed in a number of ways. Individual teachers, often hermits, or sorcerers in remote regions take on small numbers of pupils. Less complex traditions are taught in conjunction with other intellectual training (astronomers teach astrology, priesthood’s mysticism, etc). The most famous and effective sorcerers have left behind an intellectual tradition through generation after generation of students, similar to the academies of Plato, Socrates, and Aristotle. These are named after the founding mage. Other schools develop around a group, or faculty of teaching sorcerers, who specialize in a few of these methods or arcane knowledges.
 
 * Ozmodious
 * Azan
 * Ghaerdon
-* Coranth
+* **Coranth** - Eskla cultural derivation. Specializes in Alchemy, multiple forms of Divination, Mediumship and Natural Philosophy 
 * [Astille](astille.md)
 * Xavier
 * Torfaine

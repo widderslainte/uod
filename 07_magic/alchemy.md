@@ -7,7 +7,7 @@
 Speculative Alchemy is a specialization in the metaphysical aspects of natural science, and how the chemical processes can be harassed to purify the human soul.
 
 ### Pragmatic Alchemy
-Pragmatic alchemy focuses on knowledge and skill, in an effort to utilize and manipute the natural properties of biological, chemical, and mineral substances. It veers in the direction of chemistry, medicine, and herbalism.
+Pragmatic alchemy focuses on knowledge and skill, in an effort to utilize and manipulate the natural properties of biological, chemical, and mineral substances. It veers in the direction of chemistry, medicine, and herbalism.
 
 
 ## Alchemical Operations

@@ -19,7 +19,7 @@ Sorcery is the general art of changing the reality in conformity with desire. He
 
 **Origin Orientation** – Visceral (non-sentient)
 
-**Origin Relations** – None, unaware of practicioners.
+**Origin Relations** – None, unaware of practitioners.
 
 **Omnessence Utilization** - Traditional sorcery uses omnessence in the following ways:
 * Powered by hard omnessence - material items, of animal, vegetable, or mineral composition.
