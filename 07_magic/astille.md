@@ -5,5 +5,5 @@ Lodge of Maetah Sorcery
 * Colour: Blue-grey
 * Locations: Imphomonee, Pasdani
 * Elements:
-* Defining Merit: Luck Magic
+* Defining Merit: Astrology, Traditional Sorcery, Luck Magic
 * Path Merits:
