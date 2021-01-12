@@ -103,7 +103,7 @@ Comprehension: 75%
 
 ## Miscellaneous Spells
 
-## Level 2
+### Level 2
 
 #### Theft of the Body's Hearth
 Magician, Level 2 - _Classical Sorcery Tradition_    
@@ -114,3 +114,21 @@ Saving Throw: Normal, Negates Effect
 Comprehension: 50%  
 
 **Effect:** Caster's touch steals a rib from the target, with significant pain but no immediate damage.  Until the rib restored, the target can not heal (magical or otherwise, short of Grand Rituals).  If the rib is retrieved, it will painless slide back into place if touched upon the original target's skin.
+
+## Undefined
+
+#### The Red Mark
+_Precept of Knowledge_
+
+By mixing a pinch of soil and a drop of the sorcerer's blood, the next person touched can be tracked. All it takes is the touch a fingertip, and the mark can will remain, even if the target washes the spot off. At any time the sorcerer can determine the target's general distance and direction with a successful (Intelligence + Occult) roll.
+
+* Method: Manipulation + Maetah Sorcery (+/- Modifiers)
+* Modifiers:
+* Success: Must achieve one success on the casting roll, then successfully touch the target.
+* Drain: Base drain is Casting Pool, reduced by a normal soak roll.
+* Duration: One day per success.
+
+#### Wrath of Flames
+_Precept of Fury_
+
+#### Apotropaic mark
