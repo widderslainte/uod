@@ -21,7 +21,7 @@ The magickal knowledge of Rhiat is preserved, dispersed, and instructed in a num
 * lodges arranged around “current" or extra planar being…
 
 ### Theoretical Rivalries 
-The primary division among the magickal lodges is the spritualist/antispiritualist divide. Within each of the perspectives all fo the lodges can agree on at leat the most general principles.
+The primary division among the magickal lodges is the spritualist/antispiritualist divide. Within each of the perspectives all of the lodges can agree on at least the most general principles.
 
 * **Antispiritualists** – Focus on matter to the exclusion of spirit.
 * **Alchemists**
