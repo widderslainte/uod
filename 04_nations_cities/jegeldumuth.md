@@ -4,12 +4,30 @@ City originally carved from the side of the cliffs as a Ningala fortress. Conque
 
 
 ### Locations
-* **Tavern Names:** 
-* 
+* **Groghalls and flophouses of note:** 
+    * Venno's Bathhouse
+    * The Figleaf
+    * The Shrunken Head
+* **Temples and Shrines** - along the western cliffside, toward the north of the city, stands are row of once-grand temples and shrines.  Some are still active and beautifully maintained, but many have slipped into obscurity and their structures slowly crumble as the cliff-edge erodes.  It is whispered that some have retreated into tunnels beneath the old shrines and darker sects and heresies have taken over the crypts of their foes.
+    * [Chuglaior](../08_religion/heteri_religion.html#chuglaior) 
+    * [Eluus](../08_religion/heteri_religion.html#eluus) 
+    * [The Storm Mother](../08_religion/maetah_religion.html#the-storm-mother)
+    * Lihoe 
+    * Bekalas
+    * Domitevati
+    * Itil-called-the-Vengeful
+* **Templeround of Thedine** - located in the eastern town, newly constructed among the hovels of Maetah workers.
+* **Jeweler's Guild Market**
 
 ### Organizations
+* Jeweler's Guild
+* Commernce Guild
+* The Bootrats
+
 #### Notable Families and Clans 
 * 
+
 #### Schools & Guilds 
 * Jeweler’s Guild
+    * Master:
 * 

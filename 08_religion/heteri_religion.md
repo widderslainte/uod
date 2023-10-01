@@ -13,6 +13,7 @@ Symbol: horizontal hemisphere overlapped with splay of 5 vertical lines (like fi
 
 ### Hilinavyu 
 _The Coal God_
+
 The Coal God governs mining and construction, metals, fires, and the hearth. Hilinavyu was the father of the Gods and keeper of the secrets of the mountains. Priests seek "secrets under the mountains" in Hilinavyu's name and blacken the skin around the eyes when acting in his honor.  Heteri seek out Hilinavyu's blessing over the hearth in a new home or other construction. Large temple complexes devoted to Hilinvayu can be found in Narrosh and Bolog. Statues of Hilinavyu are always carved and depict the eyes surrounding by black or represented by shiny coal orbs. His number is nine and his color black. He has no animal, but rather a fire-ravaged tree.
 
 * Holy Act: Underground bonfire vigil
