@@ -18,16 +18,21 @@ City originally carved from the side of the cliffs as a Ningala fortress. Conque
     * Itil-called-the-Vengeful
 * **Templeround of Thedine** - located in the eastern town, newly constructed among the hovels of Maetah workers.
 * **Jeweler's Guild Market**
+* **"Old Chlendi Town"** - collection of stilted huts at the water's edge where the mines drain into the Minkush River.
 
 ### Organizations
-* Jeweler's Guild
-* Commernce Guild
 * The Bootrats
 
 #### Notable Families and Clans 
-* 
+* Bloomfly - Eskla family that are the herditary rules of Jegeldumuth
+    * Duchess Ennova Bloomfly
+* Enfer - Eskla family tied to the Jeweler's Guild
 
 #### Schools & Guilds 
 * Jeweler’s Guild
-    * Master:
-* 
+    * Master: Rehtet Enfer
+* Commerce Guild
+* Lodge of Coranth
+* Lodge of Lelleivantli
+* Guild of Arms
+
