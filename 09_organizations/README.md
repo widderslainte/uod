@@ -18,8 +18,8 @@
 * Forging Guild	- blacksmiths, armorours, and metal crafts
 
 ## Cultural Organizations
-The Order of the Velvet Glove
-The Knights of the Silver - Founded by nobilty at the height of the Eskla
+* The Order of the Velvet Glove
+* The Knights of the Silver - Founded by nobilty at the height of the Eskla Empire
 
 ## Criminal Organizations
 * Ontramee - Maetah crime syndicate centered in Imphomonee
