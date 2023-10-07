@@ -6,7 +6,7 @@
 * [Eskla](eskla/README.md)
   * [Being Raised Eskla](eskla/raised_eskla.md)
   * [Example Eskla Words](eskla/eskla_words.md)
-  * [Eschlatli Notes](eskla/echlatli_notes.md)
+  * [Eschlatli Notes](eskla/eschlatli_notes.md)
 * [Heteri](heteri/README.md)
   * [Being Raised Heteri](heteri/raised_heteri.md)
   * [Heteri Clans](heteri/heteri_clans.md)
