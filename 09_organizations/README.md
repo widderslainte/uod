@@ -14,7 +14,7 @@
 * Guild of Arms
 * Lamplighter's Guild
 * Guild of Royal Engineers
-* The Slavers' Guild - in many areas, would bd considered a criminal organization
+* The Slavers' Guild - in most areas considered a criminal organization
 * Forging Guild	- blacksmiths, armorours, and metal crafts
 
 ## Cultural Organizations
