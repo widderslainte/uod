@@ -1,5 +1,5 @@
 # General Information
-The Rhiat is the central continent (for gaming purposes) on the planet. It is located on the second planet of of the solar system, Uod, which by convention is reasonably similar to the Earth in the geological and astronomical sense. Both commoners and astronomers refer to the planet as Uod in a casual manner, just as we toss around the word "Earth". The Chlendi, original astrologers in the Rhiat, saw the universe as a system of spheres and planes. The stars were magical points on the sphere that surrounded Uod, while the Sun and other planets existed in their own spheres.
+The Rhiat is the central continent (for gaming purposes) on the planet. It is located on the second planet of of the solar system, Uod, which by convention is reasonably similar to the Earth in the geological and astronomical sense. Both commoners and astronomers refer to the planet as Uod in a casual manner, just as we toss around the word "Earth". The Chlendi, original astrologers in the Rhiat, saw the universe as a system of spheres and planes. The stars were magical points on the sphere that surrounded Uod, while the Sun and other planets existed in their own spheres. The technology level is generally similar to the Renaissance, but varies by region.
 
 * [Map](./rhiat.jpg)
 * [Cosmology, Astronomy, & Time](./cosmology_time.md)
