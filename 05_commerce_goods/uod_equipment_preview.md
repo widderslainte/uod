@@ -27,8 +27,8 @@ _(vs credit, paper, barter)_
 _common examples compared to standard values above_
 
 ### Standard of Living
-|Standard of Living  |	Monthly Cost | Common Profession |    |    |
-| -------------------|---------------|-------------------|----|----|
+| Standard of Living  |	Monthly Cost | Common Profession |    |    |
+|---------------------|---------------|-------------------|----|----|
 | Street             |               |                   |    |
 | Poverty            |               |                   |    |
 | Adequate           |               |                   |    |
@@ -96,7 +96,7 @@ _See charts and descriptions below_
 | Scale Armour	    |  -	|  60  | 4 	 | 400  | 60'  | Common
 | Shield, Large	    |  -	|  20  | +2	 | 100  | N/A  | Common
 | Shield, Medium	|  20	|  12  | +1	 |  80  | N/A  | Common
-|Shield, Nog Coverage| --   | 100  | +1	 |  N/A | N/A  | Common
+| Shield, Nog Coverage| --   | 100  | +1	 |  N/A | N/A  | Common
 | Shield, Small	    |  15	|  10  | +1	 |  50  | N/A  | Common
 | Shield, Small wood|   3   |   5  | +1  |  30  | N/A  | Common
 | Shield, buckler   |  20   |   8  | +1  |  25  | N/A  | Common
@@ -122,9 +122,14 @@ _See charts and descriptions below_
 * Cloak - heavy cloth garment of wool, cotton or other material, used hung over offhand arm as shield and for weapon entanglment.
 * Furs - soft leather or hide coat, tunic, or jacket padded with heavy furs for warmth, treat as padded armour.
 * Helmets
-* *   Describe
-* N/A -- Hide, Zhouna - stripes of the hide of zhounas, the reptilian riding beasts of the Mindat.
+* * Armored Mask, Steel
+* * Kettle
+* * Lobster-tail
+* * Sallet
+* * Skullcap, Metal
+* N/A -- 
 * Hides, Regional
+* Hide, Zhouna - stripes of the hide of zhounas, the reptilian riding beasts of the Mindat.
 * Leather, Cuir Bouilli
 * Leather scale armour - overlapping scales of oil cured leather.
 * Maile, Hauberk - long sleeved, ankle length coat and skirt of steel rings, linked in one to four pattern.
@@ -380,7 +385,7 @@ _See charts and descriptions below_
 | Sack, small |   2       |       1  |           200    |          1       |       BX  |
 | Saddlebags  |   5       |       5  |           300    |          2       |       BX  |
 
-  * See also, AD&D Companion v1.3
+* See also, AD&D Companion v1.3
 
 ### Food and Provisions
 
@@ -485,27 +490,27 @@ Scroll Availability
 
 ## Followers and Employees
 
-| **Item**           | **Rural** | **City** | Availability   |Special       |              |
-|--------------------|-----------|----------|----------------|--------------|--------------|
-| Nogs               |           |          | | | 
-| -- Cartographer Nog |          |          | | | 
-| -- Shield Nog      |           |          | | |
-| -- Nogs, Service   |           |          | | |
+| **Item**            | **Rural** | **City** | **Availability**   | **Special**       |              |
+|---------------------|-----------|----------|--------------------|-------------------|--------------|
+| Nogs                |           |          |   |   | 
+| -- Cartographer Nog |           |          |   |   | 
+| -- Shield Nog       |           |          |   |   |
+| -- Nogs, Service    |           |          |   |   |
 
 Hirelings
-    Availability by "Market"
-    Pay per Month
-    Types and standard equipment
+*    Availability by "Market"
+*    Pay per Month
+*    Types and standard equipment
 Henchmen
-    Availability by "Market"
-    Pay per Month
-    Types and standard equipment
+*    Availability by "Market"
+*    Pay per Month
+*    Types and standard equipment
 Mercenaries
-    Availability by "Market"
-    Pay per Month
-    Types and standard equipment
+*    Availability by "Market"
+*    Pay per Month
+*    Types and standard equipment
 Specialists
-    Pay per month
+*     Pay per month
 
 ## Encumbrance
 
@@ -513,13 +518,15 @@ Specialists
 ### Character Movement and Encumbrance
 |Encumbrance	   |Exploration Movement |Combat Movement | Running Movement|
 |------------------|---------------------|----------------|-----------------|
+|   |   |   |
 
 ### Animal/Vehicle Movement and Encumbrance
 | Animal/Vehicle |	Exploration Movement | Normal Load | Maximum Load |
 |----------------|-----------------------|-------------|--------------|
+|   |   |   |
 
 #### Burden
 | Animal Cost (gp) | Miles/Day| Movement Rate | Max Encumbrance (Coins) | Notes |
 |------------------|----------|---------------|-------------------------|-------|
+|   |   |   |    |
 
-#### Container Capacity
