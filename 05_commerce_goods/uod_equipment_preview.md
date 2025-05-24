@@ -1,4 +1,5 @@
 # Appendix U Preview: Equipment
+
 -------
 
 ## The Basics of Equipment
@@ -14,7 +15,8 @@ _Purchasing Equipment at start_
 _(vs credit, paper, barter)_
 
 #### Traditional Exchange Value
-| **Coins**		    | Cp | Sp | Ep | Gp | Pp |
+
+| **Coins**         | Cp | Sp | Ep | Gp | Pp |
 | ------------------|----|----|----|----|----|
 | Copper Piece      |1   |   -|   -|   -|   -|
 | Silver Piece      |10  |   1|   -|   -|   -|
@@ -27,24 +29,28 @@ _(vs credit, paper, barter)_
 _common examples compared to standard values above_
 
 ### Standard of Living
+
 | Standard of Living  |	Monthly Cost | Common Profession |    |    |
 |---------------------|---------------|-------------------|----|----|
-| Street             |               |                   |    |
-| Poverty            |               |                   |    |
-| Adequate           |               |                   |    |
-| Comfortable        |               |                   |    |
-| Wealthy            |               |                   |    |
-| Nobility           |               |                   |    |
-
+| Street             |               |                   |    |    |
+| Poverty            |               |                   |    |    |
+| Adequate           |               |                   |    |    |
+| Comfortable        |               |                   |    |    |
+| Wealthy            |               |                   |    |     |
+| Nobility           |               |                   |    |    |
 
 ### General Notes
+
 _pointless intro paragraph_
 
 #### Looting and resale
+
 _guidelines for what can be salvaged and expected value_
 
 ## Equipment Avaibility Overview
+
 _by market, region, rarity_
+
 ### Build/Repair/Import/Seasonal
 
 #### Commissioning Equipment
@@ -53,14 +59,16 @@ _cost_
 _time_
 
 ### Village
+
 _common availability and pricing differences_
 
 ### Keep
+
 _common availability and pricing differences_
 
 ### Regional Town
-_common availability and pricing differences_
 
+_common availability and pricing differences_
 
 ### Commissioning Equipment
 
@@ -73,7 +81,7 @@ _See charts and descriptions below_
 
 ### Armor
 
-|**Armor**			| Rural | City | AC	 | Encumbrance | Max Move | Availability | Enc (coin) | Enc (slot) |
+|**Armor**          | Rural | City | AC  | Encumbrance | Max Move | Availability | Enc (coin) | Enc (slot) |
 |-------------------|-------|------|-----|-------------|----------|--------------|------------|------------|
 | _Clothing Only_	| _-_	| _-_  | _0_ | -	| 120' | _Common_
 | Banded Armour	    |  -	| 150  | 6	 | 350  | 90'  | Common
@@ -103,10 +111,10 @@ _See charts and descriptions below_
 | Splint Armour	    |  -	| 110  | 6 	 | 400  | 60'  | Common
 | Studded Leather 	|  25	|  25  | 3	 | 200  | 90'  | Common
 | Leather Scale     | --    |  40  | 3   | 250  | 90'  | Common
-    
 
 #### Helmets
-|**Helmets**			 | Rural | City | AC  | Availability | Encumbrance  | Enc (coin)   | Enc (slot) | Notes      |
+
+|**Helmets**             | Rural | City | AC  | Availability | Encumbrance  | Enc (coin)   | Enc (slot) | Notes      |
 |------------------------|-------|------|-----|--------------|--------------|--------------|------------|------------|
 | Armored Mask, Steel    |    -- |   20 |     |              |              |              |            | +1 Save    |
 | Helmet, Kettle         |    20 |   10 |  +1 |              |              |              |            | +1 Save    |
@@ -115,6 +123,7 @@ _See charts and descriptions below_
 | Skullcap, Metal        |     5 |   10 |   - |              |              |              |            | +1 Save    |
 
 #### Armor Descriptions
+
 * Breast & Back - pair of steel plates worn over the chest, often with a soft leather garment underneath. The back plate is typically excluded by cavalry.
 * Brigandine - long coat of leather bands, each studded and embedded with steel plates.
 * Buff Coat - heavy coat of quilted cloth, often in multiple layers.
@@ -127,7 +136,6 @@ _See charts and descriptions below_
 * * Lobster-tail
 * * Sallet
 * * Skullcap, Metal
-* N/A -- 
 * Hides, Regional
 * Hide, Zhouna - stripes of the hide of zhounas, the reptilian riding beasts of the Mindat.
 * Leather, Cuir Bouilli
@@ -203,6 +211,7 @@ _See charts and descriptions below_
 
 
 #### Firearms
+
 |**Weapon**		                | Rural | City | **Damage** | Encumbrance | Availability | Special |
 | ------------------------------|-------|------|------------|-------------|--------------|---------|
 | Pistol                        | --    | 35   |       1d8  |             |              |
@@ -210,6 +219,7 @@ _See charts and descriptions below_
 | Musket, Matchlock             | --    | 65   |       1d8  |             |              |
 
 #### Siege Weapons
+
 |**Weapon**		                | Rural | City | **Damage** | Encumbrance | Availability | Special |
 | ------------------------------|-------|------|------------|-------------|--------------|---------|
 | Catapults and Ballista:       |       |      |            |             |              |
@@ -221,6 +231,7 @@ _See charts and descriptions below_
 | Siege Tower                   | 	--  | 800  |            |             |              |
   
 #### Barding
+
 |**Barding**	  	      | **Rural** | **City** | AC | Encumbrance | Max Move | Availability |
 | ------------------------|-----------|----------|----|-------------|----------|--------------|
 | Barding, Leather/Light  |	       -- |      250 |	3 |	            |          | Common       |
@@ -228,18 +239,13 @@ _See charts and descriptions below_
 | Lamellar Barding	      |        -- | 	 600 |  5 |	            |          | Uncommon     |
 | Plate Barding		      |        -- |     1000 |	7 |	            |          | Uncommon     |
 
-
-
-
-
-
-
 ## General Equipment
 
 ### Miscellaneous, Unsorted
-* Rumors 10-60
-* Ads for hires 100sp each
-* potion of mithridate 1000
+
+* Rumors: 10-60 sp
+* Ad posting for henchmen: 100sp each
+* Potion of Mithridate: 1000
 
 ### Miscellaneous
 
@@ -306,6 +312,7 @@ _See charts and descriptions below_
 
 
 ### Religious Items
+
 | **Item**                | **City** | **Rural** |
 |-------------------------|----------|-----------|
 | Talisman, Mindat, Basic |          |           |
@@ -322,6 +329,7 @@ _See charts and descriptions below_
 | Spiritmask, Chlendi     |          |           |
 
 ### Herbs
+
 | **Item**                | **Rural** | **City** |
 |-------------------------|-----------|----------|
 | Belladona               |  5cp      |  1sp     |
@@ -455,7 +463,6 @@ _See charts and descriptions below_
 | Troop Transport (large)	|  30,000gp |
 | Troop Transport (small)	|  15,000gp |
 
-
 ### Lodging
 
 | **Item**                    | **Rural** | **City** |
@@ -472,17 +479,19 @@ _See charts and descriptions below_
 
 Costs are per day, unless noted. The cost to buy instead of rent is one hundred times the listed monthly rental price.
 
-| **Structures**			  | **Rural** | **City** |
+| **Structures**              | **Rural** | **City** |
 | ----------------------------|-----------|----------|
 | Cottage (wood), purchase    |     300gp |    300gp |
-| Hut (wattle), purchase	  |      25gp |     25gp |
-| Hut (wooden), purchase      |	     50gp |     50gp |
-| Townhouse (stone), purchase |	  1,200gp |  1,200gp |
-
+| Hut (wattle), purchase      |      25gp |     25gp |
+| Hut (wooden), purchase      |     50gp |     50gp |
+| Townhouse (stone), purchase |  1,200gp |  1,200gp |
 
 ## Services
+
 ### Temple Services & Magic
+
 ### Magic
+
 Spell Availability
     By level and market
 Scroll Availability
@@ -514,19 +523,20 @@ Specialists
 
 ## Encumbrance
 
-
 ### Character Movement and Encumbrance
-|Encumbrance	   |Exploration Movement |Combat Movement | Running Movement|
+
+|Encumbrance   |Exploration Movement |Combat Movement | Running Movement|
 |------------------|---------------------|----------------|-----------------|
-|   |   |   |
-
-### Animal/Vehicle Movement and Encumbrance
-| Animal/Vehicle |	Exploration Movement | Normal Load | Maximum Load |
-|----------------|-----------------------|-------------|--------------|
-|   |   |   |
-
-#### Burden
-| Animal Cost (gp) | Miles/Day| Movement Rate | Max Encumbrance (Coins) | Notes |
-|------------------|----------|---------------|-------------------------|-------|
 |   |   |   |    |
 
+### Animal/Vehicle Movement and Encumbrance
+
+| Animal/Vehicle | Exploration Movement | Normal Load | Maximum Load |
+|----------------|-----------------------|-------------|--------------|
+|   |   |   |    |
+
+#### Burden
+
+| Animal Cost (gp) | Miles/Day| Movement Rate | Max Encumbrance (Coins) | Notes |
+|------------------|----------|---------------|-------------------------|-------|
+|   |   |   |    |    |
