@@ -65,7 +65,7 @@ _Listed by their locale of first encounter_
 * **Eldwere** -- Eskla (Maetah)
 * **Enfer** -- Eskla (Maetah)
 * **Ghienere** -- Heteri
-* **Guffan** -- Heteri (Cuvauw, Balaconth)
+* **Guffan** -- Heteri (Cuvauw, Balancont)
 * **Kohut** -- Heteri
 * **Ifaal** -- Chlendi (Pasdani)
 * **Ilwaen** -- Maetah (Cuvauw) - the late Baron Caus Ilwaen

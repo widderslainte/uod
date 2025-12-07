@@ -33,7 +33,7 @@ Meriburne – Central barony in Argaevaligne, located along the North Sea coast.
 
 Ewwin – Northwestern barony of Argaevaligne, closest to Ramush border. Founder was an early Duke of the Eschaltli Republic who was renown for crushing rogue Chlendi outposts in the nearby hills. The barony is staunchly conservative and aggressive today.
 
-Bludelm – The wealthiest of the Baronies, trading ore with Nipend and Balaconth. They suffer from conflict with mountain tribes and only pay lip service to the Church.
+Bludelm – The wealthiest of the Baronies, trading ore with Nipend and Balancont. They suffer from conflict with mountain tribes and only pay lip service to the Church.
 
 Mhodara – Mhodara shows the most traditional elements of Maetah culture and social relations are still based on clan pacts centuries in age.
 

@@ -1,6 +1,6 @@
 # Minkush River Valley
 
-The Minkush River is the major waterway in northern Rhiat, running north-south from the Swamps of Ramush to Vensat City, where it empties into the Sea of Storms. The river valley was the central region of the Eschlatli Empire, and still connects most of the influential cities of the region to this day. It marks the border between Ramush and Argaevaligne, as well as the spheres of influence of Vensat and Balaconth.
+The Minkush River is the major waterway in northern Rhiat, running north-south from the Swamps of Ramush to Vensat City, where it empties into the Sea of Storms. The river valley was the central region of the Eschlatli Empire, and still connects most of the influential cities of the region to this day. It marks the border between Ramush and Argaevaligne, as well as the spheres of influence of Vensat and Balancont.
 
 ## Duchy of Minkarraph
 
