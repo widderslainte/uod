@@ -37,7 +37,7 @@ Cuvauw straddles the streams and falls that join just outside the city walls and
 
 * The Forging Guild – active in Cuvauw, as well as Nipend, parts of Argaevaligne, and Northern Ghikarn'gai. Strong supporters of the Commerce Guild and the Comte.
 * The Jeweler's Guild
-* Bluemoon Sorcery House
+* Cerulean Moon Sorcery House
 * Commerce Guild – no longer as prominent in Cuvauw as in decades past. Still maintains a guild house, but primarily relies on it's connections within the Noble Houses.
 
 
