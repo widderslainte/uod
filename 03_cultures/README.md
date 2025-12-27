@@ -1,8 +1,8 @@
-## Cultures
+# Cultures
 
 * [Chlendi](chlendi/README.md)
   * [Being Raised Chlendi](chlendi/raised_chlendi.md)
-  * [Example Chlendi Words](chlendi/chlendi_word.ms)
+  * [Example Chlendi Words](chlendi/chlendi_word.md)
 * [Eskla](eskla/README.md)
   * [Being Raised Eskla](eskla/raised_eskla.md)
   * [Example Eskla Words](eskla/eskla_words.md)
@@ -19,7 +19,8 @@
   * [Being Raised Mindat](mindat/raised_mindat.md)
   * [Example Mindat Words](mindat/mindat_words.md)
 
-### Comparison of Cultural Elements
+## Comparison of Cultural Elements
+
 * [General Breakdown](cultural_breakdown.md)
 * [Aesthetics](aesthetics.md)
 * [Clans and Kinship](clans_crossculture.md)
@@ -28,7 +29,9 @@
 * [Music](music.md)
 
 ### Ancient Cultures
+
 [Overview](ancient_cultures/README.md)
 
 Also add brief of:
+
 * N'Chalt/Baasant - reddish-brown complextion, straight black haird, dark eyes.  Found near Baasant Desert and Dhamad.

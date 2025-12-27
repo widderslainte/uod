@@ -59,5 +59,5 @@ Cuvauw straddles the streams and falls that join just outside the city walls and
 * Argaevaligne – Theocratic nation north of the mountains, based around agriculture, a feudal economy, and the Church of Thedine.
 * Nipend – Small nation of fortified cities amongs the hills and mountains north of Cuvauw.
 * The Minkush River Valley – Valley of prominent cities downstream from Cuvauw. Once the core of the Eskla Empire and still the height of culture and power in the Rhiat.
-* Balancont – Coastal nation to the south, now overrun by the forces of the Goblin Queen. Many of the nobles of Balaconth have fled to Cuvauww for shelter and plan for its liberation.
+* Balancont – Coastal nation to the south, now overrun by the forces of the Goblin Queen. Many of the nobles of Balancont have fled to Cuvauww for shelter and plan for its liberation.
 * Ghikarn'gai – Rough and tumble nation to the southwest of Cuvauw. In the midst of a civil war that dates back to Heteri cultural identity of centuries past.

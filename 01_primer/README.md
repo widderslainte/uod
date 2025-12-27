@@ -30,7 +30,7 @@ The year is 3042. The Rhiat has been occupied by the Heteri people as long as an
 ### Other Sentient Species
 * Nogs - Imp like creatures, similar to goblins, but appear in shades of tan and brown. Used as "servants" in Vensat, Ghikarn'nagi and other lands to the South.
 * The Shnkvarut - graceful, alien species. Practice an extreme form of ancestor worship, and live on the islands to the South-East of the Rhiat. More...
-* Goblins - a variety of colours, shapes, and sizes. The Kosh, the green goblins from below, have recently invaded Balaconth.
+* Goblins - a variety of colours, shapes, and sizes. The Kosh, the green goblins from below, have recently invaded Balancont.
 * Other Species
 
 # Nations & States

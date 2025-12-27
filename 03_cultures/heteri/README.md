@@ -30,7 +30,7 @@ The main Heteri tribes: Naggai, Luggai, Polog. There are three or four minor tri
 
 ### Nations
 
-**Ghikarnaggai:** A modern Heteri nation in Northern Rhiat, bordering on Argaevaligne, Balaconth, and Nipend. Currently in the midst of a civil war between tribal factions. Punluggai: In modern times, a political faction among the Heteri people. The faction arose from a historical Heteri aristocratic lineage. The Punluggai ruled cities and small kingdoms along the southern Blood Coast. They were the first to be conquered when the Mindat Empire expanded north. Other factions allied with the Maldaer and Eschaltlin forces to the north, the same peoples that invaded Heteri lands along the northern Blood Coast centuries earlier. Seeing their kingdoms being destroyed and their fellow Heteri allied with traditional enemies, the Punluggai moved to retake traditional lands, some of which were being occupied by Heteri/Eschaltlin allied peoples.
+**Ghikarnaggai:** A modern Heteri nation in Northern Rhiat, bordering on Argaevaligne, Balancont, and Nipend. Currently in the midst of a civil war between tribal factions. Punluggai: In modern times, a political faction among the Heteri people. The faction arose from a historical Heteri aristocratic lineage. The Punluggai ruled cities and small kingdoms along the southern Blood Coast. They were the first to be conquered when the Mindat Empire expanded north. Other factions allied with the Maldaer and Eschaltlin forces to the north, the same peoples that invaded Heteri lands along the northern Blood Coast centuries earlier. Seeing their kingdoms being destroyed and their fellow Heteri allied with traditional enemies, the Punluggai moved to retake traditional lands, some of which were being occupied by Heteri/Eschaltlin allied peoples.
 
 ### Cities & Towns
 
@@ -40,11 +40,11 @@ The main Heteri tribes: Naggai, Luggai, Polog. There are three or four minor tri
 #### Traditional Heteri Cities and Communities 
 **Along the Blood Coast and Inland Territories:** Givos, Dlutuz, Sofegai, Oshej, Glaivuf, Narrosh (along the Maldaer border), Pegaigoth, Fokhei, Shaekzhul (near Mindat), Ghofeka (also near Mindat).   
 
-**Bolog** - ancient Heteri community at the base of Moniin peaks at one of the ends of the Cuvauw Pass. The hills behind the small city are lined with caves and tunnels and contain the Grand Temple of Hilinavyu. It is ruled by the Vuhwul ('king' or 'chief') Solok of the Smoking Thunder, who is descended from the Luggai Heteri tribes. His only daughter was to marry the lord of Akklai Point, but was killed during the goblin invasion. Solok is fiercely independent of both the Ghikarn'gai revolts and the goblins, and has close ties with the Temple of Hilinavyu to this end. Bolog maintains good relations of Argaevaligne, Cuvauw, and other independent communties in Balaconth.
+**Bolog** - ancient Heteri community at the base of Moniin peaks at one of the ends of the Cuvauw Pass. The hills behind the small city are lined with caves and tunnels and contain the Grand Temple of Hilinavyu. It is ruled by the Vuhwul ('king' or 'chief') Solok of the Smoking Thunder, who is descended from the Luggai Heteri tribes. His only daughter was to marry the lord of Akklai Point, but was killed during the goblin invasion. Solok is fiercely independent of both the Ghikarn'gai revolts and the goblins, and has close ties with the Temple of Hilinavyu to this end. Bolog maintains good relations of Argaevaligne, Cuvauw, and other independent communties in Balancont.
 
 The city of Bolog is a sprawling mess, with neigborhoods running up and down the hills, with towers lining the highest peaks. In honour of the city's patron, Hilinavyu, great coal braziers are lit of hillstops and city walls during every new moon, as well as the feats of god. Its ancient inner gates are lined with huge boulder rlled down from the hills, upon which chunks of iron slag and molten were thrown to cool. The populace is predominately Heteri, although there are no extensive clan presence outside that of Smoking Thunder. Even in other ethnic neighborhoods, Heteri style clan markers are used upon gates and entranceways. Given the predominance of Hilinavyu and worship of the rest of the Heteri pantheon, the city is remarkably tolerant of other faiths, though the small Thedine presence is limited to insular churches.
 
-**Givos** - coastal town, traditionally disputed by Balaconth and the rulers of Teldarpha. Currently occupied by the Goblin Queen's forces, it is ruled by 'Mivuhwul' Isasnias Koman, the middle-aged burgher of a upper class family who act as puppets to the local goblin Captain Nivinak. Isasnias demonstrated his loyalty by killing the previous Mivuhwul in the city square. Givos, for unknown reason, was one of the first communties targeted when the goblins came surfaceside.
+**Givos** - coastal town, traditionally disputed by Balancont and the rulers of Teldarpha. Currently occupied by the Goblin Queen's forces, it is ruled by 'Mivuhwul' Isasnias Koman, the middle-aged burgher of a upper class family who act as puppets to the local goblin Captain Nivinak. Isasnias demonstrated his loyalty by killing the previous Mivuhwul in the city square. Givos, for unknown reason, was one of the first communties targeted when the goblins came surfaceside.
 
 Despite the crumbling walls and downtrodden residents, Givos stills welcomes travellers and merchants, so long they keep clear of the Goblin occupying force. Discreet travellers can find same loding at the White Witch inn, two blocks in the from east gate. The Sorceror's House of Duslangarot is still active, but only with a skeleton staff. They are said to be in the good graces of the Goblin Queen.
 
@@ -90,7 +90,7 @@ Ghikarnaggai was unified in 1023 by Nefef, son of Irosk, who married daughters o
 
 **Uphos** - defended Teldelpha against the Kha tribes from the hills in the north.
 
-**Ushuul II** - brief Heteri king who built Vhuemach, now in Balaconth, into a city-state, and waged war against Teldelpha.
+**Ushuul II** - brief Heteri king who built Vhuemach, now in Balancont, into a city-state, and waged war against Teldelpha.
 
 **Cuweulz** - founded the Luggai city-state of Glaivuf in the east and waged a campaign against the budding Jakinta Mindat encampments and brought knowledge of the white steel to the west.
 
