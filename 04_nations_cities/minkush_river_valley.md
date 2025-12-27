@@ -32,5 +32,6 @@ Capitol of the nation (really city-state) of Vennosat. The most powerful trading
 
 ## Minor Communities
 
-* Minkushtown - small rivertown between Vensat and Minkaraph Ikulyhu - promient at the end of the first Epoch of Rhiat. Located along the modern border of Argaevaligne, near the North Sea Coast.
+* Minkushtown - small rivertown between Vensat and Minkaraph.
+* Ikulyhu - promient at the end of the first Epoch of Rhiat. Located along the modern border of Argaevaligne, near the North Sea Coast.
 * Gloamingport- Small port town on the North Sea coast.
