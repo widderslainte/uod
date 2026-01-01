@@ -15,7 +15,7 @@
 | 1961	     |	         | Esklatli Alliance forms|	City of Asklor |		
 | 2014	     |	         | Dispersion of the Vaporous Host|	Mindat Empire|	Ritual destruction of the Mindat Pantheon	|
 | 2250	     |	         | Mindat-Chlendi War |			
-| 2302	     |	         | Eskla rebuild Minkarapht |			
+| 2302	     |	         | Eskla rebuild Minkaraph |			
 | 2305	     |	         | Mindat Retreat			|
 | 2350	     |	         | Heteri Independence		|	
 | 2600	     |	         | Founding of Ghikarn'naggi	|		
