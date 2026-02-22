@@ -11,7 +11,7 @@ Pasdani is a militarized community. Built at the head of the Minkush River, it s
 ## Description
 
 * **Origins & History**: Trading hub
-* **Obstacles & Threats:** Reoccurant sickness (the Grey Pox), border tensions
+* **Obstacles & Threats:** Reccurent sickness (the Grey Pox), border tensions
 * **Geography**:
 * **Map Placeholder**:
   * Map of Pasdani
@@ -20,8 +20,8 @@ Pasdani is a militarized community. Built at the head of the Minkush River, it s
 
 ## Government and Politics
 
-* **Ruling Body**: Duke Caviefron
-* **Who Really Rules:**
+* **Ruling Body**: Duke Zihragris
+* **Who Really Rules**: Duke Zihragris
 * **Laws and Justice**:
 * **Notable Factions**:
 
@@ -75,4 +75,3 @@ Pasdani is a militarized community. Built at the head of the Minkush River, it s
 ### Rumors
 
 * The best place to find whores.
-* The Caviefrons enagage in cannibalism of their own family as a violent competition, and were sanctioned by Church of Thedine leading to the split off to Ramush in shame and rebellion.

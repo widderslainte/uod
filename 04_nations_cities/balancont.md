@@ -1,4 +1,5 @@
 # Balancont
+
 Balancont is the shattered bits of a small coastal nation, bordered by the Lusnian Protectorates to the east, Nipend and mountains to the north, and once-contested Vensat lands to the west. Balancont was first settled as a few small city-states by Heteri lords a millenia or two ago. Only one of the cities, Akklai Point, exists as an occupied community today. Balancont has a mix of ethnic backgrounds, but Heteri dominates. A wide range of religious practices are observed.
 
 After the Eschlatli fell, Balancont continued on as if nothing had happened. They maintained the political and mercantile system as before, although on a smaller and more privatized scale. Unfortunately it did not have the same benefits militarily, and slowly lost out to the burgeoning Commerce Guild in Vensat. Subsequently, the subterranean goblin nation of Khoshinvak boiled forth from the caverns and overran Balancont a few years ago.
