@@ -15,9 +15,9 @@ Cuvauw straddles the streams and falls that join just outside the city walls and
 
 ## People & Places of Note
 
-* The Avenue of Shrines
+* [The Avenue of Shrines](./cuvauw_avenue_of_shrines.md)
 
-* Nog Hill - In the southeast corner of , in the midst of smelters and slaughterhouses stands Nog Hill. A natural ridge, supplemented with mounds of trash, it has become a combination burrowing den and apartment-complex for the [Nogs](../12_flora_fauna/nogs.md) of Cuvauw. Similar structures exist in undesirable sections of other towns and cities. This community is loosely "ruled" by "King" Fround.
+* Nog Hill - In the midst of smelters and slaughterhouses in the southeast corner of the city stands Nog Hill. A natural ridge, supplemented with mounds of trash, it has become a combination burrowing den and apartment-complex for the [Nogs](../12_flora_fauna/nogs.md) of Cuvauw. Similar structures exist in undesirable sections of other towns and cities. This community is loosely "ruled" by "King" Fround.
 
 The free nogs, having the most money of the bunch, build ramshackle shacks on Nog Hill, only to be overtaken but the next lucky nog with an influx of coin or building material. This has lead construction on Nog Hill to tower higher and higher, with frequent accidents due to the complete lack of engineering skill.
 
@@ -44,7 +44,7 @@ The free nogs, having the most money of the bunch, build ramshackle shacks on No
 * Cerulean Moon Sorcery House
 * Commerce Guild – no longer as prominent in Cuvauw as in decades past. Still maintains a guild house, but primarily relies on it's connections within the Noble Houses.
 
-### Locations and Enterainment
+### Locations and Entertainment
 
 * The Hill People - Years past when Cuvauw was considered a “resort" town by the nobility, one of the fashionable pursuits was to be lead up into the hills for a weekend of drinking and hunting, with the assistant of trappers and mercenaries. The hill beasts, a variety of mongrel beastmen, would be hunt with great blackpowder weapons and packs of hounds. Since Cuvauw's decline, the hill beasts have rebuilt their number and their tribal organization. Few trappers go into hills alone and return.
 

@@ -10,13 +10,11 @@ The Rhiat is the central continent (for gaming purposes) on the planet. It is lo
 
 The year is 3042. The Rhiat has been occupied by the Heteri people as long as anyone can remember. The Maetah arrived from the north 1500 years ago, and the Chlendi 500 years later. When the Mindat people came from the south, conquering numerous Heteri city-states, the Chlendi and Maetah allied as the Esklatli 'Empire', and drove back the Mindat. After over a thousand years the Eskla pact dissolved through succession, outside threats, and interenal apathy. The Esklarli 'officially' dissolved two hundred years ago, and most of the major nations of the Rhiat were at one time provinces within the Eskla.
 
-### Timeline
-
-**What's Going On**
+### What's Going On Now
 
 * Goblin Invasion of the southern coast
 * Heteri Civil War
-* Exansion of the Church of [Thedine](../08_religion/thedine.md)
+* Expansion of the Church of [Thedine](../08_religion/thedine.md)
 * Guild Wars
 
 ## Ethnicities & Cultures
