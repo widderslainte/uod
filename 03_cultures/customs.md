@@ -9,7 +9,7 @@
 * In Heteri lands, the colour blue is used to fend off demons.  During periods of disaster, plague, or death, people will wear masks, hats, and scarves of blue cloth.  Newborn babies are wrapping in blue blankets.
 * As a sign of shame, wrongdoing, or as punishment, Maetah males will shave part, but not all of their heads.  A shaved head is the sign of a slave.
 
-### Customs in the Rhiat
+## Customs in the Rhiat
 
 * Slavery
 * Dueling

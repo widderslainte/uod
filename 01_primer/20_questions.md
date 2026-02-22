@@ -1,4 +1,4 @@
-# Jeff's Twenty Questions - for Uod 
+# Twenty Questions - for Uod
 
 1. **What is the deal with my cleric's religion?**
 
@@ -8,7 +8,7 @@
 
 3. **Where can we go to get platemail custom fitted for this monster I just befriended?**
 
-    Platemail is unusual in most any area of the main continent of Uod, but custom monster armor could be made through contacts in a local Guild of Arms or Commerce Guild (since they know *everyone*).
+    Plate armor is unusual in most any area of the main continent of Uod, but custom monster armor could be made through contacts in a local Guild of Arms or Commerce Guild (since they know *everyone*).
 
 4. **Who is the mightiest wizard in the land?**
 
@@ -37,7 +37,7 @@
 15. **Are there any wars brewing I could go fight?**
     * Territorial skirmishes continue on the border of Ramush and Argaevaligne, which Maetah nobles try to regain hereditary lands.
     * Factions in Ghikarn'gai seek revenge for their slavery by the Mindat Empire.
-    * _Argaevaligne, led by the Thedine Theocracy, seeks to conquer remaining Maetah tribes on the edge of their realm.
+    * Argaevaligne, led by the Thedine Theocracy, seeks to conquer remaining Maetah tribes on the edge of their realm.
     * Factions along the coast seek to retake Balancont from the Goblin armies.
 
 16. **How about gladiatorial arenas complete with hard-won glory and fabulous cash prizes?**
@@ -56,34 +56,31 @@
 
     Foul beasts live in the swamps to west, but you may face one of the dread Chlendi land squids before you even reach the ruins of their cities.  Heteri clanmothers speak of Wyrms and other creatures live in the hills to the east, where they crawled from the subterranean furnaces of the Coal God.  Of course you could dispense with monster hunting altogether if you're crazy enough to raid the villa of a clan tied to the Commerce Guild.
 
+## Rules Oriented
 
-### Rules Oriented
-The rule system for Uod is like chinese astrology.  Here are some answers to Brendan's rules questions based on the current year (using class and level stuff):
+The rule system for Uod is like chinese astrology.  Here are some answers to common rules questions based on the current year (using class and level stuff):
 
-
-1. Ability scores generation method? - 3d6 in order
-2. How are death and dying handled? AD&D style, save vs Death to stabilize.
-3. What about raising the dead?  Yes.  Are you sure you want to?  Really?
-4. How are replacement PCs handled? You can play a nog.  Or promote a henchmen, otherwise get you in as quick as possible using the rule of Cool/Weird/Plausible.
-5. Initiative: individual, group, or something else? Group d6, high wins, but my Guisarme pseudo-AD&D version may take over.
-6. Are there critical hits and fumbles? How do they work? - Natural 20 double damage, kills foes of 1 HD or less.
-7. Do I get any benefits for wearing a helmet? - 
-8. Can I hurt my friends if I fire into melee or do something similarly silly? - most likely
-9. Will we need to run from some encounters, or will we be able to kill everything? - trying to kill everything is generally the wrong strategy
-10. Level-draining monsters: yes or no? - yes
-11. Are there going to be cases where a failed save results in PC death? - yes
-12. How strictly are encumbrance & resources tracked? - not very strict most of the time
-13. What's required when my PC gains a level? Training? Do I get new spells automatically? Can it happen in the middle of an adventure, or do I have to wait for down time? - immediate advances, MU types get one new random spell
-14 .What do I get experience for? - treasure, defeating foes, carousing, exploring
-15. How are traps located? Description, dice rolling, or some combination? - description or time spent
+1. Ability scores generation method? - 3d6 in order.  Some have weird names.
+2. How are death and dying handled? AD&D style, with a save vs Death to stabilize.
+3. What about raising the dead?  Yes.  Are you sure you want to come back from the realm of the Dead?  Really?
+4. How are replacement PCs handled? You can play a nog.  Or promote a henchmen, otherwise get you in as quick as possible using the rule of Cool/Weird/Plausible. Then you can choose to create a new weird guy once back in town or at a traveler's inn.
+5. Initiative: individual, group, or something else? Group. Roll d6 high wins, with even ties going to the players, odd ties going to the foes. Other crazy schemes are in development.
+6. Are there critical hits and fumbles? How do they work? - You can choose to double the damage die roll or roll twice on a Natural 20. Always kills foes of 1 HD or less.
+7. Do I get any benefits for wearing a helmet? - You look cool and respectable. They are also useful for hiding an out of fashion hairstyle.
+8. Can I hurt my friends if I fire into melee or do something similarly silly? Most definitely.
+9. Will we need to run from some encounters, or will we be able to kill everything? Trying to kill everything every time is not a wise strategy.
+10. Level-draining monsters: yes or no? Yes, but effects are frequently only temporary.
+11. Are there going to be cases where a failed save results in PC death? Yes.
+12. How strictly are encumbrance & resources tracked? Depends on a style of a specific campaign, but typically slot based.
+13. What's required when my PC gains a level? Training? Do I get new spells automatically? Can it happen in the middle of an adventure, or do I have to wait for down time? Advances once you have a reached a location of safety.  You can study spells for acquisition.
+14. What do I get experience for? Treasure, defeating foes, carousing, exploring.
+15. How are traps located? Description, dice rolling, or some combination? Description or time spent, failing back to a roll as a quasi-save.
 16. Are retainers encouraged and how does morale work? - Absolutely.  Will generally use B/X morale for monsters and AD&D loyalty, but may mix them up.
-17. How do I identify magic items? Get your 100gp pearls, boys!  Or go find a lodge expert.
-18. Can I buy magic items? Oh, come on: how about just potions? - Scrolls and potions, but the sources won't have a big sign out front.  Also, healing potions are the blue milk from Star Wars.
+17. How do I identify magic items? Get your 100gp pearls, boys!  Or go find a lodge expert or sage.
+18. Can I buy magic items? Oh, come on. How about just potions? - Scrolls and potions, but the sources won't have a big sign out front.  Also, healing potions are the blue milk from Star Wars.
 19. Can I create magic items? When and how? Lower level Magicians can create scrolls and talismans.  Prophets can create scrolls.  Potions when you get a little higher.  Level 9+ for the big stuff.
-20. What about splitting the party? Sure, but if half the players get bored, unfortunate events may drive you back together.
+20. What about splitting the party? Sure, but if half the players get bored unfortunate events may drive you back together.
 
 ### Bonus Questions
-1. Are there dragons in Uod?
-_Your grandfather says he saw one once years ago.  It was terrifying. You know the Mindat people use massive lizards for a variety of purposes.  You think they may have dragons._
 
-
+1. Are there dragons in Uod? _Your grandfather says he saw one once years ago.  It was terrifying. You have heard the Mindat people use massive lizards for a variety of purposes.  You think they may have dragons._

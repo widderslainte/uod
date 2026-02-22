@@ -1,11 +1,12 @@
 # Cuvauw
+
 Cuvauw is a small city that sits at the edge of the hills south of Argaevaligne, where the head of the Eastward waters leaves the mountains. A few small fishing villages and towns line the river downstream to Minkarraph. High in the mountains, yet protected from the brutal North Sea storms, Cuvauw was a favoured summering spot for the noble and wealthy at the height of the Eschlatli Empire. The town was originally built to support a mining colony, whose endeavors still produce great wealth in ores and gems for the region. With the Goblin invasion to the south Cuvauw has become the largest free community in Balancont, and consequently harbors many noble families of the region, and is building a sizable military presence to defend them.
 
 Cuvauw is ruled by Comte Mlash Revuud, cousin of the 'King' of Nipend, and is widely thought to be stern but just. He is advised by the sage Ocurod, and his uncle, a priest of Thedine. Ocurod is known as acolyte of Ri-Ephond (Lord of the Earth), the traditional patron deity of Cuvauw. In recent years, rumour has is that the Comte is merely following the orders of his brother Duke Naffan, a former ruler of Balancont now in exile from the Goblin Invasion.
 
 Cuvauw straddles the streams and falls that join just outside the city walls and run west through the midst of the city. Docks, market squares, and small canals line the waterway, as well as a central bridge that leads north to the palace, militia barracks, and fortified mine entrances. Two great towers from the smelting houses tower over the southern side and the sight of their plumes of smoke can be seen from miles away. Butchering, timbering, and other industries reside in the Southern Ward as well and much of the lower class housing.
 
-### Other Notes
+## Other Notes
 
 * Cuvauw is the nearest city to Argaevaligne, but the Church is not a major player in the city. The Comte's uncle is a priest, but not his closest advisor. The idea of noble (and wealthy) families retaking their rightful lands from the Goblin Queen falls in line with the Church's ethics.
 * The Jeweler's Guild has always wanted a piece of the action in Cuvauw. They control the luxury goods trade in the major coastal cities and along the Minkush River. In Cuvauw they have to go through a few middlemen, seriously cutting into the potential profit. They are heavily opposed by the Commerce Guild.
@@ -13,9 +14,12 @@ Cuvauw straddles the streams and falls that join just outside the city walls and
 * Back in the days of the Empire, Cuvauw was the Aspen or Cape Cod of the region, where all the families would go to marry their children off to other noble families. Many still do this, usually in an attempt to consolidate their power. In the case of the Comte, his only son is currently tucked away in the local asylum.
 
 ## People & Places of Note
+
 * The Avenue of Shrines
 
-* Nog Hill - In the southeast corner of Cuvauw, in the midst of smelters and slaughterhouses, stands Nog Hill. A natural ridge, supplemented with mounds of trash, it has become a combination borrowing den and apartment-complex for the Nogs of Cuvauw. Nogs are short, humanoid race of varied shapes and proportions. Most have a tan or light brown complexion, and two proportionate sets of limbs. Hair is rare, and facial features tend be extreme - very bulbous, or pointed and fine. Height ranges from 2 to 4 feet, and weight varies from rail-thin to barrel-gutted. The community is losely ruled by "King" Fround. The nogs themselves are nearly slaves to the human population. Many indentured servants and actual slaves work in the noble villas, while others man poor quality fields outside the city walls. A few lucky nogs and "free" and work as labourers and petty assistants in the area. The free nogs, having the most money of the bunch, build ramshackle huts on Nog Hill, only to be overtaken but the next lucky nog with an influx of coin or building material. This has led construction on Nog Hill to tower higher and higher, with frequent accidents due to the complete lack on engineering skill.
+* Nog Hill - In the southeast corner of , in the midst of smelters and slaughterhouses stands Nog Hill. A natural ridge, supplemented with mounds of trash, it has become a combination burrowing den and apartment-complex for the [Nogs](../12_flora_fauna/nogs.md) of Cuvauw. Similar structures exist in undesirable sections of other towns and cities. This community is loosely "ruled" by "King" Fround.
+
+The free nogs, having the most money of the bunch, build ramshackle shacks on Nog Hill, only to be overtaken but the next lucky nog with an influx of coin or building material. This has lead construction on Nog Hill to tower higher and higher, with frequent accidents due to the complete lack of engineering skill.
 
 * The Cauldron - If you should be unlucky enough to wander the back alleys of Cuvauw's south end at night you may run into a few thugs from this "family business". The Cauldron, nicknamed for founder Elias Cauldrobun, were the dominate criminal organization in town a few decades ago, but have now begun hiring new muscle and taken to new market in response to recent competition. Be careful - they no longer just want your purse.
 
@@ -40,6 +44,7 @@ Cuvauw straddles the streams and falls that join just outside the city walls and
 * Cerulean Moon Sorcery House
 * Commerce Guild – no longer as prominent in Cuvauw as in decades past. Still maintains a guild house, but primarily relies on it's connections within the Noble Houses.
 
+### Locations and Enterainment
 
 * The Hill People - Years past when Cuvauw was considered a “resort" town by the nobility, one of the fashionable pursuits was to be lead up into the hills for a weekend of drinking and hunting, with the assistant of trappers and mercenaries. The hill beasts, a variety of mongrel beastmen, would be hunt with great blackpowder weapons and packs of hounds. Since Cuvauw's decline, the hill beasts have rebuilt their number and their tribal organization. Few trappers go into hills alone and return.
 
@@ -56,6 +61,7 @@ Cuvauw straddles the streams and falls that join just outside the city walls and
 * The Shell & Cup - A dive bar near the docks, frequented by stevedores, criminals, and drunkards.
 
 ### Near Cuvauw
+
 * Argaevaligne – Theocratic nation north of the mountains, based around agriculture, a feudal economy, and the Church of Thedine.
 * Nipend – Small nation of fortified cities amongs the hills and mountains north of Cuvauw.
 * The Minkush River Valley – Valley of prominent cities downstream from Cuvauw. Once the core of the Eskla Empire and still the height of culture and power in the Rhiat.

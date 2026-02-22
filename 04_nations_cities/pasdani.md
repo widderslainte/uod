@@ -6,7 +6,7 @@
 * **Size**: Large
 * **Mood**: Paranoia
 
-Pasdani is a militarized city. Built at the head of the Minkush River, it sits by a small lake which has coalesced from the flow of the swamps. A grand bridge was constructed during the founding of the Eschlatli Empire, named for General Photil, who crushed the remaining settlements of Chlendi resistance. The villages fought the establishment of the the Black Lily Crown, and saw it as a dissolution of the Chlendi blood and mystical heritage. Since the secession of the Duke of Ramush, its bridge has been the center of open hostilities with Argaevaligne, and is now the capitol of Ramush.
+Pasdani is a militarized community. Built at the head of the Minkush River, it sits by a small lake which has coalesced from the flow of the swamps. A grand bridge was constructed during the founding of the Eschlatli Empire, named for General Photil, who crushed the remaining settlements of Chlendi resistance. The villages fought the establishment of the the Black Lily Crown, and saw it as a dissolution of the Chlendi blood and mystical heritage. Since the secession of the Duke of Ramush, its bridge has been the center of open hostilities with Argaevaligne, and is now the capitol of Ramush.
 
 ## Description
 

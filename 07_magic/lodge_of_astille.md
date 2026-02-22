@@ -1,6 +1,8 @@
 # Astille
+
 Lodge of Maetah Sorcery
 
+## Characteristics
 
 * Colour: Blue-grey
 * Locations: Imphomonee, Pasdani

@@ -6,7 +6,7 @@ Chlendi Sorcery is inherently tied in with the religious beliefs and structures 
 
 * Purii Beast Forms
 * Elementaries and other spirits of the Milieu
-* [Known Chlendi Spirits](known_chlendi_spirits.md)
+* [Known Chlendi Spirits](chlendi_known_spirits.md)
 * Archetypical Avatar Forms
 * Genii loci - spirits of places
 * Inanimae spirits of inanimate things
@@ -23,6 +23,6 @@ Chlendi Sorcery is inherently tied in with the religious beliefs and structures 
 * [Viljimil's Hierarchy](viljimils_hierarchy.md)
 * Miscellenous Rite: Atejitl's Blessing
 
-#### Chlendi Sorcery Mechanics
+## Chlendi Sorcery Mechanics
 
 * [Spell List](../80_mechanics/spells_beta.md) (for level-based games) 

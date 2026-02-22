@@ -1,10 +1,11 @@
-## Cultural Magic Traditions
+# Cultural Magic Traditions
+
 Traditionally, magicians of the following cultures adopted these forms of magic:
 
 * Chlendi: Conjuration ([Chlendi Sorcery](chlendi_sorcery.md)), Astrology
-* Heteri: Herbalism, Shamanism, Witchcraft
+* [Heteri](./heteri_magic.md): Herbalism, Shamanism, Witchcraft
 * Maetah: Consecration, [Sorcery](traditional_sorcery.md) (and [Maetah Magic](maetah_magic.md))
-* Mindat: [Alchemy](alchemy.md), Talismantics, Theurgy
+* [Mindat](./mindat_magic.md): [Alchemy](alchemy.md), Talismantics, Theurgy
 
 ## Forms of Magic
 
@@ -20,12 +21,12 @@ Traditionally, magicians of the following cultures adopted these forms of magic:
 * Mysticism - the interpretation of dreams and visions, the sensing of etheric and magical currents, attunement with physical omnessence, and control of the physical body.
 * Necromancy - divination and communication of the spirits of the dead, manipulation for the forces of life, death, and unlife, and powers affecting the undead.
 * Priestcraft – rites, invocations, and ceremonies tied to a particular religion
-* Shamanism – apatropaism, blessings, fertility, healing, minor divination, spirit world communication. 
-* [Sorcery](traditional_sorcery.md) – general form of magick, comparable to wizardry (Warhammer) or dwoemercraeft (mythus).  Beyond the basic incantations, each sorcerer will also have one (at start) theoretical specialization (see below).  These are the most common theories, others are believed to exist.
+* Shamanism – apatropaism, blessings, fertility, healing, minor divination, spirit world communication.
+* [Traditional Sorcery](traditional_sorcery.md) – general form of magick, comparable to wizardry (Warhammer) or dwoemercraeft (mythus).  Beyond the basic incantations, each sorcerer will also have one (at start) theoretical specialization (see below).  These are the most common theories, others are believed to exist.
   * Precept of Bliss
   * Precept of Essence
   * Precept of Knowledge
-  * Precept of Milieu               
+  * Precept of Milieu
   * Precept of Fury
 * Talismantics - the crafting of talismans and minor tokens, and the knowledge and use of magical symbols, sigils, and runes.
 * Theurgy – the practice of contact with the internal fragments of the divine -  includes elements of hermeticism, enochian techniques, sha’ir, poetry & possession, contact with the eidolon

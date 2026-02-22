@@ -1,6 +1,6 @@
+# Fighting Pits
 
 Kushel does not have proper Heteri pit fighting. Most larger towns and cities have one or more. Kushel has some fields for cock and dog fighting outside the town walls, but nothing with men fighting.
-
 
 Q. What are the rules for traditional pit-fighting (weapons used, armor, to the death or first blood, etc)?
 
