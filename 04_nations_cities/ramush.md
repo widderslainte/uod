@@ -15,11 +15,11 @@ Primarily swamp along central valley corridor as Minkush River diverges into nor
 
 ## Culture
 
-Ethnicity The Duchy has a mix of Eskla blood and its two components: Maetah & Chlendi. Those of Maetah blood are usually slaves or lower class, and Chlendi purity is valued for Religious and political positions.
+**Ethnicity**: The Duchy has a mix of Eskla blood and its two components: Maetah & Chlendi. Those of Maetah blood are usually slaves or lower class, and Chlendi purity is valued for Religious and political positions.
 
 ## Religion
 
-This region is officially open to all religions. But from the cause and date of its formation, the Duchy has been run by, and used as a haven for, religions often fobidden elsewhere. The strongest of these factions are: Mustyoch and Hilinavyu of the traditional Maetah pantheon, and a number of Chlendi spirits.
+This region is officially open to all religions. But from the cause and date of its formation the Duchy has been run by, and used as a haven for religions often fobidden elsewhere. The strongest of these factions are: Mustyoch and Hilinavyu of the traditional Maetah pantheon, and a number of Chlendi spirits.
 
 ## Language
 
