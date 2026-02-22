@@ -1,28 +1,38 @@
 # Heteri
+
 The Heteri were the original inhabitants of the Rhiat. They were a smattering of tribes, the Heter, Luggai, Naggai, Polog, and others that lived in what is now Ghikarn, Vennosat, Balancont, and other lands along the sea. The tribes were horsemen, brigands, and herders, may of whom settled down to an ever fluxatitng alliance of city states, ruled by king and chief who claimed lineage from the heavens.
 
 ## Cultural Notes
+
 Construction is hide and thatch tents in nomadic regions, and buildings of wood timber and red granite-like stone in sedentary communities. In warmer climesdobe or wattle and daub materials dominate. Structures are rectangular, and only in modern urban areas greater than a single story. Outlying structures are built for task areas and nuclear family units. Smaller clans may build these in a contiguous area, and surround it by a wall or fence, with a single main gate of clan markers. Most Heteri communities are built upon hills or man-made earthen rises, walled in stone or timber, and have a central well. In larger towns are cities, the well is replaced by an ornate fountain.
 
 The Heteri are burly sun-browned people with long, curly hair, and dark eyes. They wear clothing of hide, skin, and wool, ornamented with beads, feathers, teeth, and scraps of fur. In more cosmopliton arenas, the same fashion persists, but with finer tailoring, and polished stones and finer furs as ornamentations. Traditional head covering is an embroidered leather hood, which wraps around the neck or chest as a sash or scarf. The Heteri worship a pantheon of gods headed by Utan the Destroyer, who conquered 'The Old Lords' and birthed a new family of deities.
 
-The Heteri practice slavery of criminals, war captives, and debtors. This captivity is not hereditary, except in the case of Nogs and Banthanogs, which can still be freed by their owners. Horses and oxen are used as labor everywhere, but the reptilian beats of the Mindat are only found in the warmer southern regions.
+The Heteri practice slavery of criminals, war captives, and debtors. This captivity is not hereditary, except in the case of Nogs and Banthanogs, which can still be freed by their owners. Horses and oxen are used as labor everywhere, but the reptilian beasts of the Mindat are only found in the warmer southern regions.
 
 ### Social Structure
+
 **Social Organaization:** Heteri are patrilineal and patrilocal. In rural areas they are gather as "tribes" which are equivalent to clans in other cultures. In larger urban settlements, tribes may settle into neighborhoods, honoring the Vuhwul (chief) locally unless there is a Heteri King. All of the tribes/clans trace their lineage back to one of the "original tribes": Luggai, Naggai, and Polog are the most famous. It is divisions between these groups that is the basis for the civil war in Ghikarn'gai.
 
 **Clan Marker:** carved wooden totems, the tops of which are hollowed depressions for torches or lit pitch.
 
 **Names & Title:** Traditionally, it would be, 'Firstname of Clan_Name'. Among other Heteri, the Tribal affiliation (Polog, Luggai, etc) would be known from the Clan Name. If you were of noble lineage, you might just say 'Firstname, son of Fathername', as any proper person would recognize the name of your father. In more modern times, the clans have larger settled and because of some intermixing, some will use 'Firstname Lastname of Cityname' instead of the clan name. Last names are a convention adopted from other cultures. In Cuvauw, they'd be sued by a lot of Heteri. In Ghikarnaggai, they only care about your clan.
 
-* **Vuhwul**: Tribal Chief or King 
+* **Vuhwul**: Tribal Chief or King
 * **Mivehwul**: Mayor or Clan Head
 * **...**: Elder
 * **...**: Sir, expression of respect
 
 The Heteri aren't too formal beyond that. They would use terms like Elder (for age and respect) and Sir (for politeness or unfamiliarity), but I don't know that I have specific Heteri words for those. Women don't hold title, but would still be respected, and might call them selves "Firstname, son of Fathername" (yes, son) is their father was a chief. There aren't specific vowels used in female names, but I'll try to come up with lists of common names for each gender.
 
+### Customs & Practices
+
+* [Fighting Pits](./fighting_pits.md)
+
+## Polities
+
 ### Tribes & Clans
+
 The main Heteri tribes: Naggai, Luggai, Polog. There are three or four minor tribes. Each tribe is made up of dozens of clans. Naggai are the clans of the south (which includes Irosk's). Luggai are the clans of the west (which includes Rikuu's).
 
 * [Heteri Clans](heteri_clans.md)
@@ -34,11 +44,13 @@ The main Heteri tribes: Naggai, Luggai, Polog. There are three or four minor tri
 
 ### Cities & Towns
 
-#### Ancient Heteri Cities 
+#### Ancient Heteri Cities
+
 ***(Second Epoch):** Heter, Dubhe, Nukora, Phecta, Vulag
 
-#### Traditional Heteri Cities and Communities 
-**Along the Blood Coast and Inland Territories:** Givos, Dlutuz, Sofegai, Oshej, Glaivuf, Narrosh (along the Maldaer border), Pegaigoth, Fokhei, Shaekzhul (near Mindat), Ghofeka (also near Mindat).   
+#### Traditional Heteri Cities and Communities
+
+**Along the Blood Coast and Inland Territories:** Givos, Dlutuz, Sofegai, Oshej, Glaivuf, Narrosh (along the Maldaer border), Pegaigoth, Fokhei, Shaekzhul (near Mindat), Ghofeka (also near Mindat).
 
 **Bolog** - ancient Heteri community at the base of Moniin peaks at one of the ends of the Cuvauw Pass. The hills behind the small city are lined with caves and tunnels and contain the Grand Temple of Hilinavyu. It is ruled by the Vuhwul ('king' or 'chief') Solok of the Smoking Thunder, who is descended from the Luggai Heteri tribes. His only daughter was to marry the lord of Akklai Point, but was killed during the goblin invasion. Solok is fiercely independent of both the Ghikarn'gai revolts and the goblins, and has close ties with the Temple of Hilinavyu to this end. Bolog maintains good relations of Argaevaligne, Cuvauw, and other independent communties in Balancont.
 
@@ -52,13 +64,15 @@ The city is a mix of Eslka and Heteri ethnicities, and most building are small h
 
 **Pulagesh:** Former capitol city of the Heteri lord Fiemlilvev (Femervul) Kugol (during the Third Epoch. After the siege of 400 nights, the city fell to the Mindat, aided by traitors among the Punluggai. This marked the end of third epoch and the worship of the Vapourous Host.
 
-**Teldepha** 
-* Founder: Vuchlos, son of Vuhai 
+##### Teldepha
+
+* Founder: Vuchlos, son of Vuhai
 * Purpose: Built as a fortress to hold the mountain pass into the interior plains. 
 * Geography: Set in the hills along Teldush Bay, the city sprawls down toward the docks along the water. On the highest hill sits the ancient fortress keep of Gefef.
 
-**Vedeldemoush**
-* Founder: Melaikayin, rebel Mindat Sorceror-Priest 
+##### Vedeldemoush
+
+* Founder: Melaikayin, rebel Mindat Sorceror-Priest
 * Purpose: Originally a sanctuary and cloister for the Sarpha Cult, it became of strategic purpose after the defection of Melaikayin, who brought with him the Bonewood Scepter, a "royal jewel" of the Emperor.
 
 **Dunzeldaryn** - captured from Mindat. Military fortress and center of the Punluggai revolt.
@@ -67,19 +81,18 @@ The city is a mix of Eslka and Heteri ethnicities, and most building are small h
 
 **Oshej** - ancient Heteri city-state towards eastern coast, now in ruins. Punluggai forces are camped here.
 
-**Glaivuuf** 
+**Glaivuuf** - ...
 
-**Narrosh** - (along Argaevaligne border) 
+**Narrosh** - (along Argaevaligne border)
 
 **Pelgaigosh** - ancient capitol of the Polog/Punluggai tribes. Now secondary center to Dunzeldaryn. 
 
-**Fokhei Shaezhul** - (near Mindat) 
+**Fokhei Shaezhul** - (near Mindat)
 
 **Dutuz Heter** (no longer extent) – According to legend the mythological home of the Heteri people, said to be in the nortern mountains near Bogog.
 
+## History
 
-
-### History
 Ghikarnaggai was unified in 1023 by Nefef, son of Irosk, who married daughters of the headmen of the Polog and Naggai tribes. The Punluggai were the allied Kingdom of the ancient Polog tribes, who are ethnically Heteri. After the succession of Gefef, son of Nefef, the Polog chiefs were replaced by confidants to Gefef and their coffers used to build the northern line of fortresses to defend against the encroaching alliance of Chlendi and Maldaer. The Polog unified as the Punluggai, the ancient council of the Polog and Luggai tribes when they were faced by the conquests of Lhekulot, Irosk's grandfather. Punluggai began quiet concils and organizing in the shadows of the southern cities. The Punluggai unified under Holok, of the lineage of Polog kings, and allied with the Mindat in Hopes of regaining Heteri homelands after the war.
 
 **Historical Heteri Kings (Vehwul):** Ogliard, Putuv, Irosk, Nefef, Gefef, Hugdosl, Bogog, Lhekulot, Holok, Coweulz, Gevuv. Comprised of a number tribal factioms: Naggai, Luggai, Polog, and a number of more isolated groups.
@@ -103,6 +116,7 @@ Ghikarnaggai was unified in 1023 by Nefef, son of Irosk, who married daughters o
 **Gefef:** Grandson of Nefef. Betrayed the treaty with the Mindat and fought to free Ghofeka. As a backlash, Mindat forces flanked horseman patrolling the region to destroy many towns in southern Heteri lands.
 
 ## Religion
+
 The Heteri worship a pantheon of gods headed by Utan the Destroyer, who conquered 'The Old Lords' and birthed a new family of deities. He is the god of warfare, power over others, and death.  
 
 Legends tell of the ancient worship of the Vundaelad, the Great Serpent, in Heteri and Maetah communities along the North Sea Coast. [metaphor for fishing/living off the sea?] The use of the sea serpent image can be traced back through early maetah/maldaer colonization, and is believed to be imagery and cosmology brough from their homeland We later see this imagery later used by the renegade Heteri king, Sheiluch of Punluggai (an aristocratic dynasty), in his attempts to reconquer traditional Heteri communities along the Blood Coast from Eschaltlin forces. While other factions of the Heteri nobilities supported his goals, rumours abounded about pacts with demons and the Great Serpent. Ancient stories of fishermen appeasing spirits of the ocean were acceptable, but offering the collective soul of the civilization provoked outrage amongst the remaining kingdoms and tribes. None were surprised when Sheiluch vanished amidst a naval attack on Noduan.
@@ -111,21 +125,24 @@ Legends tell of the ancient worship of the Vundaelad, the Great Serpent, in Hete
 * [Prayercloths](prayer_cloths.md)
 
 ### Death and Burial
-* Heteri prefer funeral pyres 
+
+* Heteri prefer funeral pyres
 
 #### Religious Movements
+
 * **Sarpha Cult**
 * **Hilinavyu separatists**
 * **Mustyoch heresy**
 * **Jakinta frog cults**
 
 ## Material Culture
+
 * **Heteri Broadsword**
 * [Prayercloths](prayer_cloths.md)
 * Wrapped Smoking Pipes
-**Clan Marker:** carved wooden totems, the tops of which are hollowed depressions for torches or lit pitch.
+* **Clan Marker:** carved wooden totems, the tops of which are hollowed depressions for torches or lit pitch.
 
 ## Miscellania
 
-* **Relationship with Mindat**
+* **Relationship with [Mindat](../mindat/)**
 * **Agressions with Jakinta**

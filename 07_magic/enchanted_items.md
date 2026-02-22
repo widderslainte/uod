@@ -1,4 +1,14 @@
-## Enchanted Items
+# Enchanted Items
+
+## Tomes of Magic and Philosophy
+
+* Book of the Way of the Heavans
+* Treastise on the Acts of the Righteous Mind
+* Exercises of the Breath
+* The White Book
+
+## Miscellania
+
 * Banner of Glory
 * Book of the Black Shoals
 * Black Lens
@@ -12,9 +22,3 @@
 * Spirit World Quality
 * Old Man's Smoking Leaves
 * Cloak of Green Feathers
-
-## Tomes of Magic and Philosophy
-* Book of the Way of the Heavans
-* Treastise on the Acts of the Righteous Mind
-* Exercises of the Breath
-* The White Book

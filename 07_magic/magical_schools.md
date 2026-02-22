@@ -1,13 +1,14 @@
 # Magical Schools
+
 ## Magickal Lodges of The Rhiat
 
 The magickal knowledge of Rhiat is preserved, dispersed, and instructed in a number of ways. Individual teachers, often hermits, or sorcerers in remote regions take on small numbers of pupils. Less complex traditions are taught in conjunction with other intellectual training (astronomers teach astrology, priesthood’s mysticism, etc). The most famous and effective sorcerers have left behind an intellectual tradition through generation after generation of students, similar to the academies of Plato, Socrates, and Aristotle. These are named after the founding mage. Other schools develop around a group, or faculty of teaching sorcerers, who specialize in a few of these methods or arcane knowledges.
 
 * Ozmodious
-* Azan
+* [Azan](./lodge_of_azan.md)
 * Ghaerdon
-* **Coranth** - Eskla cultural derivation. Specializes in Alchemy, multiple forms of Divination, Mediumship and Natural Philosophy 
-* [Astille](astille.md)
+* **Coranth** - Eskla cultural derivation. Specializes in Alchemy, multiple forms of Divination, Mediumship and Natural Philosophy
+* [Astille](./lodge_of_astille.md)
 * Xavier
 * Torfaine
 * Merduer
@@ -16,11 +17,13 @@ The magickal knowledge of Rhiat is preserved, dispersed, and instructed in a num
 * Mayyad
 
 ### Miscellaneous Notes
+
 * entrance requirements…skill percentages, achievements, attributes, percentages in transferable skills
 * initiation rites, degrees, inner circles, cults within groups, etc
 * lodges arranged around “current" or extra planar being…
 
-### Theoretical Rivalries 
+### Theoretical Rivalries
+
 The primary division among the magickal lodges is the spritualist/antispiritualist divide. Within each of the perspectives all of the lodges can agree on at least the most general principles.
 
 * **Antispiritualists** – Focus on matter to the exclusion of spirit.

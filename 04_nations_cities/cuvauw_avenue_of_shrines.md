@@ -4,7 +4,7 @@ The cul-de-sac in central Cuvauw holds the shrines to traditional Maetah deities
 
 The shrines are laid out in the following order, starting on the left side of the lane, following the cul-de-sac to the right side: Thedine, Hilinavyu, Ubo, Eluus, Musthyoch, Lob, Storm Mother, Uzhidhomi.
 
-### Notes on individual shrines
+## Notes on individual shrines
 
 * Thedine: The small shrine of Thedine is locked, barred, and its statue draped in black.
 

@@ -1,6 +1,7 @@
 # Rituals
 
-_Being an uncategorized listing of rites used in varies traditions):_
+_Being an uncategorized listing of rites used in varies traditions:_
+
 * Distillation of Ether
 * Corruption of the Unborn Flesh
 * Portal of Vermin

@@ -1,6 +1,6 @@
 # Pugshlow
 
-Pugshlow is a small fishing and trade port in the remote swamps of Ramush. It's still a tradtional Chlendi community in most respects, and the home of notable shamans and devotees of the old spirits. Pugshlow is the jump point to a cave-ridden hill seen as a holy shrine to many adherents.
+Pugshlow is a small fishing and trade port in the remote swamps of Ramush. It's still a traditional Chlendi community in most respects, and the home of notable shamans and devotees of the old spirits. Pugshlow is the jump point to a cave-ridden hill seen as a holy shrine to many adherents.
 
 * Ruler: (Caviefron)
 * Real Ruler:
