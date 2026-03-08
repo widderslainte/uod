@@ -8,7 +8,7 @@ The physiological traits of the Eskla vary as widely as the Maetah and Chlendi p
 
 ## Social Structures
 
-Prominent Clans - Being the mixed bloodline of the Rhiat, most Eskla of any prominence will emphasize the clan membership by using traditional names of their Chlendi or Maetah lineage. Most other Eskla, of lower social stature or prominence, take on family names from curious combinations of mundane words, often a mix of their parents surnames. While some may claim clan membership, there is little extended economic or political structure affixed like that of the Chlendi or Heteri clanship, but rather membership in a extended family.
+Prominent Clans - Being the mixed bloodline of the Rhiat, most Eskla of any prominence will emphasize the clan membership by using traditional names of their Chlendi or Maetah lineage. Most other Eskla, whether of lower social stature or prominence, take on family names from curious combinations of mundane words, often a mix of their parents surnames. While some may claim clan membership, there is little extended economic or political structure affixed like that of the Chlendi or Heteri clanship, but rather membership in a extended family.
 
 ## History
 
@@ -18,7 +18,7 @@ Just over a thousand years ago, in the face of the encroaching Mindat forces, th
 
 ## Religion
 
-The Eskla worship a polytheistic pantheon, comprised of mostly Maetah deities, with a few Heteri gods and elevated Chlendi spirits thrown in:
+The Eskla worship a syncretic pantheon, comprised of mostly Maetah deities, with a few Heteri gods and elevated Chlendi spirits thrown in:
 
 * Chuglaior - Spirits, Magic, Knowledge
 * Eluus - Agriculture, Fertility, Vegetation

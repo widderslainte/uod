@@ -1,4 +1,4 @@
-## Clan of the Sunset Moss
+# Clan of the Sunset Moss
 
 The Clan of the Sunset Moss, or Qod Etherhi, are only of founding clans of the Chlendi settlements of the Rhiat.  They are historically notable for taking the Chlendi crown in one of the few interruptions of the Black Lily dynasty. After an occurrence of the Chlendi Black Pox on the mainland, Iminir of the Black Lily Crown offered himself in sacrifice to Paeglaphiis, Chlendi spirit of disease. Lacking a an heir Iminir's cousin, Shokinnan of the Sunset Moss, took the crown and seat upon the Crooked Throne.  Shokinnan and his clan held title for almost 150 years before an arranged marriage restored the Black Lily to their rightful spot in 1687.
 
