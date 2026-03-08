@@ -1,13 +1,16 @@
 # Individuals of Note
+
 _Listed by their locale of first encounter_
 
 ## The Rhiat
 
 ### Bolog
+
 * Dr Mupheus Thoad - doctor of extraordninary skill, but questionable methods
 * Solok of the Smoking Thunder - Vuhwul of Bolog 
 
 ### Cuvauw
+
 * _Baron Ilwaen (deceased)_
 * Elle Ilwaen - Baron Ilwaen's Daughter for (former?) paramour of Viktor
 * Glaiush of Shattered Hoof - Guildmaster, Commerce Guild, Cuvauw
@@ -17,13 +20,15 @@ _Listed by their locale of first encounter_
 * Vutashan - Son of the Comte
 * Shodukushaal - Vutashan's tutor
 * Lord Sanna - Contact in The Order of the Velvet Glove.
-* Goaine - Priest of Thedine and agent of the Society of the Black Earth 
+* Goaine - Priest of Thedine and agent of the Society of the Black Earth
 
 ### Givos
+
 * Mivuhwul Isasnias Koman - ruler of Givos
-* Captain Nivinak - leader of the Goblin forces in Givos 
+* Captain Nivinak - leader of the Goblin forces in Givos
 
 ### Imphomonee
+
 * Maelig
 * Foowadu Dul - Assistant Guildmaster, Guild of Arms, Imphomonee
 * Jezeheb - Prominent Painter in the Minkush Valley
@@ -31,15 +36,18 @@ _Listed by their locale of first encounter_
 * Lady Lelast - Contact in the Order of the Velvet Glove. 
 
 ### Vennosat City
-* Ivali Bon - an uncouth, hunchback trader. Ally of the Lamplighters. 
+
+* Ivali Bon - an uncouth, hunchback trader. Ally of the Lamplighters.
 * [Vennosat Caius](vennosat_caius.md)
 
 ### Others
+
 * [The Magosh of Sofegai](the_magosh_of_sofegai.md)
 * [Favod the Younger](favod_the_younger.md)
 * [Miscellanrous People](miscellaneous_people.md)
 
 ## The Dream Realm
+
 * Johud - Current Ruler of the Dream Realm
 * Sabbah
 * The Attendent - Johud's right hand man
@@ -47,23 +55,24 @@ _Listed by their locale of first encounter_
 * Yorgo - the Old Torturer
 * The Walker in the Wastes - former ruler of the Dream Realm
 * Valloy
-* Kolan - Barrister General of the Dream Realms. Sole employer of nogs in the Dream Realm. Can nullify soul contracts. 
+* Kolan - Barrister General of the Dream Realms. Sole employer of nogs in the Dream Realm. Can nullify soul contracts.
 
 ## Jungles of the South
+
 * [Grandmother Moss](grandmother_moss.md)
 * The Governor of Tuloi
 * The Wooden Priest
 * Onesuli
 
-## Noble Families
+## Notable Noble Families
 
-* **Auberge** -- Maetah (Cuvauw, formerly Akklai Point) Being Po'
+* **Auberge** -- Maetah (Cuvauw, formerly Akklai Point) - Being Po'
 * **Beq** -- Mindat
 * **Commun** -- Eskla (Chlendi)
 * **Cydierni** -- Chlendi
 * **Edszhe** -- Chelndi
 * **Eldwere** -- Eskla (Maetah)
-* **Enfer** -- Eskla (Maetah)
+* **Enfer** -- Maetah
 * **Ghienere** -- Heteri
 * **Guffan** -- Heteri (Cuvauw, Balancont)
 * **Kohut** -- Heteri
@@ -77,4 +86,4 @@ _Listed by their locale of first encounter_
 * **Spanadad** -- Maetah
 * **Strasi** -- Mindat
 * **Tela** - Eskla (Maetah)
-* **Thive, Clan of the Raining Fields** - Chlendi - (Cuvauw) - Much of the arable farmland outside of Cuvauw, with a near monolopy of the western lands below the river 
+* **Thive, Clan of the Raining Fields** - Chlendi - (Cuvauw) - Much of the arable farmland outside of Cuvauw, with a near monolopy of the western lands below the river.

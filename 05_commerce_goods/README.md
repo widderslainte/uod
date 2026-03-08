@@ -4,7 +4,7 @@
 * Banking & Credit
 * Trade Routes
 
-# Technology & Goods
+## Technology & Goods
 
 * [Agriculture & Subsistence](agriculture.md)
 * [Armour](armor_descriptions.md)
@@ -17,4 +17,5 @@
 * [Law and Punishment](law_punishment.md)
 
 ## Game Notes
-* [Equipment List Preview](uod_equipment_preview.md)
+
+* [Equipment List](appendix_u_items.md)

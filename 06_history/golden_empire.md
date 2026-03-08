@@ -1,3 +1,5 @@
+# The Golden Empire
+
 The Golden Empire was the high point of Heteri civilization in western Rhiat. Many tribes and city-states forged alliances and intermarried as a response to the growing power of the newly arrived Chlendi in the north, and the spread of Mindat culture to the south. The Golden Empire encompassed the southern Minkush River Valley, (now) Balancont, and Vennosat at its height.
 
 Bogog, a Heteri chief of the Naggai tribe, ruled the burgeoning city-state of Akklai in (what is now) southern Balancont. He married the daughters of the chiefs ruling Ven-no-sat and Minkushtown, and allied with the Vuhwuls of Cuvauw, Vhaemuth, and border towns to the east, united them under his banner. The alliance lasted for nearly 200 years, as he fought Sofegai and rival chiefs to the west, and stabilize relations with the Chlendi to the north. He supported the Chlendi during the onset of the Black Pox, beginning a relationship that would prove the Empire downfall. Needing allying against rival Heteri chiefs and the encroaching Mindat, the Golden Empire allied with Chlendi clans, who saw a strong southern neighbor in their conquest of the Maetah.

@@ -1,10 +1,11 @@
-## Cultural Armor and Weapon Preferences
+# Cultural Armor and Weapon Preferences
 
-### Argaevaligne, Maetah Tribes, and the North
+## Argaevaligne, Maetah Tribes, and the North
 
 **Armor:**
-* Breast & Back 
-* Buff Coat 
+
+* Breast & Back
+* Buff Coat
 * Cloak
 * Furs
 * Helmets, various and (among tribes) armored mask
@@ -13,8 +14,8 @@
 * Leather - Light, Cuir Bouilli, or Studded
 * Leather scale armour
 * Maile, Hauberk and Shirt
-* Maile, Plated 
-* Pitch Jacket 
+* Maile, Plated
+* Pitch Jacket
 * Shields
 
 **Weapons:** Battle axe; Bow (long bow, short bow); Cestus (including hook, knuckledusters); Crossbow; Dagger (including Main-gauche, Poignard); Dart; Hand axe; Flail; Lance; Mace; Polearm (Bill, Glaive, Halberd, Mancatcher, Poleaxe); Quarterstaff; Sickle, straight; Spear; Spear, long; Sword (Cutlass, Long sword, Sabre, Short); Two-handed axe; Warhammer
@@ -22,6 +23,7 @@
 ### Traditional Chlendi Lands and Ramush
 
 **Armor:**
+
 * Breast & Back 
 * Hides, Regional
 * Leather - Light or Studded
@@ -31,25 +33,29 @@
 **Weapons:** Bow - short; Caltrop; Crossbow; Dagger (including Jambiya); Dart; Hand axe; Hookspear; Flail; Quarterstaff; Polearm (Billhook, Mancatcher, Military Fork); Sling; Spear; Spear, long; Spiked Club; Staff sling; Sword (Cutlass, Long sword, Short, Tulwar)
 
 ### Minkush Valley, Southern Coast, and Eskla Communities
+
 **Armor:**
-* Breast & Back 
-* Buff Coat 
+
+* Breast & Back
+* Buff Coat
 * Cloak
 * Codpiece, mundane
-* Helmets, various 
+* Helmets, various
 * Lamellar, Metal
 * Leather - Light, Cuir Bouilli, or Studded
 * Leather scale armour
 * Maile, Hauberk and Shirt
-* Pitch Jacket 
+* Pitch Jacket
 * Shields
 
 **Weapons:** Battle axe; Bow (long bow, short bow); Caltrop; Cestus (including bagnahk, hook, knuckledusters); Crossbow; Dagger (including Jambiya, Poignard, Stilleto); Dart; Hand axe; Lance; Mace; Polearm (Fauchard, Glaive, Halberd, Poleaxe); Quarterstaff; Spear; Sword (Arming, Cutlass, Long sword, Rapier, Short sword; Tulwar); Two-handed axe; Warhammer
 
 ### Ghikarn and Heteri Communities
+
 **Armor:**
-* Brigandine 
-* Buff Coat 
+
+* Brigandine
+* Buff Coat
 * Codpiece, mundane
 * Furs
 * Helmets, various (and armored mask in southern regions)
@@ -57,15 +63,17 @@
 * Leather - Cuir Bouilli, or Studded
 * Leather scale armour
 * Maile, Hauberk and Shirt
-* Pitch Jacket 
+* Pitch Jacket
 * Shields
 
 **Weapons:** Battle axe; Bow (long bow, short bow); Cestus (including hook, knuckledusters); Crossbow; Dagger (including Khanjar, Stilleto); Flail; Hand axe; Lance; Mace; Mace-Axe; Polearm (Bardiche, Halberd, Poleaxe, Tetsubo); Sling; Spear; Spear, long; Sword (Heteri broadsword, Sabre, Short); Warhammer
 
 ### Mindat
+
 **Armor:**
-* Breast & Back 
-* Brigandine 
+
+* Breast & Back
+* Brigandine
 * Cloak
 * Helmets - various, or armored mask
 * Hide, Zhouna
@@ -78,27 +86,25 @@
 
 **Weapons:** Blowgun; Bow (long bow, short bow); Caltrop; Crossbow; Dagger (including Kris, Push); Dart; Hand axe; Flail, Lance; Mace; Polearm (Fauchard, Tetsubo, Voulge); Quarterstaff; Spear; Spear, long; Staff-sling - stone or pot; Spiked Club; Sword (Cutlass, Khopesh, Short Ninjato, Tulwar); Two-handed axe; Warhammer
 
-
-
 ### Other Areas
 
 **Armor:**
-* Bone and Wood armor 
-* Hides, Regional 
+
+* Bone and Wood armor
+* Hides, Regional
 * Leather, Light
 * Padded (layered cloth)
 
 **Weapons:** Blowgun - barbed dart or needle; Bola; Bow, short; Club; Dagger, Bone dagger; Hand axe, Harpoon - Bone or Stone; Knife, Bone knife; Quarterstaff; Sling; Spear, Spiked Club
 
-
 ## Armor Reference
 
-|**Armor**			| Rural | City | AC	 | Encumbrance | Max Move | Availability |
+|**Armor**.         | Rural | City | AC  | Encumbrance | Max Move | Availability |
 |-------------------|-------|------|-----|-------------|----------|--------------|
-| _Clothing Only_	| _-_	| _-_  | _0_ | -	| 120' | _Common_
+| _Clothing Only_.  | _-_   | _-_  | _0_ | -           | 120'     | _Common_     |
 | Breast & Back     |  -    |  50  | 4   | 300  | 90'  | Common
 | Buff Coat         |  30   |  15  | 1   | 100  | 120' | Common
-| Brigandine	    |  -    | 120  | 3	 | 350  | 120' | Common
+| Brigandine.       |  -    | 120  | 3	 | 350  | 120' | Common
 | Cloak             |   1   |   1  | 1   |  20  | 120' | Common
 | Codpiece, mundane |  -    |   1  | 0   |   0  | 120' | Common
 | Helmet, skullcap  |  10   |   5  | 0   |   2  | 120' | Common
@@ -121,18 +127,8 @@
 | Studded Leather 	|  25	|  25  | 3	 | 200  | 90'  | Common
 | Leather Scale     | --    |  40  | 3   | 250  | 90'  | Common
 
-
-#### LotFP Armor Reference
-
-| **Type**      | Rural | City  | AC |
-|---------------|-------|-------|----|
-| Light         | 50    |   25  | 7  |
-| Medium        | --    |  100  | 5  |
-| Heavy         | --    | 1000  | 3  |
-| Shield        | 25    |   10  | -2 |
-| Helmet        | 10    |    5  | \* |
-
 ### Armor Descriptions
+
 * Breast & Back - pair of steel plates worn over the chest, often with a soft leather garment underneath. The back plate is typically excluded by cavalry.
 * Brigandine - long coat of leather bands, each studded and embedded with steel plates.
 * Buff Coat - heavy coat of quilted cloth, often in multiple layers.
@@ -140,12 +136,12 @@
 * Cloak - heavy cloth garment of wool, cotton or other material, used hung over offhand arm as shield and for weapon entanglment.
 * Furs - soft leather or hide coat, tunic, or jacket padded with heavy furs for warmth, treat as padded armour.
 * Helmets
-    * Helmet, Skullcap
-    * Helmet, Kettle
-    * Helmet, Sallet
-    * Armored Mask
+  * Helmet, Skullcap
+  * Helmet, Kettle
+  * Helmet, Sallet
+  * Armored Mask
 * Hides, Regional
-* N/A -- Hide, Zhouna - stripes of the hide of zhounas, the reptilian riding beasts of the Mindat.
+  * N/A -- Hide, Zhouna - stripes of the hide of zhounas, the reptilian riding beasts of the Mindat.
 * Leather, Cuir Bouilli
 * Leather scale armour - overlapping scales of oil cured leather.
 * Maile, Hauberk - long sleeved, ankle length coat and skirt of steel rings, linked in one to four pattern.
