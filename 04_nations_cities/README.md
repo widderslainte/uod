@@ -12,7 +12,7 @@
   * [Noduan](noduan.md)
 * [Ghikarn'gai](ghikarngai.md)
   * [Bolog](bolog.md)
-  * [Dunzeldaryn](dunzeuldaryn.md) 
+  * [Dunzeldaryn](dunzeldaryn.md)
   * Fokhei Shaezhul
   * [Givos](givos.md)
   * Glaivuuf

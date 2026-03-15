@@ -1,6 +1,7 @@
 # Argaevaligne
-### Summary
-_(ar-GAY-vaLINE)_
+
+## Summary
+_(ar-GAY-vaLINE)._
 
 Theocratic Monarchy allied with the Church of Thedine (Th-di-NAY) and the Society of the Black Earth. Common ethnicity is of Maetah descent, and most speak North Common. Located along the Maldaer Plateau in the Northern Rhiat, with borders in the mountains to the south, the Minkush river to the west, the North Sea coast and waterways to the east respectively. The capitol is Meriburne.
 
@@ -26,20 +27,20 @@ The primarily and sole legal religion is the national Church of Thedine, and agr
 
 The current baronies (and a few others no longer extant) grew out of the clan settlements of Maetah that moved further inland. The exception is Meriburne which unified a number of smaller clans and struggled against other North Sea towns. After seeing the traditional Heteri foes crushed by the encroaching Mindat, the inland clans accepted the leadership of the Chlendi and allied as the Eschlatli, or �?People of Righteousness�?, around 1900 (Mindat Reckoning). In successive centuries and the Eschlatli expanded to include much of northern Rhiat, and Maetah communities were unified under the governor of the Argaevaligne Province. Over the years Argaevaligne grew isolated and independent as the political center of the Eschlatli moved south. After the collapse of the Eschlatli, the Baron of Meribune unified five of the other baronies under the faith of Thedine.
 
-
-
 ## Towns & Cities
+
 Meriburne – Central barony in Argaevaligne, located along the North Sea coast. Current Governor of Argaevaligne and seat of the Church since the state’s foundation.
 
 Ewwin – Northwestern barony of Argaevaligne, closest to Ramush border. Founder was an early Duke of the Eschaltli Republic who was renown for crushing rogue Chlendi outposts in the nearby hills. The barony is staunchly conservative and aggressive today.
 
 Bludelm – The wealthiest of the Baronies, trading ore with Nipend and Balancont. They suffer from conflict with mountain tribes and only pay lip service to the Church.
 
-Mhodara – Mhodara shows the most traditional elements of Maetah culture and social relations are still based on clan pacts centuries in age.
+Mhodara – Mhodara shows the most traditional elements of Maetah culture and social relations are still based on clan pacts centuries in age.  They have regular conflicts with the costal Maetah tribes
 
 Dunve – isolationist barony in the southeast. Remain insular and neutral in the face of nearby Ghikarn’gai civil war.
 
 ## Cultural Notes
+
 Birth - midwife, often a grandmother of other trained female relative brought in once mother is unable to tend to fields or care for other children. At this time the mother remains in the family home. Shortly before birth, the mother and midwife retire in private to the birthing house at the local Church of Thedine, where necessary fertility blessings are made by the priest. Father is not present at the time of birth.
 
 Maturity - Males - Mother cuts off braid of hair. Father gives helm. Hunting trip to kill first boar for family. Females - bracelet of yarn or ribbon in clan colours worn on wrist as necklace to symbolize availability for marriage.
@@ -53,50 +54,59 @@ Clothing Among the peasants and lower classes, dress is simply. A sleeveless tun
 Food Maetah communities began to raise cattle once they acclimated to the Northern Rhiat climate. These cloven hoofed bovines are bred for meat and milk and have heavy woolly coats of brown and black fur, which is warm but difficult to weave. Their favoured domesticate animal is the northern swine, which is has been bred for generations for ham and pork, but has resulted in some inbred mutations. Superfluous tusks are common, and many have difficulty in moving their vast weight on short and crippled legs. In hillier regions sheep and goats are also raised. Near the coast, a variety of fish and large shellfish are harvested, some of which is dried, slated, and shipped inland. Deer, turkey, and other small game are hunted, which supplements small-time horticultural garden vegetables as well as gathered wild onions, potatoes, nuts and berries.
 
 ## If You're from Argaevaligne
+
 ### Home & Food
 
-Your largest meal is in the evening.
-You don't consider dogs, horses, insects, or reptiles to be food. Fish, snails, shellfish, and rabbits are though. Swine, cattle, deer, and garden vegetables are common meals.
-Unless you are of low class, a fisherman, or live in a rural areas, you rarely kill your own food, unless it's hunting season.
-You eat at a table, sitting on benches or chairs, with your family.
-Grain liquors, beers, and ale are common beverages.
-Unless you're wealthy, the outhouse is a separate building and your home has a dirt floor.
-Work & Travel
+* Your largest meal is in the evening.
+* You don't consider dogs, horses, insects, or reptiles to be food. Fish, snails, shellfish, and rabbits are though. Swine, cattle, deer, and garden vegetables are common meals.
+* Unless you are of low class, a fisherman, or live in a rural areas, you rarely kill your own food, unless it's hunting season.
+* You eat at a table, sitting on benches or chairs, with your family.
+* Grain liquors, beers, and ale are common beverages.
+* Unless you're wealthy, the outhouse is a separate building and your home has a dirt floor.
 
-You work six days a week, the middle day of which is spent at the Temple or local shrine.
-You've probably never been more than a day's ride from your home village. If you are wealthy, you may have seen one or more of the other cities in Argaevaligne. Aside from Merchants, few have passed
-the borders
+### Work & Travel
+
+* You work six days a week, the middle day of which is spent at the Temple or local shrine.
+* You've probably never been more than a day's ride from your home village. If you are wealthy, you may have seen one or more of the other cities in Argaevaligne. Aside from Merchants, few have passed the borders.
 
 ### Weather
 
-You have a fireplace or hearth at home, which is heated 8-9 months of the year at night.
-Winters are snowy, the spring and late summer very, very wet.
-Winter storms can be nasty, and leave multiple feet of snow near the hills. The coastal regions have large storms and the occasional hurricane.
+* You have a fireplace or hearth at home, which is heated 8-9 months of the year at night.
+* Winters are snowy, the spring and late summer very, very wet.
+* Winter storms can be nasty, and leave multiple feet of snow near the hills. The coastal regions have large storms and the occasional hurricane.
 
 ### Entertainment
 
-Typical jokes target the Ramush or the old Maetah towns to the north
-Informal entertainment is drinking, songs, and storyteller around the fire, often at local taverns.
-Once or twice a year, you'll attend plays or performences by traveller troubadors.
+* Typical jokes target the Ramush or the old Maetah towns to the north
+* Informal entertainment is drinking, songs, and storyteller around the fire, often at local taverns.
+* Once or twice a year, you'll attend plays or performences by traveller troubadors.
 
 ### Weapons and Warfare
 
-You may have shot a pistol or rifle, but don't have one unless it's a family heirloom.
-You probably don't own a sword, but you've got some nasty farming implements, and perhaps a bow.
-You seen people die, but not killed yourself. Unless you live in the borderlands.
-To be continued...
+* You may have shot a pistol or rifle, but don't have one unless it's a family heirloom.
+* You probably don't own a sword, but you've got some nasty farming implements, and perhaps a bow.
+* You seen people die, but not killed yourself. Unless you live in the borderlands.
+* To be continued...
 
 ## The Four Grand Families
+
 ### Meriburne
+
 * Heraldry: Gold crown on a ivory field
 * Lands: Meriburne
+
 ### Enfer
+
 * Heraldry: Mustard serpent on a crimson field
 * Lands: Enfer controls the fiefdom of Bluedelm and hold considerable influence in Dunve as well.
+
 ### Caviefron
+
 * Heraldry: Red steer horns on a field of white
 * Lands: Ewwin
 * Notes: Some lineages said to have sympathies towards Ramush
+
 ### Spanadad
+
 * Heraldry: Black boar on a green field
 * Lands: The Spanadad clan holds the region Mhodora as their fief.
