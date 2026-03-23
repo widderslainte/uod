@@ -13,7 +13,7 @@
 * [Medicinal and Alchemical Goods](medicine_alchemy.md)
 * [Trade Goods](trade_goods.md)
 * [Transportation](transportation.md)
-* [Weapons & Military Innovation](weapons.md)
+* [Weapons & Armour](weapons.md)
 * [Law and Punishment](law_punishment.md)
 
 ## Game Notes
