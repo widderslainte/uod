@@ -1,7 +1,6 @@
-## Chlendi Numbers
+# Chlendi Numbers
 
-It's been a long and crazy week in Dr. Thoad's lab, so instead of
-treatise on Chlendi Land Squid anatomy, you get some numbers.
+It's been a long and crazy week in Dr. Thoad's lab, so instead of treatise on Chlendi Land Squid anatomy, you get some numbers.
 
 zero - nal
 one - yal
