@@ -1,13 +1,13 @@
 # Individuals of Note
 
-_Listed by their locale of first encounter_
+__Listed by their locale of first encounter_
 
 ## The Rhiat
 
 ### Bolog
 
-* Dr Mupheus Thoad - doctor of extraordninary skill, but questionable methods
-* Solok of the Smoking Thunder - Vuhwul of Bolog 
+* Dr Mupheus Thoad - doctor of extraordinary skill ("Noted Physician, Scholar, Alchemist, Natural Philosopher, etc"), but questionable methods.  Expert in vivisectional solutions.
+* Solok of the Smoking Thunder - Vuhwul of Bolog
 
 ### Cuvauw
 
@@ -44,7 +44,8 @@ _Listed by their locale of first encounter_
 
 * [The Magosh of Sofegai](the_magosh_of_sofegai.md)
 * [Favod the Younger](favod_the_younger.md)
-* [Miscellanrous People](miscellaneous_people.md)
+* [Miscellaneous People](miscellaneous_people.md)
+* Doctor Spauler Ephricant - "Certified Alchemist and Noted Physician" - Rogue (_not_ certified) alchemist and rival to Dr. Thoad.  Roams from city to city in the Minkush River Valley with an elaborate wagon and nog helpers, hawking elixirs and unguents.  Widely known for "The Apparatus", a mechanical device of unknown functionality. Definitely not a serial killer.
 
 ## The Dream Realm
 
